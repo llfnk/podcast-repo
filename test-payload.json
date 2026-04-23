@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-23",
+  "items": [
+    {
+      "title": "Test: poseł X mówi co innego niż 3 lata temu",
+      "summary": "To jest przykładowy news do testu skryptu. Sprawdź czy embed wygląda OK na Discordzie. Jeśli widzisz kolor, tytuł, opis i kąt — działa.",
+      "angle": "Klasyczna hipokryzja — można porównać dwa cytaty obok siebie.",
+      "category": "polityka",
+      "url": "https://example.com/news/1",
+      "source": "Przykład.pl"
+    },
+    {
+      "title": "Test: korporacja Y łamie własny kodeks etyki",
+      "summary": "Drugi przykładowy news do testu. Inna kategoria, inny kolor.",
+      "angle": "Pokazać im ich własną stronę 'wartości' i to co właśnie zrobili.",
+      "category": "korporacja",
+      "url": "https://example.com/news/2",
+      "source": "Przykład.pl"
+    }
+  ]
+}

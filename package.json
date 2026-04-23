@@ -1,0 +1,14 @@
+{
+  "name": "podcast-rage-feed",
+  "version": "1.0.0",
+  "description": "Codzienny feed absurdów do podcastu, generowany przez Claude Code i wysyłany na Discord",
+  "main": "send-discord.js",
+  "scripts": {
+    "send": "node send-discord.js payload.json",
+    "test:send": "node send-discord.js test-payload.json"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
