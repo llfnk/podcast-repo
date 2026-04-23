@@ -1,3 +1,24 @@
 {
-  "items": []
+  "items": [
+    {
+      "date": "2026-04-23",
+      "title": "TSUE: płaciłeś odsetki od pieniędzy, których bank ci nigdy nie dał",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-dla-odsetek-od-oplat-i-prowizji-TSUE-wydal-kluczowy-wyrok-9121549.html"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Szef BBN bez dostępu do tajemnic państwowych — bo rząd mu odebrał poświadczenie",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11237406,trzesienie-ziemi-w-bbn-slawomir-cenckiewicz-rezygnuje-i-uderza-w-rzad.html"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "TVN24 przerwało przemowę laureata nagrody — widzowie pro-koalicyjni ogłaszają bojkot stacji",
+      "url": "https://www.wprost.pl/kraj/12309282/bojkot-tvn-burza-po-tym-jak-stacja-potraktowala-andrzeja-seweryna.html"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Rząd zamknął TVP, a potem zapłacił jej prawie milion za relację z uroczystości",
+      "url": "https://www.money.pl/gospodarka/media-mon-zaplacilo-tvp-899-tys-zl-za-transmisje-swieta-wojska-polskiego-7277760668674336a.html"
+    }
+  ]
 }
