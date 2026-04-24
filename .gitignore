@@ -1,6 +1,5 @@
 node_modules/
 .env
 .env.local
-payload.json
 *.log
 .DS_Store
