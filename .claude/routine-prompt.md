@@ -42,40 +42,61 @@ sytuacje "zasady dla was, nie dla nas".
 
 6. **Zapisz wynik do pliku `payload.json`** w tym formacie:
 
-```json
-{
-  "date": "2026-04-23",
-  "items": [
-    {
-      "title": "...",
-      "summary": "...",
-      "angle": "...",
-      "category": "polityka",
-      "url": "https://...",
-      "source": "..."
-    }
-  ]
-}
-```
+   ```json
+   {
+     "date": "YYYY-MM-DD",
+     "items": [
+       {
+         "title": "...",
+         "summary": "...",
+         "angle": "...",
+         "category": "polityka",
+         "url": "https://...",
+         "source": "..."
+       }
+     ]
+   }
+   ```
 
-7. **Uruchom `node send-discord.js payload.json`**. Skrypt sam zwaliduje
-   strukturę i wyśle webhook. Jeśli zwróci błąd — przeczytaj go i popraw
-   payload.
+   **Cudzysłowy w JSON-ie — uwaga:** jeśli w `title`/`summary`/`angle`
+   cytujesz czyjąś wypowiedź, użyj **polskich cudzysłowów „…"** lub
+   **apostrofów '…'**, NIE zwykłych `"…"`. Zwykły `"` wewnątrz stringa
+   łamie JSON i trzeba go escape'ować przez `\"` — łatwo o błąd.
+   Po zapisaniu **zawsze zwaliduj**:
 
-8. **Zaktualizuj `history.json`**: dopisz każdy wysłany item jako obiekt
-   z polami `date`, `title`, `url`. Zostaw w pliku tylko ostatnie 30 dni
-   (starsze wytnij — ma się nie rozrastać w nieskończoność).
+   ```
+   node -e "JSON.parse(require('fs').readFileSync('payload.json','utf8'))" && echo OK
+   ```
 
-9. **Zacommituj** zmiany w `history.json` z wiadomością
-   `chore: history update YYYY-MM-DD` i zpushuj.
+   Jeśli rzuci błędem — popraw cudzysłowy i spróbuj ponownie, zanim
+   przejdziesz do commita.
+
+7. **Zaktualizuj `history.json`**: dopisz każdy item z dzisiejszego payloadu
+   jako obiekt z polami `date`, `title`, `url`. Zostaw w pliku tylko ostatnie
+   30 dni (starsze wytnij — ma się nie rozrastać w nieskończoność).
+
+8. **Zacommituj i zpushuj** `payload.json` oraz `history.json` jednym
+   commitem z wiadomością `chore: rage feed YYYY-MM-DD`.
+
+   **Webhooka NIE wysyłaj samodzielnie.** `discord.com` jest zablokowany
+   w tym sandboxie (Host not in allowlist). Wysyłką zajmuje się GitHub
+   Actions workflow `.github/workflows/send-discord.yml` — trigger'uje się
+   na push zmieniający `payload.json`, odpala `node send-discord.js
+   payload.json` z `DISCORD_WEBHOOK_URL` pobranym z GitHub Secrets.
+   Twoim zadaniem jest tylko zpushować poprawny payload.
+
+   **Pusty dzień:** zapisz `payload.json` jako `{"items": []}`, zacommituj
+   i pushuj tak samo — Actions wyśle krótką notkę o pustym dniu.
 
 ## Czego nie robić
 
-- Nie wysyłaj webhooka, jeśli nie znalazłeś nic sensownego. Lepiej pusty
-  dzień niż wypełniacz. W takim wypadku wyślij krótki webhook
-  `{"items": []}` — skrypt obsłuży to grzecznie ("Dziś nic ciekawego").
+- Nie próbuj wysyłać webhooka bezpośrednio (`curl` / `node send-discord.js`)
+  — `discord.com` jest zablokowany w tym sandboxie. Wysyłkę robi GitHub
+  Actions po push'u.
 - Nie wymyślaj newsów. Każdy item musi mieć prawdziwy URL, który dało
   się otworzyć podczas web search.
 - Nie podsyłaj rzeczy starszych niż 48h.
 - Nie powtarzaj tematów z `history.json`, nawet w innym opakowaniu.
 - Nie cytuj artykułów dosłownie ponad 15 słów — parafrazuj.
+- Nie commituj pustego payloadu tylko po to, żeby coś wysłać. Jeśli nic
+  sensownego nie znalazłeś — `{"items": []}` jest w porządku, wypełniacze nie.
