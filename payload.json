@@ -1,29 +1,37 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "items": [
     {
-      "title": "Prezes BOŚ odkrył nadużycia w wydatkach zarządu — zwolniony natychmiast. Po 6 tygodniach wraca",
-      "summary": "Bartosz Kublik, prezes Banku Ochrony Środowiska (bank z udziałem Skarbu Państwa), 13 marca stracił pracę ze skutkiem natychmiastowym — oficjalnie bez podania powodów. Nieoficjalnie: przeprowadził audyt wydatków władz banku i wykrył poważne nieprawidłowości, m.in. w zakresie kart służbowych. 24 kwietnia ta sama rada nadzorcza powołała go ponownie, a 27 kwietnia formalnie objął stanowisko.",
-      "angle": "Klasyczny mechanizm: wyciągasz na wierzch nadużycia wewnątrz instytucji i zamiast nagrody dostajesz wymówienie. Powrót po 6 tygodniach bez jednego słowa wyjaśnienia sugeruje, że ktoś zadbał o swoje ślady — albo że Rada zdała sobie sprawę z gafy, lecz nadal nie zamierza nic tłumaczyć publicznie.",
-      "category": "korporacja",
-      "url": "https://www.bankier.pl/wiadomosc/RN-BOS-powolala-na-prezesa-zarzadu-Bartosza-Kublika-9122476.html",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "ABW wiedziało od 2018: rosyjska mafia przejęła Zondacrypto — nikt przez 8 lat nie zareagował",
-      "summary": "Gazeta Wyborcza ujawniła tajną notatkę ABW: rosyjska zorganizowana grupa przestępcza 'tambowcy' — historycznie powiązana z Władimirem Putinem — nabyła większościowe udziały w giełdzie Zondacrypto (wtedy BitBay) w lipcu 2018. Zapłaciła dwie raty po 'kilkadziesiąt milionów euro' każda, przez spółki zarejestrowane w Zjednoczonych Emiratach Arabskich. Polskie służby wiedziały o tym od lat — ani rząd PiS, ani koalicja Tuska nie podjęły żadnych działań.",
-      "angle": "Przez ponad 8 lat w centrum polskiej sceny finansowej działała firma de facto kontrolowana przez rosyjską przestępczość zorganizowaną z koneksjami do Kremla. Służby miały dokumenty i milczały. To nie przeoczenie — to systemowa bezsilność albo coś gorszego.",
+      "title": "PE odebrał immunitet Obajtekowi, Jakiemu, Braunowi i Buczkowi — w jeden dzień",
+      "summary": "Parlament Europejski uchylił dziś immunitety czterem polskim europosłom naraz. Obajtek odpowie za wycofanie tygodnika 'NIE' z Orlenu i Poczty Polskiej; Jaki — za prywatny akt oskarżenia od sędziego Tulei; Braun — za blokowanie drogi w Jedwabnem podczas rocznicy mordu (to już jego czwarte uchylenie!); Buczek — za wyrwanie megafonu podczas wieczoru wyborczego.",
+      "angle": "Czterech europosłów, cztery kompletnie różne sprawy, jeden dzień — polska kolekcja absurdów skatalogowana przez Strasburg.",
       "category": "polityka",
-      "url": "https://tvn24.pl/biznes/z-kraju/rosyjska-mafia-i-zondacrypto-gazeta-wyborcza-grupa-przestepcza-tambowcy-z-wiekszosciowymi-udzialami-w-gieldzie-kryptowalut-st9018540",
-      "source": "TVN24 (za Gazetą Wyborczą)"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-04-28/obajtek-jaki-braun-i-buczek-bez-immunitetow-parlament-europejski-zdecydowal/",
+      "source": "Polsat News"
     },
     {
-      "title": "Eurostat: deficyt Polski 7,3% PKB w 2025 — drugi największy w UE. W 2026 będziemy pierwsi",
-      "summary": "Oficjalne dane Eurostatu potwierdzają: sektor finansów publicznych w Polsce zakończył 2025 rok z deficytem 7,3% PKB — przy unijnej średniej 3,1%. Wyprzedza nas jedynie Rumunia (7,9%), ale ona już zaciska pasa. Prognozy wskazują, że w 2026 Polska przesunie się na pierwsze miejsce. Dług publiczny wzrósł z 48,8% PKB w 2019 r. do 59,7% na koniec 2025 r.",
-      "angle": "Obecny rząd wygrał wybory m.in. pod hasłem naprawy finansów. Po 2,5 roku rządzenia mamy oficjalnie potwierdzony drugi największy deficyt w całej Unii. Serwisy rządowe donoszą o wzroście PKB i sukcesach eksportowych. Eurostat dostaje liczby.",
-      "category": "urzędy",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-z-drugim-najwiekszym-deficytem-fiskalnym-w-Unii-Europejskiej-9122439.html",
+      "title": "Romanowski ścigany ENA mieszka w Budapeszcie u pracownika frakcji Orbána",
+      "summary": "Były wiceminister sprawiedliwości PiS Marcin Romanowski, ścigany Europejskim Nakazem Aresztowania w sprawie Funduszu Sprawiedliwości, mieszka w Budapeszcie w mieszkaniu należącym do pracownika frakcji parlamentarnej Fideszu — człowieka zatrudnionego przez szefa frakcji Mátégo Kocsiса. Romanowski jest tam od grudnia 2024; ujawnił to węgierski portal śledczy Direkt36.",
+      "angle": "Zamiast ekstradycji — gościnny pokój w kadrach Orbána: to nie polityczny azyl, to instytucjonalna solidarność partnerów ponad europejskim prawem.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/znalezli-romanowskiego-mieszka-u-pracownika-fideszu-7280087685974464a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Były prezydent Duda w radzie nadzorczej ZEN.COM — prokuratura bada spółkę",
+      "summary": "Prokuratura Okręgowa w Warszawie wszczęła czynności sprawdzające wobec ZEN.COM — spółki, w której radzie nadzorczej zasiada były prezydent Andrzej Duda od października 2025. Według mediów firma miała umożliwiać płatności za nielegalne gry hazardowe w Polsce; przelała też 5,5 mln zł na popularną zbiórkę Łatwoganga.",
+      "angle": "Prezydent kończy kadencję, po kilku miesiącach ląduje w radzie nadzorczej — a prokuratura zaczyna sprawdzać spółkę. Perfekcyjny timing na podcast o przywilejach.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Wplacili-5-5-mln-zl-na-zbiorke-Latwoganga-Prokuratura-sprawdza-doniesienia-mediow-o-ZEN-COM-9123743.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "TVP3 Wrocław trzyma w szufladzie reportaż o Sutryku — za protest zawieszono wydawców",
+      "summary": "Gotowy materiał o akcie oskarżenia wobec prezydenta Wrocławia Jacka Sutryka (sprawa Collegium Humanum — MBA bez studiowania w zamian za fikcyjny kontrakt dla rektora) leżał na serwerach TVP3 od 16 marca i nie trafił na antenę. W tle doniesienia o telefonach z ratusza. Dwóch wydawców, którzy zaprotestowali na piśmie, zawieszono; autor Robert Jałocha odszedł z TVP. KRRiT oficjalnie żąda od TVP wyjaśnień.",
+      "angle": "Nowa, wolna TVP cenzuruje materiał o polityku koalicji rządzącej i karze dziennikarzy za sprzeciw — mechanizm identyczny jak za PiS, tylko plakietki inne.",
+      "category": "media",
+      "url": "https://oko.press/ten-material-zablokowala-tvp-obciazal-jacka-sutryka-ws-collegium-humanum",
+      "source": "OKO.press"
     }
   ]
 }
