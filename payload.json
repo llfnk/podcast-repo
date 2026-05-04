@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-04",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki powołał Radę Nowej Konstytucji — skład z Przyłębską i Legutko, lewica bojkotuje",
+      "summary": "3 maja Prezydent Nawrocki ogłosił przy Zamku Wawelskim Radę Nowej Konstytucji, której zadaniem jest przygotowanie projektu nowej ustawy zasadniczej do 2030 roku. W składzie znaleźli się m.in. b. prezes TK Julia Przyłębska i eurodeputowany PiS Ryszard Legutko. Dziennikarz Gazety Wyborczej ocenił, że rada reprezentuje poglądy zaledwie 10-15% wyborców. KO i Lewica ogłosiły bojkot, a w sieci fala kpin.",
+      "angle": "Nawrocki ogłasza konstytucję 'dla narodu' — ale do pisania zaprasza prawie wyłącznie swoich, co czyni z góry niemożliwym stworzenie dokumentu o realnej legitymizacji demokratycznej.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.money.pl/polityka/prezydent-powolal-rade-nowej-konstytucji-oto-jej-czlonkowie-7281887249029184a.html",
+      "source": "money.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Matura 2026: arkusze na Discordzie chwilę po 9:00 — CKE idzie do prokuratury jak co roku",
+      "summary": "Egzamin maturalny z języka polskiego ruszył 4 maja o godzinie 9:00. Chwilę po starcie zdjęcia arkuszy CKE pojawiły się na platformach X i Discord. Dyrektor CKE Robert Zakrzewski zapowiedział zgłoszenie do prokuratury — co dziennikarze opisali jako coroczny rytuał, powtarzający się bez zmiany procedur.",
+      "angle": "Mimo wieloetapowych zabezpieczeń, zaplombowanych kopert i specjalnych drukarni — arkusze wyciekają w kilka minut od startu, a CKE co roku idzie do prokuratury, po czym wraca do punktu wyjścia i czeka na następny maj.",
+      "category": "urzędy",
+      "url": "https://www.gazetaprawna.pl/prawnik/prawo-karne/artykuly/11242552,maturzysci-fotografowali-arkusze-dyrektor-cke-powiadomi-prokurature.html",
+      "source": "GazetaPrawna.pl"
+    },
+    {
+      "title": "Braun tydzień po utracie immunitetu pojechał do Wilna: 'Polska i Litwa podżegają do wojny'",
+      "summary": "Europoseł Grzegorz Braun (Konfederacja Korony Polskiej), któremu PE odebrało immunitet 28 kwietnia, pojechał 2-3 maja do Wilna na Paradę Polskości. Tam oświadczył, że 'Wilno i Warszawa podżegają do wojny' i że nie widzi powodu, by Polska broniła Litwy w razie agresji Rosji. Litewskie służby odnotowały jego działalność jako potencjalne zagrożenie dla bezpieczeństwa.",
+      "angle": "Polityk ścigany przez polską prokuraturę, tuż po utracie immunitetu, jedzie za granicę i mówi że własny kraj jest agresorem — im więcej problemów w domu, tym głośniejsze zagraniczne tournée.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/braun-w-wilnie-uderza-w-polske-i-litwe-podzegaja-do-wojny-7281764646324256a",
+      "source": "wp.pl"
+    },
+    {
+      "title": "TVP nagrało 'sto lat' dla Czarzastego tydzień wcześniej — w dniu emisji był w Kopenhadze",
+      "summary": "3 maja TVP wyemitowała program, w którym Marszałek Sejmu Włodzimierz Czarzasty świętował urodziny przy dźwiękach 'sto lat' od ekipy telewizyjnej. Jak przypadkowo ujawniła posłanka Anna Maria Żukowska (Lewica), nagranie powstało tydzień przed emisją, bo 3 maja marszałek był w Kopenhadze i nie pojawił się na państwowych uroczystościach.",
+      "angle": "Neo-TVP obiecywało koniec partyjnej propagandy w publicznym nadawcy — a wyemitowało fałszywy 'live birthday' dla marszałka koalicji w tym samym czasie, gdy ten omijał uroczystości Święta Konstytucji.",
+      "category": "media",
+      "url": "https://niezalezna.pl/media/inscenizacja-urodzin-czarzastego-w-tvp-w-likwidacji-wydalo-sie-przypadkiem/569626",
+      "source": "Niezalezna.pl"
     }
   ]
 }
