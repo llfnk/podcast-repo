@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-07",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki proponuje referendum z gotową odpowiedzią wbudowaną w pytanie",
+      "summary": "Prezydent Nawrocki złożył 7 maja wniosek do Senatu o referendum klimatyczne. Proponowane pytanie zawiera tezę: 'Czy jesteś za polityką UE, która doprowadziła do wzrostu kosztów życia?' Minister finansów Domański komentuje: 'To nie demokracja, tylko tania propaganda — PiS próbował tego numeru w 2023 i przegrał.' Marszałkini Senatu Kidawa-Błońska wskazuje, że pytanie z góry sugeruje odpowiedź.",
+      "angle": "Referendum zamiast polityki — ale pytanie jest tak skrojone, że jedyna rozsądna odpowiedź jest już wbudowana: kto głosuje 'za' taką polityką klimatyczną? Demokracja bezpośrednia jako narzędzie propagandy.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/referendum-klimatyczne-w-polsce-prezydent-karol-nawrocki-nagral-oswiadczenie-st9035726",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Poseł KO z Rady Mediów Narodowych ścigany przez europejskich śledczych za korupcję",
+      "summary": "Prokuratura Europejska złożyła 5 maja wniosek o uchylenie immunitetu posłowi KO Wojciechowi Królowi. CBA przeszukało jego sejmowe biuro. Śledztwo dotyczy korupcji i zmowy przetargowej przy modernizacji tramwajów w metropolii śląskiej — finansowanej z unijnych funduszy wartych 1,9 mld zł. Król zasiadał w Radzie Mediów Narodowych. Publicznie utrzymywał, że nie wie nic o żadnym wniosku.",
+      "angle": "Koalicja, która wygrała wybory hasłem końca korupcji, ma własnego posła ściganego przez europejskich śledczych za ustawianie przetargów z unijnej kasy — i ten sam poseł pilnował reformy mediów publicznych.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/katowice/katowice-przeszukanie-cba-w-biurze-posla-jest-wniosek-o-uchylenie-immunitetu-media-to-wojciech-krol-st9031409",
+      "source": "TVN24"
+    },
+    {
+      "title": "Onet, Fakt i Newsweek zwalniają 12% redakcji — prezes pisze o inwestycjach w unikalne treści",
+      "summary": "Ringier Axel Springer Polska ogłosiło 5 maja zwolnienia grupowe obejmujące ok. 12 proc. załogi — ponad 160 osób z Onetu, Faktu i Newsweeka. To trzecia taka fala od 2020 roku. Prezes w liście do pracowników tłumaczy decyzję nowymi wyzwaniami rynku i zapowiada inwestycje w eventy i konferencje. Związki zawodowe oceniają decyzję jako krzywdzącą i szkodliwą dla firmy.",
+      "angle": "Klasyczny korporacyjny doublespeak: firma zwalnia redaktorów i natychmiast ogłasza plan unikalnych treści premium — jakby treści pisały się same po zwolnieniu tych, którzy je dotąd tworzyli.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Zwolnienia-grupowe-u-wydawcy-Onetu-i-Faktu-Z-RASP-zniknie-12-proc-etatow-9128262.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Nawrocki zawetował SAFE broniąc suwerenności. Tusk podpisuje tę samą umowę w piątek",
+      "summary": "W marcu Nawrocki zawetował ustawę implementującą unijny program SAFE (43,7 mld euro na zbrojenia), argumentując zagrożeniem suwerenności. Rząd uruchomił plan B: umowę podpisze bezpośrednio Bank Gospodarstwa Krajowego — ta sama kwota, ten sam cel, bez prezydenckiego podpisu. Tusk ogłosił to 7 maja; ceremonia zaplanowana na piątek 8 maja.",
+      "angle": "Prezydent poświęcił miesiące na teatr weta, grając obrońcę suwerenności — a rząd przeszedł obok niego innym wejściem. Weto, które zmieniło absolutnie nic, tylko kosztowało polityczny chaos.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-sporow-o-SAFE-Tusk-oglasza-podpisanie-umowy-9127295.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "TVP emituje grillowy skecz z Rejtanem. KRRiT wszczyna postępowanie",
+      "summary": "3 maja TVP2 wyemitowała w programie Kwiatki polskie skecz, w którym aktor parodiuje Rejtana i stwierdza, że Polak wolność wyraża przez grillowanie. Fala skarg zmusiła KRRiT do wszczęcia postępowania wyjaśniającego. Nadawcy grozi upomnienie lub grzywna. Widzowie z prawej strony piszą o żenadzie za miliardy.",
+      "angle": "TVP po reformie robi dokładnie to, za co prawica atakowała starą TVP: kpi z symboli patriotyzmu w telewizji finansowanej z abonamentu. Obie strony mają identyczne standardy — dopóki rządzi ktoś inny.",
+      "category": "media",
+      "url": "https://wiadomosci.wp.pl/skargi-dotyczace-programu-kwiatki-polskie-mamy-odpowiedz-krrit-7282638649149472a",
+      "source": "WP.pl"
     }
   ]
 }
