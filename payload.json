@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-08",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Poseł KO żądał rozliczeń PiS. Prokuratura Europejska chce uchylić mu immunitet za korupcję",
+      "summary": "Prokuratura Europejska złożyła do Sejmu precedensowy wniosek o uchylenie immunitetu posłowi KO Wojciechowi Królowi w związku z aferą korupcyjną przy modernizacji tramwajów na Śląsku (fundusze unijne, 1,9 mld zł). Śledczy szacują korzyści majątkowe przekazane w związku ze sprawą na ok. 2,7 mln zł. To pierwszy tego rodzaju wniosek Prokuratury Europejskiej do polskiego parlamentu.",
+      "angle": "Poseł z partii rozliczeń, który latami krzyczał o korupcji PiS, sam jest podejrzany o ustawianie przetargów i płatną protekcję przy unijnych funduszach — klasyczne 'zasady dla was, nie dla nas'.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/posel-ko-moze-stracic-immunitet-jest-wniosek-prokuratury-europejskiej-7283335172560928a",
+      "source": "WP Wiadomości"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Rząd ominął weto Nawrockiego i podpisał SAFE. Nowy szef BBN straszy konsekwencjami",
+      "summary": "8 maja rząd podpisał umowę pożyczkową SAFE (43,7 mld euro na zbrojenia) mimo marcowego weta prezydenckiego. Zamiast ustawy rząd oparł się na uchwale rządowej — precedens konstytucyjny. Tego samego dnia Nawrocki zaprzysiągł nowego szefa BBN Bartosza Grodeckiego, który natychmiast zapowiedział 'konsekwencje prawne i finansowe' decyzji rządu.",
+      "angle": "Prezydent wetuje ustawę, rząd mówi 'nieważne, zmieniamy podstawę prawną' i po prostu podpisuje — a nowy szef BBN zaprzysiężony dosłownie w tym samym dniu straszy palcem. Konstytucja jako opcja.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Umowa-SAFE-podpisana-Miliardy-euro-na-zbrojenia-trafia-do-Polski-9130031.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Wydawca Onetu i Newsweeka zwalnia 12% pracowników. Związkowcy: ukrył zamiar",
+      "summary": "Ringier Axel Springer Polska — wydawca Onetu, Newsweeka i Faktu — ogłosił trzecią falę zwolnień grupowych w ciągu pięciu lat: odejdzie ok. 200 pracowników, czyli 12% załogi. Prezes tłumaczy decyzję wpływem AI i BigTech na rynek mediów. Związek zawodowy Inicjatywa Pracownicza zarzuca, że pracodawca świadomie 'ukrył zamiar' przed pracownikami.",
+      "angle": "Medialna korporacja pisząca przez lata o nowoczesności i transformacji cyfrowej, gdy sama musi się transformować — robi to przez masowe zwolnienia i obwinia tę samą technologię, którą przez lata reklamowała na swoich łamach.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Zwolnienia-grupowe-u-wydawcy-Onetu-i-Faktu-Z-RASP-zniknie-12-proc-etatow-9128262.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tusk oburzony pikietą pod własnym domem. Gdy KO robiło to PiS-owi — milczał",
+      "summary": "7 maja kilkadziesiąt osób zebrało się pod domem premiera Donalda Tuska w Sopocie, protestując przeciw umowie SAFE. Tusk — przebywający wtedy w Watykanie — napisał na X, że to 'szczyt odwagi' i zasugerował, że Nawrocki i Kaczyński mogą być z protestujących 'dumni'. Przez poprzednie lata sympatycy i politycy KO wielokrotnie organizowali protesty pod domem Kaczyńskiego i sędziów TK.",
+      "angle": "Premier, który przez lata milczał o protestach pod prywatnymi domami polityków PiS, nagle odkrywa, że to 'nieodważne i skandaliczne' — gdy tym razem chodzi o jego własne okno w Sopocie.",
+      "category": "polityka",
+      "url": "https://niezalezna.pl/polityka/tusk-oburzony-pikieta-pod-swoim-domem-zapomnial-co-jego-ludzie-wyprawiali-u-kaczynskiego-i-pawlowicz/569912",
+      "source": "Niezalezna.pl"
     }
   ]
 }
