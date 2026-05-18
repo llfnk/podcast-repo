@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-18",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
+      "title": "Jedyni w Europie: TVP jury dało Izraelowi 12 punktów, pół kontynentu bojkotowało",
+      "summary": "Polskie jury na Eurowizji 2026 było jedynym w całej Europie, które przyznało Izraelowi maksymalne 12 punktów — podczas trwającego konfliktu w Strefie Gazy, gdy Hiszpania, Irlandia, Holandia, Słowenia i Islandia wycofały się z konkursu w proteście. TVP wydała oświadczenie broniące decyzji powołując się na 'kryteria artystyczne', a wszyscy jurorzy błyskawicznie wyłączyli komentarze w mediach społecznościowych.",
+      "angle": "Polska telewizja publiczna wysyła komunikat odmienny od reszty Europy, po czym wydaje kryzysowe oświadczenia, bo jurorzy chowają się przed lawiną negatywnych komentarzy.",
       "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "url": "https://kultura.wp.pl/skandal-na-eurowizji-mamy-oswiadczenie-tvp-po-burzy-wokol-punktow-dla-izraela-tylko-u-nas-7287227395594304a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "MON dowiedział się o odwołaniu 4000 żołnierzy USA z mediów — wiadomość leżała u generała dwie doby",
+      "summary": "Pentagon odwołał rotację brygady pancernej (ok. 4000 żołnierzy), których przybycie miało wzmocnić wschodnią flankę NATO. Amerykanie powiadomili Sztab Generalny na początku tygodnia, ale wiadomość przeleżała u oficerów niemal dwie doby i nigdy nie dotarła do ministra. Kosiniak-Kamysz publicznie ogłosił, że 'nie zostaliśmy poinformowani', a wiceminister Zalewski nazwał całą sprawę 'incydentem'.",
+      "angle": "Rząd chwali się najlepszymi relacjami z USA w historii, a o kluczowej decyzji Pentagonu w sprawie polskiej obrony dowiaduje się z CNN i Reutersa, nie z ambasady.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44392531-informacyjny-paraliz-w-armii-wiadomosc-od-amerykanow-utknela-w-sztabie-generalnym",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "PiS chce więzienia za kryptowaluty — bo Zondacrypto utknęło im w PR-ze",
+      "summary": "Posłowie PiS złożyli projekt ustawy delegalizującej cały obrót kryptoaktywami w Polsce z karą do 10 lat więzienia. Projekt powstał na osobiste polecenie Kaczyńskiego przestraszonego aferą Zondacrypto. Morawiecki publicznie stwierdził, że jest przeciwny i nie podpisał projektu — a dowiedział się o nim razem z resztą z mediów.",
+      "angle": "Partia, której media wzięły 37 mln od Zondacrypto i której kandydat bronił giełdy do ostatniej chwili, teraz chce wsadzić za kryptowaluty do więzienia — to nie polityka, to zarządzanie wizerunkiem.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.rp.pl/polityka/art44382551-jaroslaw-kaczynski-popelnil-blad-kryptowaluty-mocno-szkodza-pis-i-nawrockiemu",
+      "source": "Rzeczpospolita"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Była minister z rządu rekordowych mandatów nakryta przez paparazzi na łamaniu przepisów",
+      "summary": "Fotoreporter 'Super Expressu' sfotografował byłą minister zdrowia Izabelę Leszczynę (KO) łamiącą przepisy drogowe w centrum Warszawy: przekroczenie linii ciągłej, wjazd na żółtym świetle, parkowanie w bramie — łącznie do 1500 zł potencjalnych mandatów. To ten sam rząd, który w 2024 r. podniósł stawki kar dla kierowców do rekordowych poziomów (do 5000 zł za prędkość).",
+      "angle": "Idealne 'zasady dla was, nie dla nas': polityczka od rządu podnoszącego mandaty złapana na łamaniu tych samych przepisów, od których zwykły kierowca dostaje dziś pięciokrotnie więcej.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/zlamala-przepisy-drogowe-fotoreporter-nakryl-byla-minister-7287103205455936a",
+      "source": "WP.pl"
     }
   ]
 }
