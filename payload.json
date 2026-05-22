@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-22",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Dotacje dla znajomego z Białegostoku — CBA zatrzymuje byłego wiceministra PiS ds. NCBR",
+      "summary": "Jacek Żalek, były wiceminister funduszy z rządów PiS, zatrzymany przez CBA na wniosek Prokuratury Europejskiej. W tle — NCBR, które za jego nadzoru przyznało 123 mln zł firmie znajomego Żalka i 55 mln zł spółce 27-latka z Gdańska, założonej tuż przed ogłoszeniem konkursu.",
+      "angle": "Instytucja dysponująca miliardami z UE działała jak prywatna kasa powiązań: minister nadzoruje, znajomi inkasują granty, a Prokuratura Europejska staje do wyścigu dopiero po kilku latach.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/jacek-zalek-zatrzymany-przez-cba-st9059642",
+      "source": "TVN24"
+    },
+    {
+      "title": "Prokurator Ziobry wpuścił TV Republika do chronionej strefy prokuratury — i ogłosił, że Polska to dyktatura",
+      "summary": "Zastępca Prokuratora Generalnego Tomasz Janeczek — mianowany za Ziobry — 20 maja osobiście przeprowadził dziennikarzy TV Republika i posłów PiS przez strefę ochronną siedziby Prokuratury Krajowej. Dwa dni później minister Żurek zawiesił go na pół roku. W wywiadzie Janeczek ogłosił, że 'tu jest dyktatura'.",
+      "angle": "Prokurator lojalny poprzedniej władzy organizuje wejście propagandowej ekipy do chronionego gmachu — a potem przedstawia swoje zawieszenie jako dowód dyktatury. Klasyk: zrób aferę, krzycz że prześladują.",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Czlowiek-Ziobry-zawieszony-Skandal-w-siedzibie-prokuratury-z-TV-Republika-w-tle-9137893.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tusk zablokował 2 lata pracy własnej minister: po co strategie, wszystko się zmienia",
+      "summary": "Na posiedzeniu Rady Ministrów 22 maja premier Tusk odrzucił Strategię Rozwoju Polski do 2035 — dokument przygotowywany dwa lata przez ministrę Katarzynę Pełczyńską-Nałęcz z Polski 2050. Stwierdził, że w dynamicznych czasach długoterminowe plany nie mają sensu. Pozostali ministrowie milczeli.",
+      "angle": "Rząd, który wygrał wybory m.in. krytykując PiS za brak wizji, blokuje własną strategię na dekadę — bo wszystko się zmienia. W praktyce: lepiej nie mieć planu niż ponosić za niego odpowiedzialność.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44432451-donald-tusk-blokuje-strategie-rozwoju-kraju-ostry-konflikt-w-rzadzie",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki zapytał czy chcesz polityki co podnosi rachunki. Senat odpowiedział: nie",
+      "summary": "Prezydent Nawrocki złożył 7 maja wniosek o referendum klimatyczne z pytaniem, czy Polacy popierają politykę UE 'prowadzącą do wzrostu kosztów życia'. Senat odrzucił wniosek 20 maja głosami 62 do 32. Eksperci wskazali, że Nawrocki z góry wiedział o tym wyniku — całość była politycznym spektaklem.",
+      "angle": "Referendum z zasugerowanym pytaniem to nie konsultacja, lecz reklama partyjna. SpiderWeb zauważył, że można równie dobrze zapytać Polaków czy Ziemia może krążyć wokół Słońca. To opis, nie przesada.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/prezydent-karol-nawrocki-chcial-referendum-ws-unijnej-polityki-klimatycznej-senat-nie-wyrazil-zgody-st9058656",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Nawrocki zanosi się na trzecie weto tej samej ustawy o krypto — deadline UE za 40 dni",
+      "summary": "Senat 21 maja uchwalił ustawę o kryptoaktywach (MiCA) bez poprawek — po dwóch poprzednich wetach Nawrockiego. Nieoficjalnie prezydent nie planuje podpisać i tym razem. Bez ustawy przed 1 lipca Polska nie wdroży unijnych przepisów, a polskie giełdy krypto nie dostaną licencji CASP.",
+      "angle": "Po aferze Zondacrypto — rosyjska mafia, 350 mln zł strat klientów — Nawrocki wciąż wetuje regulację rynku krypto, bo projekt nie rozwiązuje problemów. Pytanie: kiedy projekt będzie wystarczająco dobry — przed czy po kolejnej Zondzie?",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/ustawa-ws-kryptowalut-przeglosowana-bedzie-trzecie-weto-7288311969515680a.html",
+      "source": "Money.pl"
     }
   ]
 }
