@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-23",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Państwowa agencja żąda zakazu wypowiedzi dla polskiego astronauty",
+      "summary": "Prezeska Polskiej Agencji Kosmicznej Marta Wachowicz poprosiła rząd o zablokowanie publicznych wypowiedzi Sławosza Uznańskiego-Wiśniewskiego po tym, jak na zamkniętym posiedzeniu rady skrytykował program IRIS2, twierdząc, że większość pieniędzy trafi do firm z Niemiec i Francji. Astronauta 22 maja opublikował oświadczenie, w którym nazywa żądanie 'próbą cenzury i uciszania krytycznych głosów'.",
+      "angle": "Państwowa agencja chce zamknąć usta jedynemu polskiemu astronaucie, bo powiedział za głośno, że polska kasa idzie do Berlina i Paryża — klasyczny 'nie krytykuj, bo jesteś państwowy'.",
+      "category": "urzędy",
+      "url": "https://tvn24.pl/polska/knebel-dla-astronauty-prezeska-polskiej-agencji-kosmicznej-zada-zakazu-wypowiedzi-dla-slawosza-uznanskiego-wisniewskiego-st9060078",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nawrocki przegrał referendum klimatyczne, więc chce drugiego — za kolejne 375 mln zł",
+      "summary": "Senat odrzucił 21 maja wniosek prezydenta Nawrockiego o referendum ws. Zielonego Ładu (62 głosy przeciw, 32 za). Organizacja głosowania kosztowałaby 375 mln zł podatników. Dzień później Nawrocki ogłosił, że złoży drugi wniosek o referendum.",
+      "angle": "Referendum mające zapytać Polaków, czy drogo żyją, samo kosztowałoby prawie pół miliarda — a gdy Senat mówi nie, prezydent po prostu zamierza próbować od nowa.",
+      "category": "polityka",
+      "url": "https://dorzeczy.pl/kraj/891115/prezydent-nawrocki-zloze-drugi-wniosek-o-referendum.html",
+      "source": "DoRzeczy.pl"
+    },
+    {
+      "title": "Tusk wyrzucił do kosza 2-letnią strategię koalicjanta tuż przed jej przyjęciem",
+      "summary": "Na posiedzeniu Rady Ministrów 22 maja premier Tusk zablokował 'Strategię Rozwoju Kraju do 2035', nad którą przez dwa lata pracowało ministerstwo Katarzyny Pełczyńskiej-Nałęcz z Polski 2050. Uzasadnienie: 'w trudnych czasach nie potrzebujemy strategii, bo wszystko się zmienia'. Ministra publicznie zapowiedziała, że nie akceptuje tej decyzji.",
+      "angle": "Szef rządu niszczy własny produkt koalicyjny chwilę przed metą i tłumaczy to brakiem sensu planowania — bonusowo: teraz nikt nie będzie go rozliczał z planu, którego nie ma.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44432451-donald-tusk-blokuje-strategie-rozwoju-kraju-ostry-konflikt-w-rzadzie",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "title": "Rząd będzie GPS-ować każdy transport betonu powyżej 50 kg — czyli dwa worki cementu",
+      "summary": "Sejm uchwalił nowelizację rozszerzającą system SENT o beton — każdy przewóz powyżej 50 kg musi być zgłoszony i śledzony GPS-em. Branża budowlana jest wściekła: typowy transport to minimum 700 kg, a kary za brak zgłoszenia sięgają 46% wartości ładunku. Ustawa trafiła do prezydenta 15 maja.",
+      "angle": "Rząd, który nie radzi sobie ze ściąganiem podatków od wielkich graczy, wymyślił, jak dokuczyć każdemu, kto kupuje dwa worki zaprawy — i ubiera to w walkę z szarą strefą budowlaną.",
+      "category": "urzędy",
+      "url": "https://wiadomosci.wp.pl/rzad-chce-sledzic-gps-em-betoniarki-budowlancy-sie-wkurzyli-oby-prezydent-tego-nie-podpisal-7287596562073760a",
+      "source": "WP.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Prezes Cinkciarz.pl złapany przez Interpol w USA. 5 tys. klientów straciło 185 mln zł",
+      "summary": "Marcin P., szef popularnego internetowego kantoru Cinkciarz.pl, został zatrzymany 19 maja w USA na podstawie czerwonej noty Interpolu. Prokuratura zarzuca mu oszustwo i pranie pieniędzy — straty ponad 5000 klientów przekraczają 185 mln zł. Mężczyzna opuścił Polskę, zanim zostały mu postawione zarzuty.",
+      "angle": "Kantor, któremu ufały tysiące Polaków szukających lepszych kursów walut, okazał się klasyczną aferą — a prezes spokojnie czekał za granicą, aż dopadł go Interpol.",
+      "category": "korporacja",
+      "url": "https://tvn24.pl/biznes/z-kraju/prezes-marcin-p-z-cinkciarz-pl-zatrzymany-w-usa-byl-poszukiwany-przez-interpol-st9059442",
+      "source": "TVN24"
     }
   ]
 }
