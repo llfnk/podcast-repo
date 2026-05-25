@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-25",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "97,8% Krakowa wyrzuciło prezydenta KO — to nie sygnał, to syrena",
+      "summary": "W referendum 24 maja krakowianie odwołali prezydenta Aleksandra Miszalskiego (KO) druzgocącą większością: 171 tys. głosów za odwołaniem, zaledwie 3,6 tys. przeciw. Frekwencja 30% przekroczyła wymagany próg. Tłem były strefa czystego transportu i podwyżki biletów, ale opozycja wprost mówi: 'krakowski Tusk' — i kto następny.",
+      "angle": "Koalicja rządząca non-stop opowiada o słuchaniu obywateli — a ich własny prezydent dostaje 97,8% głosów za wyrzuceniem. To nie jest wynik wyborczy, to wyrok.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/krakow/miszalski-odwolany-oficjalne-wyniki-7289597551290528a",
+      "source": "WP Wiadomości"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Ziobro uciekł z Węgier do USA — wiza w 48h dzięki człowiekowi Trumpa",
+      "summary": "Były minister sprawiedliwości Zbigniew Ziobro, ścigany 26 zarzutami (w tym kierowanie zorganizowaną grupą przestępczą), opuścił Węgry 9 maja — dokładnie w dniu inauguracji Pétera Magyara — i poleciał z Mediolanu do Newark. Wizę w trybie przyspieszonym wydano na polecenie Christophera Landau, zastępcy sekretarza stanu USA, który pominął standardowe procedury, powołując się na 'bezpieczeństwo narodowe'. Dwaj kongresmeni żądają od sekretarza Rubio wyjaśnień.",
+      "angle": "Człowiek, który latami budował wizerunek twardego stróża prawa, teraz sam ucieka przed wymiarem sprawiedliwości — a pomaga mu trumpowski dyplomata, omijając własne procedury wizowe.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-o-wize-dla-Ziobry-w-USA-Kongresmeni-zadaja-wyjasnien-od-administracji-Trumpa-9138317.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "POLSA zakazała astronaucie mówić publicznie — bo pytał o budżet",
+      "summary": "Prezes Polskiej Agencji Kosmicznej Marta Wachowicz zażądała od rządu zakazu publicznych wypowiedzi astronauty Sławosza Uznańskiego-Wiśniewskiego na temat POLSA i jej projektów, po tym jak ten zakwestionował zaangażowanie Polski w program satelitarny IRIS2 i pytał o finanse agencji. Uznański-Wiśniewski nazwał to 'próbą cenzury'. Jednocześnie 14 pracowników i byłych pracowników POLSA poskarżyło się ministrowi, że są 'zastraszani i poniżani' — w ciągu roku agencja zwolniła jedną trzecią zatrudnionych.",
+      "angle": "Polska agencja kosmiczna woli uciszać własnego astronautę, niż odpowiadać na pytania o pieniądze — klasyczny schemat: problem nie istnieje, dopóki nie można o nim mówić.",
+      "category": "urzędy",
+      "url": "https://tvn24.pl/polska/polska-agencja-kosmicznej-zada-zakazu-wypowiedzi-dla-slawosza-uznanskiego-wisniewskiego-st9060078",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tusk zablokował plan dla Polski — bo bał się, że opozycja zacytuje fragmenty",
+      "summary": "Premier Donald Tusk 22 maja wstrzymał przyjęcie Strategii Rozwoju Kraju do 2035, którą przez dwa lata przygotowywało ministerstwo Katarzyny Pełczyńskiej-Nałęcz z Polski 2050. Oficjalny powód: w trudnych czasach nie potrzeba strategii, bo wszystko się zmienia. Nieoficjalny: Tusk obawiał się, że opozycja wykorzysta konkretne sformułowania z dokumentu w kampanii wyborczej. W efekcie Polska formalnie nadal działa według strategii rządu PiS.",
+      "angle": "Rząd, który obiecał profesjonalizm i długoterminowe planowanie zamiast improwizacji, oficjalnie rezygnuje z planu na dekadę — bo boi się własnych słów. Brak strategii jako strategia.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44432451-donald-tusk-blokuje-strategie-rozwoju-kraju-ostry-konflikt-w-rzadzie",
+      "source": "Rzeczpospolita"
     }
   ]
 }
