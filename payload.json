@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-27",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Ścigany poseł komentuje Polskę dla TV z USA — Sejm sprawdza czy odciąć mu resztę diety",
+      "summary": "Zbigniew Ziobro, ścigany europejskim nakazem aresztu i przebywający w USA, pracuje jako komentator polityczny TV Republika. Marszałek Sejmu Czarzasty zlecił 27 maja kontrolę biura poselskiego Ziobry — sprawdza, czy złożył wymagane oświadczenie o dodatkowym zatrudnieniu. Jeśli nie — Ziobro straci pozostałe 1300 zł miesięcznej diety (Sejm wcześniej obciął ją z 13 800 zł za chroniczną nieobecność).",
+      "angle": "Poszukiwany europejskim nakazem aresztu poseł zarabia na komentowaniu Polski siedząc za granicą — a cała dramatyczna odpowiedź państwa polega na sprawdzeniu, czy wpisał nowe zajęcie do właściwego formularza.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-zleca-kontrole-biur-Ziobry-i-Romanowskiego-Chodzi-o-oswiadczenia-majatkowe-9140205.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Kraków odwołał prezydenta KO — padł m.in. przez politykę własnej partii",
+      "summary": "W referendum 25 maja Kraków odwołał prezydenta Aleksandra Miszalskiego z Koalicji Obywatelskiej — pierwszego prezydenta dużego polskiego miasta od 2010 roku. Frekwencja wyniosła 29,99% przy wymaganym progu 26,98%. Głównym powodem niezadowolenia mieszkańców była Strefa Czystego Transportu, którą prezydent wdrożył zgodnie z linią własnej koalicji.",
+      "angle": "KO-owy prezydent stracił stanowisko m.in. za egzekwowanie polityki własnego rządu — gdy lokalna władza jest posłuszna centrali, a mieszkańcy mają w rękach broń zwrotną, centrum też obrywa.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/krakow/referendum-w-krakowie-podano-oficjalne-wyniki-st9064572",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rząd zapłaci ZUS artystom zarabiającym więcej niż minimalna — z kieszeni tych, co zarabiają minimalną",
+      "summary": "26 maja rząd przyjął ustawę o dopłatach do składek ZUS dla twórców — koszt 300-380 mln zł rocznie z budżetu. Z programu mogą korzystać artyści zarabiający do 125% pensji minimalnej, co w praktyce oznacza, że pracownicy na minimalnej finansują emerytury kolegów zarabiających od nich więcej. Konfederacja natychmiast zaczęła zbierać podpisy pod wnioskiem o wotum nieufności dla ministry kultury Cienkowskiej.",
+      "angle": "Ustawa sprzedawana jako pomoc dla 'biednych artystów' w praktyce dofinansowuje tych, którzy zarabiają więcej niż robotnik na minimalnej — a premier kwituje to słowami 'to nie są kokosy'.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Panstwo-bierze-artystow-pod-opieke-Rzad-przyjal-ustawe-o-doplatach-do-ZUS-i-chorobowego-9139707.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Ministra Lewicy przyznaje: w rządowych OHP jest 'masa działaczy lewicy'. Smutne to",
+      "summary": "Minister pracy Agnieszka Dziemianowicz-Bąk (Lewica) publicznie przyznała, że Ochotnicze Hufce Pracy są obsadzone przez działaczy jej własnej partii. Radio Zet ustaliło, że co najmniej 10 z 16 komend wojewódzkich OHP prowadzą aktywni działacze Nowej Lewicy — w tym komendant główny. Ministra skomentowała sytuację słowami 'smutne to'.",
+      "angle": "Koalicja wygrała wybory pod hasłem 'koniec z obsadzaniem państwa partyjnymi kolesiami' — i obsadziła instytucję działaczami własnej partii. Ministra sama to potwierdza, choć jej smuci.",
+      "category": "urzędy",
+      "url": "https://dorzeczy.pl/opinie/892810/ohp-obsadzone-przez-lewice-zandberg-uderza-w-dziemianowicz-bak.html",
+      "source": "Do Rzeczy"
     }
   ]
 }
