@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-30",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nie ma auta, nie ma prawa jazdy — jest 48 tys. zł zwrotu za kilometrówki",
+      "summary": "W 2025 r. poselskie kilometrówki kosztowały podatników ponad 12,3 mln zł. Poseł Mejza rozliczył blisko 48 tys. zł, posłanka Żukowska (bez samochodu w deklaracji majątkowej) — 38 tys. zł, a Macierewicz (bez prawa jazdy od dwóch lat) — 16,7 tys. zł. Kancelaria Sejmu wypłacała pieniądze bez weryfikacji tras i wymagała zerowej dokumentacji.",
+      "angle": "Przez lata politycy inkasowali zwroty za przejazdy, których fizycznie nie mogli wykonać — system bez żadnej kontroli zamieniał się w dodatkową kasę dla posłów, którym zapomniano przykleić klauzulę: muszą mieć auto.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.money.pl/mobility/mentzen-0-zl-mejza-ponad-48-tys-zl-burza-o-kilometrowki-7287976627415136a.html",
+      "source": "money.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Twórca reformy sądów ucieka przed polskim sądem — Sejm uchylił immunitet Ziobrze, on siedzi w USA",
+      "summary": "Sejm zagłosował 29 maja za uchyleniem immunitetu Zbigniewowi Ziobrze: 238 za, 191 przeciw. Powód — prywatny akt oskarżenia dziennikarki Doroty Wysockiej-Schnepf o zniesławienie. Były minister sprawiedliwości przebywa w Stanach Zjednoczonych; z Węgier uciekł 9 maja, korzystając z wizy dla zagranicznych mediów.",
+      "angle": "Człowiek który przez osiem lat reformował polskie sądownictwo i wmawiał Polakom że sędziowie to mafia, sam teraz ucieka przed polskim wymiarem sprawiedliwości — kolejno przez Budapeszt do Ameryki, na paszporcie humanitarnym.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/sejm-uchylil-immunitet-zbigniewowi-ziobrze-w-sprawie-z-dorota-wysocka-schnepf-st9072340",
+      "source": "TVN24"
+    },
+    {
+      "title": "Microsoft zagroził badaczowi śledztwem za odkrycie błędów. Dostał sześć zero-dayów w odpowiedzi",
+      "summary": "Badacz bezpieczeństwa znany jako Nightmare-Eclipse odkrył poważne luki w Windows i zgłosił je Microsoftowi przez oficjalny kanał. Firma skasowała jego konto w MSRC, usunęła profil na GitHubie i GitLabie, po czym zapowiedziała wobec niego dochodzenie karne. W odpowiedzi opublikował gotowe exploity dla sześciu luk — m.in. w BitLockerze i Defenderze.",
+      "angle": "Zamiast nagrodzić etycznego badacza, Microsoft wybrał zastraszanie — i sprowokował dokładnie to, czego próbował uniknąć, tyle że teraz publicznie i z kompletną dokumentacją techniczną.",
+      "category": "korporacja",
+      "url": "https://pcformat.pl/gdy-prosilem-o-kontakt-odmowiliscie-upokorzyliscie-mnie-i-publicznie-obraziliscie-badacz-wypowiedzial-wojne-microsoftowi/",
+      "source": "PCFormat"
+    },
+    {
+      "title": "97,8% odwołało prezydenta Krakowa — kilka dni potem wychodzi: doradca-kolega wziął 274 tys. zł z miejskiej kasy",
+      "summary": "Krakowskie referendum 25 maja odwołało Aleksandra Miszalskiego (KO) przy 97,8% głosów za odwołaniem i frekwencji niespełna 30%. Kilka dni później radni złożyli zawiadomienie do prokuratury: bliski współpracownik Miszalskiego, prawnik Kamil Kociołek, inkasował umowy doradcze z urzędu miasta o łącznej wartości 274,5 tys. zł.",
+      "angle": "Mieszkańcy powiedzieli mu nie z rekordową jednomyślnością, a teraz okazuje się że mieli rację z wielu powodów naraz — znajomości i prywatne kontrakty kupione z publicznych pieniędzy.",
+      "category": "urzędy",
+      "url": "https://www.wprost.pl/kraj/12344109/wspolpracownik-bylego-prezydenta-krakowa-i-umowy-na-ponad-270-tys-radni-zawiadomili-prokurature.html",
+      "source": "Wprost"
     }
   ]
 }
