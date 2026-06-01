@@ -1,28 +1,36 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Tusk rozwiązał struktury KO w Małopolsce po referendum, gdzie 98% odwołało ich prezydenta",
+      "summary": "Po tym jak 97,8% głosujących krakusów odwołało w referendum prezydenta Aleksandra Miszalskiego (KO) -- głównie za Strefę Czystego Transportu obowiązującą od 1 stycznia -- Donald Tusk rozwiązał struktury Koalicji Obywatelskiej w całej Małopolsce i mianował komisarza partii z zewnątrz. Wybory na nowego prezydenta Krakowa planowane są na sierpień 2026.",
+      "angle": "Wyborcy powiedzieli 'nie' polityce KO, oddając 98% głosów za odwołaniem -- a Tusk w odpowiedzi dyscyplinuje własną partię jak korporacja nierentowny oddział, zamiast zastanowić się, dlaczego tak wielu ludzi poszło do urn.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-01/premier-rozwiazal-struktury-ko-w-malopolsce-echa-referendum-w-krakowie/",
+      "source": "Polsat News"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Nawrocki chce odebrać Zelensky'emu Order Orła Białego. Ukraina 'nie gotowa na Europę'",
+      "summary": "Prezydent Nawrocki zapowiedział, że wnioskuje o odebranie Zelensky'emu najwyższego polskiego odznaczenia państwowego po tym, jak Ukraina nazwała jednostkę wojskową 'Bohaterami UPA'. Kapituła orderu zbierze się 8 czerwca. Nawrocki stwierdził, że Ukraina nie jest 'gotowa mentalnie na bycie częścią europejskiej rodziny'.",
+      "angle": "Ten sam obóz polityczny, który przez 8 lat rządów nie przeprowadził ani jednej ekshumacji ofiar Wołynia ani żadnego konkretnego rozliczenia historycznego, teraz wykonuje wielki symboliczny gest -- i przy okazji publicznie uderza w sojusznika wojennego w środku konfliktu.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/batalion-bohaterow-upa-karol-nawrocki-chce-odebrac-order-wolodymyrowi-zelenskiemu-donald-tusk-komentuje-st9072316",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dziesiątki mediów siały panikę o mandacie 3 tys. zł za brak apteczki w aucie. Przepisu nie ma",
+      "summary": "Przez kilka tygodni polskie portale od Interii po RMF 24 alarmowały, że od 1 czerwca 2026 kierowcy muszą mieć apteczkę pod groźbą mandatu do 3 tys. zł. Ministerstwo Infrastruktury wydało 1 czerwca pilne oświadczenie prostujące: żaden nowy obowiązek nie wszedł w życie, rozporządzenie jest dopiero na etapie uzgodnień wewnątrzresortowych.",
+      "angle": "Kilkadziesiąt redakcji jednocześnie zrobiło fake newsa o prawie, które nie istnieje -- zamieniając 'ministerstwo pracuje nad projektem' w 'od jutra grozi mandat'. Nikt nie sprawdził Dziennika Ustaw. To nie błąd jednostki, to systemowa choroba polskiego dziennikarstwa klikbajtowego.",
+      "category": "media",
+      "url": "https://www.rmf24.pl/fakty/polska/news-obowiazek-posiadania-apteczki-w-osobowce-nie-wszedl-w-zycie-,nId,8088897",
+      "source": "RMF 24"
+    },
+    {
+      "title": "Minęło 96% czasu kontraktu, zbudowali 13% drogi. Miliardowa S19 utknęła w sporze GDDKiA-Mostostal",
+      "summary": "Mostostal Warszawa porzucił budowę odcinka drogi ekspresowej S19 Domaradz-Iskrzynia (ponad 1 mld zł kontraktu). Przy 96% upływu czasu umowy wykonano 13% robót, opóźnienie wynosi 553 dni. GDDKiA zerwała kontrakt z winy wykonawcy 14 maja i żąda zwrotu zaliczki plus kar; Mostostal oskarża inwestora i żąda dopłaty 550 mln zł. Podwykonawcy zostali z niczym i sami domagają się pieniędzy od GDDKiA.",
+      "angle": "Podręcznikowa patologia polskich przetargów: oferta z ceną wziętą z sufitu, lata biernego nadzoru, wszyscy zrzucają winę na siebie -- a zostają z niczym podwykonawcy i podatnicy. Gdzie był nadzór inwestorski przez trzy lata, gdy postęp budowy tkwił w okolicach zera?",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Minelo-96-proc-czasu-zbudowali-tylko-13-proc-Wojna-o-wielkie-miliony-9141321.html",
       "source": "Bankier.pl"
     }
   ]
