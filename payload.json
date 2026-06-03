@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-03",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Weto za 1,2 mld zł — Nawrocki chroni biznes od kontroli antykorupcyjnej",
+      "summary": "Prezydent Nawrocki zawetował ustawę rozszerzającą system monitoringu SENT na transport betonu. Ministerstwo Finansów ocenia, że budżet straci 1,2 mld zł rocznie z tytułu niezwalczonych oszustw podatkowych w budownictwie. Uzasadnienie prezydenta: 'nie będziemy traktować polskich przedsiębiorców jak potencjalnych przestępców'. Konfederacja podziękowała prezydentowi.",
+      "angle": "Prezydent deklarujący walkę z korupcją właśnie zablokował narzędzie wykrywające miliardowe oszustwa podatkowe — bo rzekomo kontrola biznesu to brak szacunku. Pytanie, kto faktycznie na tym korzysta.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Weto-za-1-2-mld-zl-rocznie-Prezydent-blokuje-nadzor-systemu-SENT-nad-transportem-betonu-9144701.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Zamrażarka wyjedzie z hukiem — Polska 2050 narzeka na zamrażarkę, którą miała zlikwidować",
+      "summary": "W 2023 r. Hołownia obejmując funkcję Marszałka Sejmu obiecał: 'z mojego gabinetu zamrażarka wyjedzie z hukiem'. Teraz Polska 2050 publicznie skarży się, że zamrażarka 'działa pełną parą' — mając tam własne projekty. Konkret24 przeanalizował: w sejmowej zamrażarce utknęło aktualnie 88 projektów ustaw.",
+      "angle": "Klasyczna polityczna hipokryzja: w opozycji krytykujesz zamrażarkę, w koalicji sam ją obsługujesz — i za jakiś czas znowu zaczynasz na nią narzekać, jakbyś zapomniał, że teraz ty siedzisz przy wtyczce.",
+      "category": "polityka",
+      "url": "https://konkret24.tvn24.pl/polityka/polska-2050-o-zamrazarce-sejmowej-dziala-pelna-para-a-to-oni-obiecywali-ze-wyjedzie-z-hukiem-st9077974",
+      "source": "Konkret24 / TVN24"
+    },
+    {
+      "title": "Prokuratura żąda zatrzymania Jakiego: były nadzorca więziennictwa chowa się za immunitetem europosła",
+      "summary": "Prokurator Generalny Żurek złożył 2 czerwca do Parlamentu Europejskiego wniosek o uchylenie immunitetu Patryka Jakiego (PiS) i zgodę na jego zatrzymanie. Zarzut: jako wiceminister sprawiedliwości nadzorujący Służbę Więzienną miał bezprawnie sterować awansami funkcjonariuszy w zamian za korzyści. Jaki odpowiedział, że to 'jeden z najgłupszych wniosków w historii III RP'.",
+      "angle": "Człowiek, który jako wiceminister nadzorował wymiar sprawiedliwości i więziennictwo, teraz do odpowiedzialności może być pociągnięty tylko przez Europarlament — bo sam schował się za immunitetem europosła. Sprawiedliwość dla wszystkich, ale nie dla Jakiego.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polska/news-waldemar-zurek-zlozyl-wniosek-o-uchylenie-immunitetu-europos,nId,8088959",
+      "source": "RMF24"
+    },
+    {
+      "title": "UPA, order i zakulisowe rozmowy: Polska protestuje ostro, a Sikorski prosi Ukrainę po cichu",
+      "summary": "Zelenski nadał jednostce wojskowej nazwę Bohaterów UPA. Nawrocki domaga się odebrania mu Orderu Orła Białego, MSZ złożyło protest dyplomatyczny. Jednocześnie minister Sikorski 2 czerwca potwierdził, że Polska prowadzi zakulisowe rozmowy z Ukrainą, licząc, że sami znajdą korektę.",
+      "angle": "Polska dyplomacja w pełnej okazałości: publiczny teatr gniewu z wymaganiami — i prywatna miękka prośba 'może coś z tym zróbcie'. Bo Ukrainy przecież drażnić za bardzo nie można.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-02/zakulisowe-rozmowy-polski-z-ukraina-radoslaw-sikorski-potwierdza/",
+      "source": "Polsat News"
     }
   ]
 }
