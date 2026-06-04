@@ -1,28 +1,36 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-04",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Własny poseł Tuska: dużo gadania, mało robienia — i rozważa wyjście z koalicji",
+      "summary": "Rafał Komarewicz z klubu Centrum w wywiadzie z 3 czerwca ostro ocenił rząd: najważniejsza jest sama władza, nie Polska. Poseł przyznał, że docieka do ściany w kontaktach z ministrami i rozważa odejście z koalicji, co pozbawiłoby Centrum statusu klubu (wymóg: 15 posłów).",
+      "angle": "Własny koalicjant Tuska, w przededniu 37. rocznicy wyborów z 1989 roku, mówi głośno że rząd markuje robotę — bardziej liczy się walka z PiS niż rządzenie Polską.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/krakow/duzo-gadania-malo-robienia-posel-koalicji-rafal-komarewicz-ostro-ocenia-rzad-tuska-7292425607293312a",
+      "source": "Wirtualna Polska"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Poseł KO ścigany przez europejską prokuraturę za korupcję przy unijnych tramwajach",
+      "summary": "EPPO złożyło do Sejmu pierwszy w historii wniosek o uchylenie immunitetu polskiemu parlamentarzyście — Wojciechowi Królowi z Koalicji Obywatelskiej. Zarzut: korupcja przy modernizacji tramwajów na Śląsku finansowanej z UE kwotą 1,9 mld zł. W czerwcu CBA zatrzymało prezesa i wiceprezesa Tramwajów Śląskich.",
+      "angle": "Koalicja rządząca pod hasłem praworządności i europejskości ma w szeregach posła, którego ścigają europejscy prokuratorzy za wyłudzanie unijnych pieniędzy — pierwsza taka sprawa w historii polskiego parlamentu.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12323802/prokuratura-europejska-chce-uchylenia-immunitetu-wojciecha-krola-jest-komunikat-sejmu.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Nawrocki chce odebrać Zełenskiemu order, ale musi poprosić Tuska o podpis",
+      "summary": "Po decyzji Zełenskiego o nadaniu jednostce specjalnej nazwy Bohaterów UPA, prezydent Nawrocki zaproponował odebranie mu Orderu Orła Białego na posiedzeniu Kapituły 8 czerwca. Jest haczyk: konstytucja wymaga kontrasygnaty premiera, a Tusk woli tonować emocje.",
+      "angle": "Strażnik polskiego honoru nie może wykonać patriotycznego gestu bez podpisu politycznego rywala — absurd ustrojowy jako lepsza recenzja systemu niż jakikolwiek komentator.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/batalion-bohaterow-upa-karol-nawrocki-chce-odebrac-order-wolodymyrowi-zelenskiemu-donald-tusk-komentuje-st9072316",
+      "source": "TVN24"
+    },
+    {
+      "title": "Państwo dopłaci artystom do ZUS — 4,5 mld zł przez 10 lat. A fryzjerom? Nic",
+      "summary": "Rada Ministrów przyjęła ustawę o dopłatach do składek ZUS dla artystów zarabiających mniej niż 125% płacy minimalnej. Program może objąć do 62 tys. osób i kosztować 4,5 mld zł przez dekadę — w roku, gdy Polska ma drugi największy deficyt budżetowy w UE.",
+      "angle": "Rząd zdecydował, czyją emeryturę zasponsoruje z podatków: artyści tak, fryzjerzy i kierowcy TIR nie — klasyczny przykład: kto ma głos medialny, ten dostaje kasę.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Panstwo-bierze-artystow-pod-opieke-Rzad-przyjal-ustawe-o-doplatach-do-ZUS-i-chorobowego-9139707.html",
       "source": "Bankier.pl"
     }
   ]
