@@ -1,28 +1,36 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-07",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Konto hejtujące sędziów zakładano z IP Ministerstwa Sprawiedliwości — UODO daje 100 tys. kary",
+      "summary": "W 2019 roku pracownicy resortu Zbigniewa Ziobry zbierali dane osobowe sędziów krytycznych wobec reformy wymiaru sprawiedliwości i publikowali zniesławiające materiały na Twitterze. UODO ujawnił, że hejterskie konto zakładano bezpośrednio z adresu IP Ministerstwa Sprawiedliwości. Za całą aferę resort dostał karę 100 tys. zł — siedem lat po fakcie.",
+      "angle": "Ministerstwo zajmujące się 'ochroną prawa i sprawiedliwości' używało własnych serwerów do zakładania kont hejtujących niezależnych sędziów — a kara za całą aferę wynosi tyle co połowa rocznej pensji jednego posła.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/UODO-ujawnia-porazajace-kulisy-Hejterskie-konto-zakladano-bezposrednio-z-IP-ministerstwa-9144624.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Hołownia wyrzucił zamrażarkę sejmową 'z hukiem' — teraz jego partia alarmuje, że działa pełną parą",
+      "summary": "Szymon Hołownia obiecał jako kandydat, że zamrażarka sejmowa 'wyjedzie z gabinetu marszałka z hukiem'. Przez swoją kadencję twierdził, że obietnicy dotrzymał. Konkret24 sprawdził jednak, że pod jego marszałkowstwem 21 projektów ustaw nie dostało nawet numeru druku. Teraz, gdy marszałkiem jest Czarzasty, Polska 2050 sama alarmuje: 'zamrażarka działa pełną parą'.",
+      "angle": "Przez dwa lata przekonywałeś wyborców, że rozwiązałeś problem — a teraz skarżysz się na ten sam problem u następcy. Tylko po cichu liczysz, że nikt nie sprawdzi, co ty sam robiłeś.",
+      "category": "polityka",
+      "url": "https://konkret24.tvn24.pl/polityka/polska-2050-o-zamrazarce-sejmowej-dziala-pelna-para-a-to-oni-obiecywali-ze-wyjedzie-z-hukiem-st9077974",
+      "source": "Konkret24 / TVN24"
+    },
+    {
+      "title": "Romanowski zarabia 210 tys. zł u ludzi Orbána — dosłownie za krytykę polskiego rządu",
+      "summary": "Ścigany europejskim nakazem aresztowania poseł PiS Marcin Romanowski ujawnił w oświadczeniu majątkowym, że w 2025 roku zarobił 17,5 mln forintów (ok. 210 tys. zł) w węgierskim Centrum Praw Podstawowych — instytucie powiązanym z rządem Orbána. Adres zamieszkania w oświadczeniu zamazał czarnym markerem. Węgierskie media podały, że jego formalnym zadaniem była krytyka rządu Tuska.",
+      "angle": "Poseł uciekający przed polskim wymiarem sprawiedliwości pobiera pensję od obcego rządu za krytykowanie własnego kraju — i nazywa to walką o polskie wartości.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/210-tysiecy-zlotych-za-krytyke-Tuska-Wiadomo-ile-ludzie-Orbana-placili-Romanowskiemu-9146286.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "UE dała czas do 7 czerwca na jawność płac — Polska mówi pracownikom: wróćcie w 2027",
+      "summary": "Unijna dyrektywa o jawności wynagrodzeń miała obowiązywać w całej UE od 7 czerwca 2026. W Polsce prawa nie wdrożono w terminie — rząd ogłosił, że firmy dostaną dodatkowe pół roku, a przepisy wejdą w życie najwcześniej w 2027 roku. Tylko 18% polskich firm deklaruje jawność płac wśród swoich priorytetów.",
+      "angle": "Przez rok szefowie mówili pracownikom 'poczekaj z podwyżką, bo wchodzi nowe prawo o jawności płac'. Teraz okazuje się, że prawa nie ma — i poczekają kolejny rok. Firma nic nie traci, pracownik stoi w miejscu.",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-placowa-opozniona-Firmy-zyskaja-pol-roku-na-przygotowania-9146083.html",
       "source": "Bankier.pl"
     }
   ]
