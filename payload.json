@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-08",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Węgry wzywają Ziobrę i Romanowskiego — obaj są tysiące kilometrów stąd",
+      "summary": "Węgierskie MSW wszczęło procedurę weryfikacji statusów azylowych i oficjalnie wezwało obu polityków do stawiennictwa. Problem: Ziobro rezyduje w Waszyngtonie jako komentator TV Republika, a Romanowski prawdopodobnie ukrywa się w Turcji — żaden z nich nie jest już na Węgrzech. Jeśli nie zjawią się, postępowanie będzie toczyć się bez nich.",
+      "angle": "Dostali azyl od Orbána, uciekli gdy Orbán przegrał, a teraz nowy węgierski rząd ich wzywa z powrotem — do kraju, z którego i tak dawno wyparowali. Azyl polityczny jako luksusowa usługa turystyczna.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://goniec.pl/jest-nowy-ruch-wegier-ws-zbigniewa-ziobry-i-marcina-romanowskiego-komunikat-msw-mt-wmp-080626",
+      "source": "Goniec"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "PiS atakuje SAFE (3,3% odsetek), bo sami zaciągali z Korei po 5,5%",
+      "summary": "TVN24 ujawniło, że rząd PiS brał kredyty zbrojeniowe w Korei Południowej i USA po stopach 5,5% i 4,2% — wyraźnie wyższych niż obecny europejski program SAFE na poziomie 3,3%, który PiS aktywnie krytykuje. Wiceminister MON Cezary Tomczyk przyniósł do Sejmu dokumenty potwierdzające warunki i stwierdził, że 'spaliłby się ze wstydu'.",
+      "angle": "Podręcznikowa hipokryzja: atakujesz dzisiejszą tańszą pożyczkę, bo sam zaciągałeś wcześniej droższą — i masz czelność robić to publicznie.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/cezary-tomczyk-pokazal-dokument-gleboka-hipokryzja-mariusza-blaszczaka-st9084868",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nawrocki woła: odbierzmy Zelensky'emu order. Tusk musi zdecydować",
+      "summary": "Prezydent Nawrocki zwołał Kapitułę Orderu Orła Białego, żeby odebrać Wołodymyrowi Zelensky'emu najwyższe polskie odznaczenie — bo Ukraina nazwała batalion sił specjalnych 'Bohaterowie UPA'. Kapituła obraduje 8 czerwca. Formalne odebranie wymaga kontrasygnaty premiera Tuska, który jest między dyplomatycznym młotem a politycznym kowadłem.",
+      "angle": "W środku rosyjskiej wojny Nawrocki gra kartą historycznego sporu z Ukrainą, stawiając Tuska w pułapce — cokolwiek podpisze lub odrzuci, ktoś dostanie polityczne punkty. Kto tu myśli o Polsce?",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12351027/wolodymyr-zelenski-straci-order-orla-bialego-kapitula-zbierze-sie-na-wniosek-karola-nawrockiego.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Ziobro pożyczył od własnej fundacji — tej powiązanej z Zondacrypto",
+      "summary": "W opublikowanym oświadczeniu majątkowym Ziobry wyszło na jaw, że były minister pożyczył pieniądze od fundacji, której sam jest prezesem — a ta fundacja pojawia się w kontekście afery Zondacrypto. Tusk skomentował: 'to mocniejsze niż akt oskarżenia'. Ziobro odparował z Waszyngtonu, nazywając Tuska 'królem złodziejskiego układu'.",
+      "angle": "Człowiek, który przez lata jako minister sprawiedliwości walczył z korupcją i układami, pożycza od własnej fundacji gdy jest oskarżony — i robi to w dokumencie, który sam składał. Trudno napisać lepsze podsumowanie.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/donald-tusk-o-oswiadczeniu-majatkowym-zbigniewa-ziobry-to-jest-mocniejsze-niz-akt-oskarzenia-st9082717",
+      "source": "TVN24"
     }
   ]
 }
