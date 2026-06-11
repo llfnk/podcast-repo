@@ -1,28 +1,44 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-11",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki wetuje ustawę o krypto po raz trzeci — nowa wersja różniła się od poprzedniej jednym przepisem",
+      "summary": "11 czerwca prezydent Karol Nawrocki złożył trzecie z rzędu weto na ustawę regulującą rynek kryptoaktywów. Parlament poprawił zaledwie jeden z szesnastu zgłoszonych zarzutów prezydenta, reszta ustawy pozostała niezmieniona. Tusk zasugerował publicznie, że Nawrocki może być w sprawę kryptowalut bardziej uwikłany niż sądzono — w tle wciąż ciągnie się afera Zondacrypto i brak jakiejkolwiek regulacji rynku.",
+      "angle": "Prezydent blokuje regulację rynku krypto trzeci raz z rzędu, w kraju który właśnie przeżył największą aferę kryptowalutową w swojej historii — warto zapytać, czyim interesom to służy.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Do-3-razy-sztuka-Prezydent-Nawrocki-zawetowal-ustawe-o-rynku-kryptoaktywow-9149862.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Stanowski wzywa do publicznego upokorzenia urzędniczki za mandat 2500 zł — KAS składa doniesienie do prokuratury",
+      "summary": "Gdańska pizzeria dostała mandat za stosowanie 8% zamiast 23% VAT od pizzy z krewetkami. Krzysztof Stanowski na Kanale Zero i na X imiennie zaatakował urzędniczkę KAS, pisząc że zasługuje na publiczne upokorzenie i potępienie. 8 czerwca Dyrektor Izby Administracji Skarbowej w Gdańsku złożył zawiadomienie do prokuratury o nawoływaniu do linczu.",
+      "angle": "Celebryta z milionami obserwatorów siczy tłum na szeregową urzędniczkę stosującą przepisy — czy to krytyka absurdalnego systemu VAT, czy dokładnie to, o co go oskarżają?",
+      "category": "media",
+      "url": "https://oko.press/na-zywo/na-zywo-relacja/stanowski-wzywal-do-linczu-urzedniczki-sprawa-trafila-do-prokuratury",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Wiceminister porównał UPA do Żołnierzy Niezłomnych, Czarzasty odpowiedział atakiem na tropiących gejów",
+      "summary": "Wiceminister nauki Andrzej Szeptycki w wywiadzie radiowym porównał UPA do polskich Żołnierzy Niezłomnych, co 9 czerwca wywołało burzę sejmową. Opozycja żądała dymisji całego rządu, krzycząc o zdradzie narodowej. Marszałek Czarzasty zamiast bronić merytorycznie, odparł: zarzucił opozycji tropienie Ukraińców, Żydów i zaraz pewnie gejów w rządzie.",
+      "angle": "Polska debata historyczna w pigułce: jedna strona mówi coś dyskusyjnego, druga odpowiada oskarżeniami politycznymi — i nikt nie wypowiada ani jednego zdania na temat samej historii.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-06-09/burza-w-sejmie-po-slowach-wiceministra-szeptyckiego-pasozyty-zdrajcy-to-jest-skandal/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Dwa lata po 'aferze wizowej' rząd Tuska nadal korzysta z VFS Global — firmy, którą w kampanii nazywał zagrożeniem bezpieczeństwa",
+      "summary": "W kampanii 2023 politycy koalicji atakowali rząd PiS za outsourcing usług wizowych do VFS Global, nazywając to oddaniem bezpieczeństwa obcym korporacjom. Dwa lata później rząd Tuska sam korzysta z tej samej firmy w Białorusi, Turcji i Indiach — umowa indyjska ważna do 2027, turecka właśnie przedłużona.",
+      "angle": "Kiedy retoryka o bezpieczeństwie narodowym jest tylko kampanijnym argumentem, nie zasadą — ta sama firma, ten sam kontrakt, inne nazwisko na teczce z umową.",
+      "category": "polityka",
+      "url": "https://zero.pl/news/afera-wizowa-po-dwoch-latach-polska-nadal-wspolpracuje-z-vfs-global",
+      "source": "Kanał Zero (zero.pl)"
+    },
+    {
+      "title": "Nawrocki zawetował przedłużenie terminu egzaminu językowego dla lekarzy — 441 medyków już straciło licencje",
+      "summary": "Prezydent Nawrocki 11 czerwca zawetował ustawę, która o rok wydłużałaby termin na zdanie egzaminu z polskiego przez lekarzy spoza UE. Od 1 maja izby lekarskie odebrały prawo wykonywania zawodu 441 medykom, głównie z Ukrainy. Naczelna Izba Lekarska poparła weto, argumentując że pacjent ma prawo rozmawiać z lekarzem po polsku.",
+      "angle": "Ta sama izba lekarska, która przez lata dopuszczała do pracy lekarzy bez egzaminu językowego, klaszcze na weto akurat teraz — gdy szpitale alarmują o brakach kadrowych.",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Lekarze-spoza-UE-bez-egzaminu-z-jezyka-Prezydent-Karol-Nawrocki-stawia-weto-9149887.html",
       "source": "Bankier.pl"
     }
   ]
