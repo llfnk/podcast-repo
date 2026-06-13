@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-13",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
+      "title": "Mejza wprowadził patostreamera do Sejmu — i zagłosował za zakazem patostreamingu",
+      "summary": "Poseł Łukasz Mejza (niezrzeszony, były wiceminister PiS) wprowadził 10 czerwca do Sejmu skazanego patostreamera Daniela Magicala w momencie, gdy Izba procedowała ustawę zakazującą patostreamingu. Następnego dnia Mejza zagłosował za jej uchwaleniem. Kancelaria Sejmu zapowiedziała zakaz wstępu dla gościa posła.",
+      "angle": "Podręcznikowy przykład zasady »zasady dla was, nie dla nas« — poseł osobiście sprowadza do parlamentu człowieka, którego zachowanie za chwilę staje się przestępstwem, po czym przykłada rękę pod nowe prawo.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/lukasz-mejza-wprowadzil-do-sejmu-daniela-magicala-bedzie-wniosek-do-komisji-etyki-st9090185",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pakt migracyjny wszedł w życie. Polska ma sześć miesięcy zwolnienia — potem koniec z bajką",
+      "summary": "12 czerwca unijny Pakt o migracji i azylu stał się wiążący dla wszystkich państw UE. Polska uzyskała zwolnienie z mechanizmu relokacji tylko do końca 2026 roku — po tym terminie będzie musiała przyjmować uchodźców lub płacić finansowe odszkodowania. Rząd przez lata zapewniał, że żadnego migranta nie przyjmie.",
+      "angle": "Politycy ze wszystkich stron latami licytowali się na twardość wobec migracji — wyszło półroczne odroczenie. To nie sukces negocjacyjny, to kupon z odroczonym terminem płatności.",
+      "category": "polityka",
+      "url": "https://demagog.org.pl/na-biezaco/pakt-migracyjny-wszedl-w-zycie/",
+      "source": "Demagog.org.pl"
+    },
+    {
+      "title": "Dziennikarz pisał o Giertychu i aferze Polnord — trafił do aresztu na 3 miesiące",
+      "summary": "Leszek Kraskowski, dziennikarz śledczy badający aferę dewelopera Polnord i domniemane powiązania posła KO Romana Giertycha, został 9 czerwca aresztowany na 3 miesiące. Zarzuty: groźby karalne wobec komendanta policji i nielegalne posiadanie broni gazowej. Prokuratura zajęła urządzenia z danymi informatorów objętymi tajemnicą dziennikarską. RPO interweniuje, środowisko dziennikarskie protestuje.",
+      "angle": "Dziennikarz opisujący ludzi z obozu rządzącego ląduje w areszcie, jego materiały trafiają do prokuratury — kiedy zarzuty brzmią absurdalnie, a protesty środowiska narastają, pytanie o niezależność prokuratury przestaje być retoryczne.",
       "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "url": "https://www.rp.pl/przestepczosc/art44595501-leszek-kraskowski-aresztowany-padaja-pytania-o-tajemnice-dziennikarska",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Rektor wysyłał seksualne wiadomości do podwładnych — ministerstwo wiedziało rok i milczało",
+      "summary": "11 czerwca senat Uniwersytetu w Siedlcach odwołał rektora prof. Mirosława Minkinę (wynik 58 do 46 głosów). Przez rok ministerstwo nauki miało dowody na mobbing, propozycje seksualne wobec podwładnych i korupcję — i nie reagowało. Do odwołania doszło dopiero po opublikowaniu śledztwa dziennikarzy Wirtualnej Polski.",
+      "angle": "Wewnętrzny system dyscyplinarny uczelni zadziałał tylko dlatego, że ktoś z zewnątrz wziął kamerę — rok bezruchu pokazuje, że jedyną realną kontrolą nad szefami publicznych instytucji jest prasa.",
+      "category": "urzędy",
+      "url": "https://wiadomosci.wp.pl/wirtualna-polska-ujawnila-skandal-w-siedlcach-rektor-odwolany-7295713502152736a",
+      "source": "WP.pl"
     }
   ]
 }
