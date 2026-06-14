@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-06-14",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki zamienił Pałac Prezydencki na oktagon — poleciał na UFC do Trumpa",
+      "summary": "Prezydent Karol Nawrocki przyleciał 13 czerwca do Stanów Zjednoczonych na 80. urodziny Donalda Trumpa i galę UFC Freedom 250 na trawniku Białego Domu. W polskiej delegacji znalazł się Jan Błachowicz, były mistrz UFC. Wizyta ma charakter nieoficjalny. Minister Sikorski skomentował na X: 'Trzymam kciuki, aby wszedł co najmniej do półfinału'.",
+      "angle": "Kiedy prezydent na spotkanie z Trumpem zabiera mistrza MMA zamiast teczki z postulatami, to już nie jest dyplomacja — to fan meeting z polskim akcentem.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/swiat/gala-ufc-w-bialym-domu-donald-trump-zaprasza-prezydenta-karola-nawrockiego-kontrowersje-i-pozwy-st9090076",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Trzecie weto: Nawrocki blokuje regulację kryptowalut, Domański zapowiada czwartą ustawę",
+      "summary": "11 czerwca prezydent Nawrocki zawetował po raz trzeci rządową ustawę o rynku kryptoaktywów — tę, która miała dać KNF uprawnienia do karania oszustów. Obie poprzednie wersje trafiły do kosza z tego samego powodu. Minister Domański określił sytuację jako haniebną i zapowiedział przygotowanie czwartego projektu.",
+      "angle": "Rząd trzy razy z rzędu próbuje uregulować krypto-dziki zachód, prezydent trzy razy blokuje — i nikt głośno nie pyta, czyj interes tu Nawrocki chroni.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Do-3-razy-sztuka-Prezydent-Nawrocki-zawetowal-ustawe-o-rynku-kryptoaktywow-9149862.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Polsat na antenie: 'Jak to możliwe, że Ukrainiec jest polskim wiceministrem?' — sprawa trafia do KRRiT",
+      "summary": "Dorota Gawryluk w Polsacie stwierdziła publicznie, że nie rozumie, jak osoba ukraińskiego pochodzenia i działacz Związku Ukraińców może pełnić funkcję wiceministra w polskim rządzie. Agnieszka Kublik z Gazety Wyborczej zapowiedziała skargę do KRRiT. Kontekst: wiceminister nauki Andrzej Szeptycki porównał wcześniej UPA do Żołnierzy Niezłomnych.",
+      "angle": "Debata o historycznym porównaniu błyskawicznie przeistoczyła się w kwestionowanie prawa do stanowiska przez pryzmat etniczności — i to na antenie ogólnopolskiej telewizji, bez żadnej interwencji redakcji.",
+      "category": "media",
+      "url": "https://www.rp.pl/polityka/art44606771-jak-to-mozliwe-ze-czlowiek-o-pochodzeniu-ukrainskim-jest-wiceministrem-slowa-doroty-gawryluk-trafia-do-krrit",
+      "source": "RP.pl"
+    },
+    {
+      "title": "Nawrocki daje Zełenskiemu kilka dni: cofnij UPA albo stracisz Order Orła Białego",
+      "summary": "Rzecznik prezydenta Nawrockiego ogłosił 13 czerwca, że Zełenski ma kilka dni — nie tygodni — na cofnięcie decyzji o nadaniu jednostce wojskowej tytułu bohaterów UPA, inaczej straci Order Orła Białego. Kapituła wydała już pozytywną opinię ws. odebrania orderu. Ukraina sygnalizuje, że Zełenski decyzji nie zmieni.",
+      "angle": "Polska i Ukraina w 2026 roku: zamiast rozmawiać o wsparciu wojskowym, wchodzimy w ultimatum o nazwę jednostki i dyplomatyczne odznaczenia — warto zapytać, kto na tym teatrze naprawdę korzysta.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44617681-rzecznik-prezydenta-powiedzial-dlaczego-nawrocki-zwleka-z-decyzja-ws-orderu-zelenskiego",
+      "source": "RP.pl"
     }
   ]
 }
