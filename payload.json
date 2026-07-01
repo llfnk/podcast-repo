@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Poseł Konfederacji dostał 700 tys. zł od Zondacrypto — pięć dni wcześniej bronił jej w Sejmie po powrocie z Monako",
+      "summary": "Poseł Przemysław Wipler z Konfederacji i jego wspólnik odwiedzili latem 2025 r. prezesa Zondacrypto w Monako. Pięć dni po powrocie Wipler zabrał głos w Sejmie, atakując rząd za blokowanie dostępu do giełdy przez mObywatel. W ciągu kolejnych miesięcy fundacja Wiplera i firma wspólnika otrzymały łącznie 160 tys. euro od spółek powiązanych z Kralem. Gdy money.pl i WP ujawniły przelewy, Wipler odszedł od kamer bez słowa.",
+      "angle": "Partia 'zasad i wolnego rynku' ma zasady — wystarczy odpowiednio zapłacić i zasady stają się zadziwiająco elastyczne.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.money.pl/finanse/wipler-odwiedzil-prezesa-zondy-w-monako-tydzien-pozniej-bronil-gieldy-w-sejmie-7298563830343712a.html",
+      "source": "money.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Lekarz-radny KO zarobił 1,6 mln zł w rok. Próbował oddać 500 tys. — szpital odesłał mu przelew z powrotem",
+      "summary": "Dawid Kacprzyk, lekarz i radny Koalicji Obywatelskiej, wystawił faktury na 1,6 mln zł z jednego szpitala w rok — matematycznie wymaga to 11 godzin pracy dziennie przez 365 dni. Po wybuchu skandalu przelał 500 tys. zł do Szpitala Południowego; placówka odesłała pieniądze, bo nie miała 'dokumentów księgowych' do ich zaksięgowania. Kacprzyk koryguje teraz 33 faktury, rezygnuje z mandatu radnego, a prokuratura wszczyna dwa śledztwa.",
+      "angle": "System jest tak skonstruowany, że nawet oddanie nielegalnie zarobionych pieniędzy staje się biurokratycznie niemożliwe — to nie wpadka jednej osoby, to polska administracja działająca dokładnie jak należy.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Kacprzyk-koryguje-33-faktury-i-rzuca-mandat-Jest-doniesienie-o-oszustwie-9153583.html",
+      "source": "bankier.pl"
+    },
+    {
+      "title": "Prokuratura umorzyła 7-letnie śledztwo ws. 'dwóch wież' — bez zarzutów dla Kaczyńskiego. Koalicja: prokuratorzy mają to w poważaniu",
+      "summary": "Prokuratura Okręgowa w Warszawie umorzyła pod koniec czerwca śledztwo w sprawie spółki Srebrna i planów budowy wieżowców przez PiS — brak znamion przestępstwa. Kaczyński był przesłuchany jako świadek, ale nie usłyszał zarzutów. Politycy koalicji rządzącej reagują z irytacją, choć to ich wieloletnie reformy miały gwarantować właśnie niezależność prokuratury.",
+      "angle": "Przez lata KO obiecywała: odbudujemy niezależną prokuraturę i rozliczymy PiS. Prokuratura jest teraz niezależna. I właśnie zamknęła ich flagową sprawę bez zarzutów. Życzenie spełnione — tyle że nie tak jak planowali.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/politycy-komentuja-umorzenie-sledztwa-w-sprawie-dwoch-wiez-prokuratorzy-maja-to-w-powazaniu-st9120840",
+      "source": "TVN24"
+    },
+    {
+      "title": "Cztery lata 'tymczasowej' obniżki VAT na paliwa skończyły się dziś — dokładnie gdy Polacy masowo jadą na wakacje",
+      "summary": "Od 1 lipca 2026 r. wygasł program CPN, który utrzymywał obniżony VAT na paliwa (8% zamiast 23%). Nocą stacje podbijały ceny o 60-80 groszy na litrze — pełny bak kosztuje teraz nawet 40 zł więcej. Program był wielokrotnie przedłużany przez poprzedni i obecny rząd od 2022 roku jako 'tymczasowy', aż skończył się dokładnie 1 lipca — w środku sezonu urlopowego.",
+      "angle": "Cztery lata 'awaryjnej tymczasowej' tarczy antyinflacyjnej — zakończona bez uprzedzenia w środku wakacji. Rząd, który krytykował poprzedników za kupowanie wyborców dotacjami, kontynuował je przez dwa lata i zakończył akurat wtedy, gdy wszyscy są za kierownicą.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-taniego-tankowania-Od-1-lipca-ceny-paliw-na-stacjach-ostro-w-gore-9161543.html",
+      "source": "bankier.pl"
     }
   ]
 }
