@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-02",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Lekarz-radny KO zarobił 1,6 mln bez specjalizacji i zwraca pieniądze kolejnym szpitalom",
+      "summary": "Dawid Kacprzyk, 28-letni rezydent i radny Koalicji Obywatelskiej, zarobił 1,6 mln zł w 2025 r. jako koordynator SOR Szpitala Południowego, mimo braku tytułu specjalisty. Po nagłośnieniu afery przez Kanał Zero zwrócił ponad 500 tys. zł Szpitalowi Południowemu, a następnie kolejne 80 tys. zł Szpitalowi Bródnowskiemu. Prezydent Trzaskowski dostał absolutorium od koalicyjnych radnych mimo żądań opozycji i zapowiada teraz 'depolityzację' szpitali.",
+      "angle": "Najskuteczniejsza ścieżka kariery w publicznej służbie zdrowia to nie specjalizacja, a legitymacja partyjna — i nikt nie zauważy, dopóki YouTuber nie zapyta.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-lekarz-radny-zarobil-1-6-miliona-kontrola-w-szpitalu-i-interwencja-naczelnej-izby-lekarskiej-st9096506",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Trzecie weto Nawrockiego na krypto: chciał chronić branżę, a od 1 lipca branża jest bez ochrony",
+      "summary": "Prezydent Nawrocki trzykrotnie zawetował ustawę wdrażającą unijne MiCA, tłumacząc, że chroni polskie firmy przed nadmiernym nadzorem KNF. Od 1 lipca 2026 r. wygasł unijny okres przejściowy: Polska nie ma wyznaczonego regulatora kryptoaktywów, KNF nie może przyjmować wniosków o licencje, a zagraniczne giełdy z unijnymi licencjami wchodzą na nasz rynek bez przeszkód. Koalicji brakowało głosów do obalenia weta, komisja sejmowa znów rekomenduje odrzucenie — wynik kolejnego głosowania niepewny.",
+      "angle": "Prezydent wetował regulację w imię wolności rynku i stworzył regulacyjną pustkę: krajowe firmy bez statusu prawnego, zagraniczna konkurencja z pełnymi uprawnieniami. Rynek 'chroniony' przez brak jakiegokolwiek prawa.",
+      "category": "polityka",
+      "url": "https://bizblog.spidersweb.pl/kryptowaluty-weto-prezydenta-mica-1-lipca",
+      "source": "Spider's Web Bizblog"
+    },
+    {
+      "title": "VeloBank przejął klientów Citi i obiecał 'bez zmian' — potem naliczył opłaty, których nie powinno być",
+      "summary": "W czerwcu 2026 r. VeloBank przeniósł ok. 500 tys. klientów Citi Handlowy, gwarantując brak zmian w opłatach. Po migracji pojawiły się prowizje za transakcje BLIK i płatności kartą nieobecne w taryfie Citi. Bank deklaruje zwrot błędnie pobranych opłat, ale wyłącznie klientom, którzy złożyli reklamację: ok. 3500 osób, czyli 0,7 proc. całej bazy migrantów.",
+      "angle": "Obietnica 'zero zmian' obowiązywała do pierwszego wyciągu. Pozostałe 99,3 proc. klientów dostało do wyboru: samemu wykryć błąd i złożyć reklamację albo zapomnieć i przepłacić.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/VeloBank-zwroci-nieslusznie-naliczone-oplaty-po-migracji-Citi-Reklamacje-zlozylo-ok-0-7-proc-klientow-9160556.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "2,5 roku po unijnym terminie rząd dzieli DSA na dwie ustawy, żeby ominąć weto Nawrockiego",
+      "summary": "Polska miała wdrożyć unijny Akt o Usługach Cyfrowych (DSA) do lutego 2024 r. W lipcu 2026 r. — 2,5 roku po terminie — rząd podzielił projekt wdrażający DSA na dwie osobne ustawy po tym, jak Nawrocki zawetował oryginalną. Ministerstwo Cyfryzacji wybrało legislacyjne obejście: uchwalić mniej kontrowersyjną część, a drugą zostawić na potem, zamiast próbować obalić weto wymaganą większością głosów.",
+      "angle": "Kiedy prawo europejskie grzęźnie w wojnie koalicja kontra prezydent, Polska wynajduje workaround zamiast go zwyczajnie przegłosować — i zostaje jednym z ostatnich krajów UE bez wdrożonego DSA.",
+      "category": "urzedy",
+      "url": "https://www.rp.pl/internet-i-prawo-autorskie/art44758661-sejm-wraca-do-wdrozenia-unijnego-aktu-o-uslugach-cyfrowych-rzad-podzielil-przepisy",
+      "source": "Rzeczpospolita"
     }
   ]
 }
