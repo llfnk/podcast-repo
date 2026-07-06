@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-06",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Szpital Południowy: VIP-salonik dla polityków KO, 29-latek bez specjalizacji zarabia 1,6 mln rocznie",
+      "summary": "W Warszawskim Szpitalu Południowym funkcjonował nieformalny salonik VIP, gdzie politycy Koalicji Obywatelskiej omijali kolejki. Koordynatorem SOR był 29-letni lekarz bez specjalizacji z legitymacją KO, który w 2025 roku zarobił 1,6 mln zł. Zarząd szpitala odwołano; w tle kolejne wątki: szef prosektorium udostępniał zdjęcia zwłok i kierował rodziny do wybranych zakładów pogrzebowych, a za wniosek o 49 mln z KPO szpital zapłacił firmie Deloitte 725 tys. zł — rynkowa stawka to 25–35 tys.",
+      "angle": "Koalicja, która szła do władzy pod hasłem naprawy patologii PiS, odtworzyła w publicznym szpitalu system VIP-przywilejów: jedni czekają godzinami na SOR, politycy koalicji wchodzą bez kolejki.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/nowe-informacje-po-aferze-w-szpitalu-poludniowym-czesc-ludzi-cieszylaby-sie-z-opcji-atomowej-st9109364",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pełnomocnik Wojewody z KO do ukraińskiego taksówkarza: 'Ty wiesz kim ja jestem? Zaraz licencję stracisz'",
+      "summary": "Piotr Matan, radny KO i pełnomocnik Wojewody Świętokrzyskiego, nagrał awanturę z ukraińskim kierowcą aplikacji — ten odmówił kursu, bo pasażerka miała przy sobie jedzenie. Matan groził mu utratą licencji i powoływał się na stanowisko. Gdy nagranie trafiło do sieci 2 lipca 2026, stracił stanowisko pełnomocnika i został zawieszony w partii. Taksówkarza publicznie nazwał 'patostreamerem'.",
+      "angle": "Partia dumnie pro-ukraińska, a jej lokalny urzędnik traktuje ukraińskiego pracownika jak poddanego — i gdy wybucha skandal, atakuje ofiarę zamiast przepraszać.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/kielce/wiesz-kim-ja-jestem-radny-ko-piotr-matan-klocil-sie-w-taksowce-reakcja-wladz-koalicji-obywatelskiej-st9124729",
+      "source": "TVN24"
+    },
+    {
+      "title": "Czarzasty zwalnia twórcę reformy PIP 3 dni przed jej startem. Następca sprzeciwia się samej reformie",
+      "summary": "Od 8 lipca 2026 r. wchodzi reforma Państwowej Inspekcji Pracy — inspektorzy zyskają prawo zamiany fikcyjnych umów B2B i zleceń na etaty. Marszałek Sejmu Włodzimierz Czarzasty (Lewica) bez uzasadnienia odwołał szefa PIP Marcina Staneckiego, współtwórcę tej reformy. Proponowany następca, były poseł Lewicy Janusz Krasoń, publicznie sprzeciwia się automatycznej zamianie kontraktów na etaty — czyli sednu reformy, którą sam rząd przepchnął.",
+      "angle": "Lewica przepycha przełomową reformę dla pracowników, po czym zwalnia jej twórcę i chce postawić na czele inspekcji kogoś, kto jest tej reformie przeciwny. Reforma istnieje na papierze, reformator wylewa się trzy dni wcześniej.",
+      "category": "urzędy",
+      "url": "https://www.rp.pl/administracja-panstwowa/art44751421-kandydat-na-szefa-pip-przeciwny-automatycznemu-zamienianiu-umow-b2b-na-etaty",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Rząd tajnie oddawał Ukrainie rzadkie pociski Patriot — teraz ogłasza transparentność, bo i tak wyszło",
+      "summary": "Bosak (Konfederacja) ujawnił, że Polska przekazała Ukrainie zaawansowane pociski Patriot PAC-3 MSE ze swoich zapasów obrony powietrznej. 5 lipca 2026 r. minister Kosiniak-Kamysz zarządził odtajnienie całej listy pomocy wojskowej dla Ukrainy z lat 2022–2026. Jednocześnie rząd uruchomił śledztwo ws. ujawnienia tajemnic państwowych — czyli ściga tych, dzięki którym transparentność w ogóle się pojawiła.",
+      "angle": "Podręcznikowa transparentność przez przymus: rząd robi coś w tajemnicy, bo wie, że jawnie nie przeszłoby — gdy wychodzi, ogłasza pełną otwartość i ściga informatorów.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Burza-o-Patrioty-dla-Ukrainy-MON-odtajnia-wszystkie-donacje-sprzetowe-dla-Ukrainy-9163803.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Grodzki atakuje krytyka KO ujawniając protekcję w Senacie — i ląduje z przeprosinami",
+      "summary": "Były Marszałek Senatu Tomasz Grodzki (KO) odpowiedział na krytykę biznesmena Abramczyka sugestią, że ten zabiegał u 'bardzo ważnego polityka KO' o staż w Senacie dla córki i 'staż się odbył'. Abramczyk opublikował zaświadczenie z Kancelarii Senatu: jego 16-letnia córka odbyła w 2022 roku bezpłatną, dwudniową praktykę szkolną. Grodzki przyznał, że 'winien jest przeprosiny za nieprecyzyjny wpis'.",
+      "angle": "Próbował zaatakować krytyka, a zamiast tego przyznał, że w KO działa sieć nieformalnych przysług dostępu do instytucji — i na dokładkę okazało się, że kłamał w szczegółach.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/nie-bylo-stazu-internauta-pokazal-dokument-po-wpisie-grodzkiego-7304336744638880a",
+      "source": "WP.pl"
     }
   ]
 }
