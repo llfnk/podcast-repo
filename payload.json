@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-07",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Grodzki wytknął krytykowi 'staż córki w Senacie' — internauci udowodnili, że stażu nie było",
+      "summary": "Były marszałek Senatu Tomasz Grodzki odpowiedział na X krytykowi KO, sugerując że powinien być wdzięczny za 'załatwienie stażu córki w Senacie'. Internauta natychmiast opublikował dokumenty: stażu nie było — jego szesnastoletnia córka spędziła dwa dni w Senacie, żeby napisać pracę do podania na uczelnię. Wpis Grodzkiego zebrał 1,4 mln wyświetleń, a były marszałek musiał przepraszać za 'nieprecyzyjne sformułowanie'.",
+      "angle": "Senator używa wyimaginowanej przysługi jako argumentu w dyskusji politycznej i ujawnia, że takie 'wejście tylnymi drzwiami' traktuje jak naturalną walutę — klasyczne 'zasady dla was, nie dla nas' zdemaskowane przez własny wpis na X.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/nie-bylo-stazu-internauta-pokazal-dokument-po-wpisie-grodzkiego-7304336744638880a",
+      "source": "WP Wiadomości"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Poseł KO przyznał na wizji: saloniki VIP są w prawie każdym szpitalu i 'przyjmą z kawą'",
+      "summary": "Podczas debaty w Kanale Zero o skandalu w Szpitalu Południowym poseł KO Piotr Kandyba powiedział, że saloniki VIP, gdzie politycy omijają kolejki, istnieją w prawie każdym szpitalu — 'przyjmą tam pana z kawą'. Stwierdził to akurat wtedy, gdy KO jest atakowane za 29-latka bez specjalizacji, który zarobił 1,6 mln zł i organizował VIP-owski dostęp dla działaczy partii w tym samym szpitalu.",
+      "angle": "Poseł, chcąc znormalizować przywileje i osłonić kolegów, przypadkowo potwierdził, że nierówny dostęp do służby zdrowia to systemowy standard — i zrobił to lepiej niż każdy dziennikarz śledczy.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/posel-ko-mowil-o-salonikach-vip-w-sieci-rozgorzala-dyskusja-7303868578081184a",
+      "source": "WP Wiadomości"
+    },
+    {
+      "title": "Neurochirurdzy brali od NFZ 26 tys. zł za godzinę — szpital, który płacił, nie ma teraz na pensje",
+      "summary": "WP ujawniło, że spółka neurochirurgów działająca w kilku województwach wystawiała szpitalom faktury za 26 tys. zł za godzinę i ponad 300 tys. zł dziennie. W soboty dokumentacja wskazywała dziesiątki 3-10-minutowych zabiegów, które czasowo nie mogły zmieścić się w jednej dobie. NFZ nałożył 2,6 mln zł kary na szpital w Mogilnie — placówka nie ma teraz pieniędzy na lipcowe wynagrodzenia, a CBA i prokuratura badają kolejny szpital w Miastku.",
+      "angle": "System, który od lat mówi, że nie ma pieniędzy na godne pensje personelu, przez lata opłacał faktury za usługi fizycznie niemożliwe do wykonania — nikt nie sprawdzał, bo sprawdzać miał NFZ, a NFZ sprawdził dopiero teraz.",
+      "category": "urzędy",
+      "url": "https://wiadomosci.wp.pl/zarabiali-nawet-26-tys-zl-za-godzine-ujawniamy-kolejne-zuchwale-metody-spolki-neurochirurgow-7304628127377760a",
+      "source": "WP Wiadomości"
+    },
+    {
+      "title": "Kosiniak-Kamysz: 'Otoczenie prezydenta kłamie o Patriotach'. Nawrocki: 'Zdumiewa mnie Pan'",
+      "summary": "Polska przekazała Ukrainie pociski PAC-3 do systemu Patriot na prośbę NATO, co ogłosił szef MON Kosiniak-Kamysz. Prezydent Nawrocki twierdzi, że nie był konsultowany; Kosiniak-Kamysz odpowiedział, że 'otoczenie prezydenta kłamie' i wskazał trzy konkretne daty posiedzeń Komitetu ds. Bezpieczeństwa. Nawrocki odpisał na X: 'Zdumiewa mnie Pan' — tuż przed wyjazdem obu na szczyt NATO w Ankarze.",
+      "angle": "Szef MON i prezydent kłócą się publicznie na platformie Muska o decyzję obronną w dniu, gdy Polska jedzie reprezentować się na szczycie NATO — trudno o lepszy obraz instytucjonalnego chaosu w sprawach bezpieczeństwa.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/pociski-do-systemu-patriot-przekazane-ukraincom-szef-mon-wladyslaw-kosiniak-kamysz-stanowia-margines-naszych-zdolnosci-st9131082",
+      "source": "TVN24"
     }
   ]
 }
