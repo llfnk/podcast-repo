@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-09",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Radny PiS zoperowany na zawieszonym oddziale. Pacjenci nie mogli — on mógł. 'To moja prywatna sprawa'",
+      "summary": "Andrzej Kardasz, przewodniczący rady powiatu w Lubartowie z PiS, przeszedł operację na oddziale chirurgii zawieszonym od marca do września 2026 z powodu braku personelu. Zwykli pacjenci nie mieli dostępu do oddziału — radny owszem. Szpital potwierdził, że zabieg nie był pilny. Kardasz zapytany o sprawę odpowiedział jedynie, że 'to jego prywatna sprawa'.",
+      "angle": "Klasyczne 'zasady dla was, nie dla nas' — oddział zamknięty dla wszystkich, z wyjątkiem tych z odpowiednimi kontaktami, a polityk zamknięcia nawet nie zauważył.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/regiony/lublin/news-radny-pis-zoperowany-mimo-zawieszenia-oddzialu-chirurgii-to-,nIdn,1009304",
+      "source": "RMF24"
+    },
+    {
+      "title": "Neurochirurdzy 26 tys. zł za godzinę, 300 tys. za dzień pracy. Szpital w Mogilnie bankrutuje — przyszedł komornik",
+      "summary": "Prywatna spółka neurochirurgów przez kilka miesięcy wystawiała szpitalowi w Mogilnie faktury po 26 tysięcy złotych za godzinę i ponad 300 tysięcy za dzień pracy. Setkom pacjentów wystawiono identyczną dokumentację medyczną, a NFZ ustaliło, że rozliczano procedury cztery razy droższe niż faktycznie wykonane. Kara to ponad 2,6 mln zł — szpital nie ma pieniędzy na lipcowe pensje.",
+      "angle": "System ochrony zdrowia przez miesiące finansował jawne oszustwo, bo nikt nie patrzył na faktury — a teraz pacjenci mogą stracić dostęp do chirurgii, bo szpital ma komornika.",
+      "category": "korporacja",
+      "url": "https://tvn24.pl/zdrowie/afera-w-szpitalu-w-mogilnie-bajonskie-stawki-falszowana-dokumentacja-komentarze-st9132058",
+      "source": "TVN24"
+    },
+    {
+      "title": "Flagowy program in vitro Tuska pod lupą CBA. Algorytm mógł faworyzować klinikę powiązaną z urzędnikiem ministerstwa",
+      "summary": "CBA wszczęło wstępną analizę rządowego programu in vitro pochłaniającego minimum 500 mln zł rocznie z budżetu. Pojawiły się sygnały, że algorytm podziału środków między klinikami mógł być skonstruowany tak, by faworyzować konkretną placówkę utrzymującą dobre relacje z urzędnikiem Ministerstwa Zdrowia. Jedna z klinik trafiła już do prokuratury pod zarzutem wyłudzenia środków.",
+      "angle": "Tusk zrobił z in vitro swój polityczny szyld i sztandarowy projekt rządu — a teraz CBA sprawdza, czy ktoś przy okazji nie ustawił systemu pod siebie.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/prawo-karne/art44777431-korupcja-w-in-vitro-cba-sprawdza-rzadowy-program",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Polska przekazała Ukrainie rakiety Patriot. Prezydent: 'nie konsultowano'. Minister: 'otoczenie Nawrockiego kłamie'",
+      "summary": "Polska potwierdziła przekazanie partii rakiet do systemu Patriot Ukrainie. Prezydent Nawrocki, wracając ze szczytu NATO w Ankarze, oznajmił, że rządowy dialog z nim 'w żaden sposób nie można nazwać konsultacją'. Minister Kosiniak-Kamysz odpowiedział, że 'otoczenie prezydenta kłamie' i wymienił trzy konkretne posiedzenia komisji, na których sprawę omawiano.",
+      "angle": "Polska podjęła kluczową decyzję obronną, a głowy państwa i rządu kłócą się publicznie przez media o to, kto komu co 'naprawdę powiedział' — tak wygląda zarządzanie bezpieczeństwem kraju w wykonaniu dwóch najważniejszych instytucji.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://tvn24.pl/polska/spiecie-o-przekazanie-ukrainie-rakiet-do-systemu-patriot-karol-nawrocki-ta-decyzja-nie-byla-moja-st9134418",
+      "source": "TVN24"
     }
   ]
 }
