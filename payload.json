@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-11",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kaczyński: policja to 'bojówka rządzącej partii' — chce zastąpić ją własną 'gwardią obywatelską'",
+      "summary": "Na miesięcznicy smoleńskiej 10 lipca Jarosław Kaczyński starł się z policją i nazwał funkcjonariuszy 'bojówkarzami rządzącej partii'. Porównał ich do 'kolaborantów Gestapo' i zapowiedział powołanie 'gwardii obywatelskiej, która będzie bardzo zdecydowana' — zamiast policji. Policja odpowiedziała, że działa apolitycznie i wyłącznie na podstawie prawa.",
+      "angle": "PiS przez 8 lat rządów budowało mit 'murem za mundurem' i tłumiło każdą krytykę policji. Teraz gdy ta sama formacja staje Kaczyńskiemu na drodze do pomnika — nagle jest Gestapo i trzeba ją zastąpić prywatną milicją.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-10/awantura-na-miesiecznicy-smolenskiej-kaczynski-zapowiada-gwardie-obywatelska/",
+      "source": "PolsatNews.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Pfizer zajął 80% przychodów PAŻP — agencja lotnicza, która nic nie miała wspólnego ze szczepionkami",
+      "summary": "Belgijski sąd zasądził w kwietniu 2026 r. od Polski 5,6 mld zł dla Pfizera za nieuodebrane dawki COVID. Pfizer zajął konta Polskiej Agencji Żeglugi Powietrznej w Eurocontrol — instytucji zarządzającej ruchem lotniczym, która nigdy nie była stroną sporu o szczepionki. Zablokowano ponad 80% jej przychodów. Rząd uspokaja, że pasażerowie są bezpieczni.",
+      "angle": "Korporacja egzekwuje wyrok wobec instytucji, która nic nie miała wspólnego z jej sporem z polskim rządem — klasyczna odpowiedzialność zbiorowa w wydaniu korporacyjnym: rząd skopał kontrakt szczepionkowy, a zapłaci agencja lotnicza.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Naleznosci-PAZP-zablokowane-W-tle-miliardowy-wyrok-dla-Pfizera-9166085.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Szpital płacił rezydentowi 1,6 mln zł rocznie i sam bankrutował. Minister teraz w 'szoku' ogłasza reformy",
+      "summary": "Dawid Kacprzyk — lekarz bez specjalizacji — wykazał ponad 1,6 mln zł dochodu z jednego publicznego szpitala w ciągu roku (blisko 4000 godzin pracy). Placówka była jednocześnie gigantycznie zadłużona. Po nagłośnieniu sprawy Kacprzyk został zwolniony i zwrócił 500 tys. zł. Minister zdrowia ogłosiła 10 lipca pakiet reform, w tym limit 240 zł/h — a od 1 lipca jednocześnie wzrosły ustawowe minimalne pensje całej kadry medycznej.",
+      "angle": "System przez lata sam tworzył patologię akordowych kontraktów bez żadnego limitu, a szpitale bankrutowały obok. Teraz ci sami urzędnicy udają zdumienie i ogłaszają reformy — bez wyjaśnienia, kto przez dekady to nadzorował.",
+      "category": "urzędy",
+      "url": "https://www.gazetaprawna.pl/biznes/zdrowie/artykuly/11265684,lekarze-pokazali-zarobki-po-aferze-w-szpitalu-poludniowym.html",
+      "source": "GazetaPrawna.pl"
+    },
+    {
+      "title": "Fundacja Rydzyka z 5 mln zł straty — bez dotacji od prawicowych rządów datki od wiernych już nie wystarczają",
+      "summary": "Fundacja Lux Veritatis (TV Trwam, Radio Maryja) zamknęła 2025 rok stratą ponad 5 mln zł — rok wcześniej miała 3,7 mln zysku. Darowizny od widzów wyniosły 39 mln zł, ale koszty urosły do 50,9 mln. Fundacja pokryje stratę z 145 mln rezerw zebranych w poprzednich latach, m.in. z reklam spółek skarbu państwa i dotacji od prawicowych rządów.",
+      "angle": "Fundacja, która zawsze mówiła że jest niezależna od polityki i żyje z ofiarności wiernych, przez lata korzystała szczodrze z publicznych pieniędzy rządów, które ją lubiły. Bez tego wsparcia — czas wyciągać rezerwy.",
+      "category": "media",
+      "url": "https://www.wprost.pl/kraj/12384273/fundacja-lux-veritatis-ze-strata-ponad-5-mln-zl-spadly-darowizny-i-przychody.html",
+      "source": "Wprost"
     }
   ]
 }
