@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-13",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Były strażnik prawa ucieka przed prawem — sąd bezradny, bo Ziobro jest w USA",
+      "summary": "Sąd Okręgowy w Warszawie odmówił 13 lipca wydania Europejskiego Nakazu Aresztowania za Zbigniewem Ziobrą. Powód: ENA dotyczy tylko krajów UE, a były minister sprawiedliwości i prokurator generalny przebywa w USA. Jest podejrzany o 26 przestępstw ws. Funduszu Sprawiedliwości — uciekł najpierw do Budapesztu, potem do USA.",
+      "angle": "Człowiek, który 8 lat był strażnikiem polskiego wymiaru sprawiedliwości, systematycznie wywija się przed tym samym wymiarem sprawiedliwości — i za każdym razem okazuje się, że system nie ma narzędzi, by go dosięgnąć.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.pap.pl/aktualnosci/sad-odmowil-wydania-ena-wobec-b-szefa-ms-zbigniewa-ziobry",
+      "source": "PAP"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Trzaskowski zagwarantował ochronę sygnaliście. Dokumenty: ZDM kłamał, człowiek stracił pracę",
+      "summary": "Pracownik Zarządu Dróg Miejskich w Warszawie zgłosił marnotrawstwo publicznych pieniędzy i w listopadzie 2025 roku otrzymał pisemną gwarancję ochrony od prezydenta Rafała Trzaskowskiego. W styczniu 2026 wyleciał z pracy. Dokumenty ujawnione przez zero.pl podważają oficjalną wersję ratusza, a inspekcja pracy potwierdziła naruszenie jego praw.",
+      "angle": "Trzaskowski sam podpisał ochronę — i albo nie wiedział, co jego urząd robi, albo wiedział i kłamał publicznie. Sygnalista powiedział wprost: 'Byłem głupi. Trzeba było siedzieć cicho'.",
+      "category": "polityka",
+      "url": "https://zero.pl/news/zwolniony-sygnalista-z-zdm-dokumenty-przecza-oficjalnej-wersji-urzedu-i-trzaskowskiego",
+      "source": "Zero.pl"
+    },
+    {
+      "title": "Błaszczak sam dawał Ukrainie broń — teraz krzyczy, że to zdrada",
+      "summary": "Były minister obrony Mariusz Błaszczak zażądał wyjaśnień, dlaczego rząd Tuska w tajemnicy przekazuje Ukrainie Patrioty. Wicepremier Tomczyk odpowiedział starym wpisem Błaszczaka, w którym ten chwali dostawy Patriotów dla Ukrainy. Dane MON: 90% całej polskiej pomocy wojskowej dla Ukrainy pochodzi z czasów rządu PiS.",
+      "angle": "Robiłem to samo — ale teraz jestem w opozycji, więc to jest skandal. Tomczyk powiedział 'hipokryzja to mało powiedziane' i miał dowód w postaci starego wpisu Błaszczaka.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/cezary-tomczyk-przypomnial-wpis-mariusza-blaszczaka-o-patriotach-dla-ukrainy-hipokryzja-to-malo-powiedziane-st9131274",
+      "source": "TVN24"
+    },
+    {
+      "title": "Były polityk z rządu Kaczyńskiego zawiózł apteczki żołnierzom Putina i się tym pochwalił",
+      "summary": "Krzysztof Tołwiński, który w 2007 roku pełnił funkcję wiceministra w rządzie Jarosława Kaczyńskiego, pojechał na Białoruś i przekazał 20 zestawów pierwszej pomocy bojowej żołnierzom rosyjskim. Następnie pochwalił się tym publicznie w internecie. Prokuratura poinformowała, że nie podjęła żadnych czynności z urzędu.",
+      "angle": "Dawny polityk z kręgów władzy wspiera armię, z którą Polska pośrednio walczy, nagrywa to na wideo i publikuje — a prokuratura twierdzi, że nie ma informacji, czy w ogóle coś bada.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/krzysztof-tolwinski-byly-polityk-pis-i-obecny-lider-ugrupowania-front-przekazal-apteczki-dla-rosyjskich-zolnierzy-komentarz-prokuratury-st9137273",
+      "source": "TVN24"
+    },
+    {
+      "title": "PIP może teraz zmienić twój kontrakt B2B w etat — bez sądu, decyzją urzędnika",
+      "summary": "Od 8 lipca 2026 roku inspektorzy Państwowej Inspekcji Pracy mogą wydawać decyzje administracyjne przekształcające kontrakty B2B w umowy o pracę — bez wyroku sądu. Reforma dotyka setki tysięcy freelancerów, programistów i konsultantów. Maksymalna grzywna za fikcyjny kontrakt wzrosła z 30 do 90 tys. zł.",
+      "angle": "Przez lata państwo tolerowało masowe wypychanie pracowników na fikcyjne B2B, bo to sprzyjało pracodawcom i korporacjom. Teraz nagle naprawia rynek pracy — i jak zwykle narzędziem, które najmocniej uderzy w tych najmniejszych.",
+      "category": "urzędy",
+      "url": "https://www.money.pl/praca/to-koniec-umow-b2b-najwazniejsze-pytania-w-przeddzien-wielkiej-reformy-7304861148318112a.html",
+      "source": "Money.pl"
     }
   ]
 }
