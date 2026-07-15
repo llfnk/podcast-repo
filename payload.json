@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-15",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "NIK potwierdza: szpital reklamował centrum, które formalnie nie istniało, i VIP-y na SORze dla polityków KO",
+      "summary": "NIK opublikowała dziś raport z kontroli Warszawskiego Szpitala Południowego. Audytorzy potwierdzili, że Centrum Chirurgii Kręgosłupa — szeroko reklamowane przez placówkę — formalnie nie istniało w jej strukturach. Raport potwierdza też nieformalne zasady przyjmowania polityków KO poza kolejką na SOR oraz chroniczne przeciążenie personelu medycznego.",
+      "angle": "Szpital przez lata reklamował centrum, które formalnie nie istniało, politycy KO omijali kolejkę na SOR, a Trzaskowski odwołał zarząd dopiero po doniesieniach prasowych — NIK to wszystko właśnie przypieczętowała.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/raport-najwyzszej-izby-kontroli-w-sprawie-warszawskiego-szpitala-poludniowego-co-w-nim-jest-st9142913",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "CBA zatrzymało twórców kampanii 'Sprawiedliwe Sądy'. W tle 8,4 mln zł z publicznej fundacji",
+      "summary": "Były przewodniczący KRRiT Maciej Świrski oraz były członek zarządu Polskiej Fundacji Narodowej zostali wczoraj zatrzymani przez CBA. Śledztwo dotyczy kampanii 'Sprawiedliwe Sądy' z 2017 roku — oficjalnie informacyjnej, faktycznie politycznej agitacji przeciwko niezawisłym sędziom. Na ten cel wydano 8,4 mln zł z fundacji powołanej do promocji polskiej kultury za granicą.",
+      "angle": "Osoby, które nazwały swój projekt 'Sprawiedliwe Sądy' i przedstawiały go jako obronę praworządności, właśnie usłyszały zarzuty o malwersację 8,4 mln zł z publicznych funduszy.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/maciej-swirski-zatrzymany-przez-cba-st9141449",
+      "source": "TVN24"
+    },
+    {
+      "title": "Szpital wystawił dziennikarzowi fakturę za informację publiczną — i doliczył prąd i toner",
+      "summary": "Dziennikarz TVN24 wysłał wnioski o zarobki lekarzy do ponad 500 szpitali po aferze w Szpitalu Południowym. Szpital Powiatowy w Chrzanowie wycenił odpowiedź na 8360 zł: 20 godzin pracy 4 pracowników po 100 zł plus koszty papieru, tonera i prądu. Wicedyrektor placówki zagroziła dziennikarzowi pozwem, jeśli nie wycofa wniosku.",
+      "angle": "W środku największej afery płacowej w publicznej służbie zdrowia, szpitale publiczne wystawiają rachunki za korzystanie z prawa do informacji publicznej — i straszą sądem tych, którzy pytają o pensje finansowane z podatków.",
+      "category": "urzędy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-12/8-tys-zlotych-za-informacje-o-zarobkach-lekarzy-do-tego-koszty-papieru-pradu/",
+      "source": "Polsat News"
     }
   ]
 }
