@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-16",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "23-latek zmienił statut kółka gier miejskich i dostał 1,95 mln zł z MSZ Sikorskiego",
+      "summary": "Wirtualna Polska ujawniła, że 7 kwietnia 2026 r. — tego samego dnia, gdy MSZ ogłosiło konkurs 'Polonia i Polacy za Granicą 2026' — Jakub Gęca z Lublina przemianował swoją Lubelską Ligę Gier Miejskich na 'Stowarzyszenie Polonia Connect' i dopisał do statutu działalność na rzecz Polonii. Stowarzyszenie bez żadnego wcześniejszego doświadczenia z Polonią dostało 1,95 mln zł — 18% całej puli. MSZ wstrzymało wypłaty po publikacji WP i zapowiedziało kontrolę.",
+      "angle": "Ministerstwo Sikorskiego rozdało prawie 2 mln zł stowarzyszeniu, które formalnie istniało jako organizacja polonijną od kilku godzin — brak weryfikacji to klasyczna patologia, którą koalicja obiecywała wyplenić.",
+      "category": "urzędy",
+      "url": "https://wiadomosci.wp.pl/miliony-z-msz-wbrew-regulaminom-tak-resort-sikorskiego-przyznawal-dotacje-7307709778758080a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "CBA zatrzymało szefa KRRiT Świrskiego — za kampanię 'Sprawiedliwe Sądy' z PFN wartą 8,4 mln zł",
+      "summary": "14 lipca CBA zatrzymało Macieja Świrskiego — byłego przewodniczącego KRRiT z nominacji PiS — i Cezarego Jurkiewicza. Prokuratura w Rzeszowie zarzuca im nadużycie uprawnień i wyrządzenie szkody w Polskiej Fundacji Narodowej na co najmniej 8,4 mln zł, związane z finansowaniem kampanii medialnej 'Sprawiedliwe Sądy' z 2017 r. Świrski opuścił areszt 15 lipca.",
+      "angle": "Człowiek, który nadzorował polskie media i pilnował 'sprawiedliwości informacyjnej', zatrzymany za kampanię o sądach finansowaną z publicznej fundacji — tej, która miała promować Polskę, a nie PiS.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/maciej-swirski-zatrzymany-przez-cba-st9141449",
+      "source": "TVN24"
+    },
+    {
+      "title": "NIK sprawdziła Szpital Południowy: 'lekarze-stachanowcy', 'dyżury duchów' i dwa śledztwa",
+      "summary": "15 lipca NIK opublikowała raport z Szpitala Południowego w Warszawie, ujawniając 'lekarzy-stachanowców' rozliczających niemożliwą do wykonania liczbę dyżurów i 'dyżury duchów' — osoby pobierające wynagrodzenie za nieobecne zmiany. Prokuratura wszczęła równolegle dwa śledztwa: o oszustwo na ponad 500 tys. zł i o nadużycie władzy przy triaży na SOR, gdzie politycy KO mieli być przyjmowani poza kolejką.",
+      "angle": "Poza VIP-kolejką dla polityków w tej placówce kwitło też płatne nieróbstwo na skalę przemysłową — i pytanie, kto i jak długo tym zarządzał, dotyczy też osób w KO, które nominowały kierownictwo.",
+      "category": "polityka",
+      "url": "https://stronazdrowia.pl/porazajacy-raport-nik-o-szpitalu-poludniowym-lekarze-stachanowcy-dyzury-duchow-i-inne-nieprawidlowosci/ar/c14p2-29182577",
+      "source": "Strona Zdrowia"
+    },
+    {
+      "title": "Neurochirurdzy brali 300 tys. zł dziennie za 3-minutowe zabiegi. Szpital nie wypłaci pensji",
+      "summary": "Prywatna firma neurochirurgiczna wystawiała publicznym szpitalom rachunki na 26 tys. zł za godzinę i ponad 300 tys. zł za dzień — za zabiegi trwające faktycznie 3–10 minut w sobotnie popołudnia, rozliczane jako złożone operacje. NFZ domaga się od szpitala w Mogilnie 2,6 mln zł kary; placówka nie może wypłacić lipcowych pensji, a komornik zajął już 400 tys. zł.",
+      "angle": "Prywatni specjaliści znaleźli lukę w kontraktach z NFZ: fikcyjne godziny, realne miliony — a gdy NFZ ściąga kary, płaci szpital i jego personel, nie firma, która wyłudzała.",
+      "category": "korporacja",
+      "url": "https://www.rp.pl/ochrona-zdrowia/art44774891-300-tys-zl-za-dzien-pracy-tyle-mieli-zarabiac-neurochirurdzy-w-szpitalach",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Pfizer zajął konto polskiej agencji lotniczej. Dług po szczepieniach Morawieckiego: 5,6 mld zł",
+      "summary": "Pfizer wyegzekwował nieprawomocny wyrok belgijskiego sądu, zajmując konto Polskiej Agencji Żeglugi Powietrznej — instytucji niemającej żadnego związku z kontraktem covidowym. Spór dotyczy 64 mln dawek szczepionek zamówionych przez rząd Morawieckiego w 2021 r.; Polska odwołała się od wyroku, ale Pfizer nie czekał i sięgnął po konta zarządzające ruchem lotniczym.",
+      "angle": "Globalny koncern farmaceutyczny zajmuje konto kontrolerów lotów za dług poprzedniego rządu — i okazuje się, że nieprawomocny wyrok wystarczy, żeby sparaliżować państwową infrastrukturę.",
+      "category": "korporacja",
+      "url": "https://www.rp.pl/zdrowie/art44801311-pfizer-zajal-konto-agencji-zeglugi-powietrznej-chodzi-o-5-6-mld-i-szczepionki",
+      "source": "Rzeczpospolita"
     }
   ]
 }
