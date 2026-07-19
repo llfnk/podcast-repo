@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-19",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "BGK fundacja przelała 1,4 mln zł na farmy trolli PiS — kolejne zarzuty w aferze RARS",
+      "summary": "17 lipca prokuratura postawiła zarzuty czterem osobom w śledztwie RARS. Troje z nich to byli prezesi Fundacji BGK, którzy — zdaniem prokuratury — przelali pieniądze z państwowego banku do fundacji Red is Bad na finansowanie politycznych farm trolli PiS: płatnych zespołów sztucznego zasięgu i propagandy. Czwarty oskarżony ustawiał przetargi na agregaty o wartości 345 mln zł.",
+      "angle": "Pieniądze z BGK — banku podatników — szły przez pozorną fundację wprost na polityczną propagandę w internecie. Tyle warte jest hasło 'dobra zmiana'.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Pieniadze-z-BGK-szly-na-farmy-trolli-Kolejne-cztery-osoby-z-zarzutami-w-sledztwie-ds-RARS-9169730.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Piaseczno: KO radni bez kolejki, recepty SMS — była dyrektor: burmistrz wiedział",
+      "summary": "Radni KO w Piasecznie mieli korzystać z publicznej przychodni jak z prywatnej służby zdrowia: wizyty poza kolejką, skierowania 'na cito' i recepty przez SMS. NFZ wszczął kontrolę 14 lipca. 18 lipca była dyrektor placówki publicznie ujawniła, że informowała burmistrza o tej praktyce — i nic z tego nie wyniknęło. Identyczny schemat jak w Szpitalu Południowym sprzed tygodnia.",
+      "angle": "To nie incydenty — to wzorzec. Koalicja, która zdobyła władzę hasłem 'praworządność', odtwarza ten sam system VIP-dostępu do publicznych zasobów, za który krytykowała poprzedników.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/radni-ko-bez-kolejki-do-lekarza-byla-dyrektor-przychodni-przerywa-milczenie-informowalam-burmistrza-7308128280361408a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "TV Republika zbierała wpłaty za AI-film z Tuskiem za kratami",
+      "summary": "Prowadzący Miłosz Kłeczek w programie na żywo zachęcał widzów do wpłat na stację, obiecując w zamian nagranie z wizerunkiem Donalda Tuska — wygenerowanym przez AI — siedzącym za kratami i mówiącym o 'kryptodyktaturze'. Po zebraniu progu 1600 przelewów stacja wyemitowała 15-sekundowy film.",
+      "angle": "'Niezależna telewizja informacyjna' działa jak zbiórka na Patronite — widzowie płacą, dostają deepfake premiera za kratami. I ta stacja poważnie twierdzi, że uprawia dziennikarstwo.",
+      "category": "media",
+      "url": "https://www.wprost.pl/kraj/12391335/tv-republika-pokazala-film-ai-z-tuskiem-wczesniej-kleczek-prosil-o-wplaty.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "PSL siedziało w radzie Nawrockiego, Nawrocki zawetował ustawę koalicji — teraz PSL odchodzi",
+      "summary": "17 lipca prezydent Nawrocki zawetował rządowy projekt ustawy o statusie osoby najbliższej, regulujący związki partnerskie. W odpowiedzi posłanki PSL Urszula Pasławska i Urszula Nowogórska opuściły Radę Parlamentarzystów przy Prezydencie. PSL, jako koalicjant rządowy, zasiadało w tej radzie przy prezydencie wywodzącym się z obozu PiS — by, jak tłumaczono, 'utrzymać dialog'.",
+      "angle": "PSL wchodziło do rady konserwatywnego prezydenta PiS-owskiej proweniencji, żeby mieć na niego wpływ. Teraz odchodzi trzaskając drzwiami, bo zachował się dokładnie tak, jak każdy mógł przewidzieć. Zaskoczenie wykonane.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/weto-przelalo-czare-goryczy-poslanki-psl-rezygnuja-z-rady-nawrockiego-7308733383821760a",
+      "source": "Wirtualna Polska"
     }
   ]
 }
