@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-25",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kaczyński wyrzuca 40 posłów za brak lojalki — partia praworządności żąda pisemnej przysięgi",
+      "summary": "W piątek 24 lipca Kaczyński ogłosił, że ponad 30 posłów PiS odchodzi z partii po tym, jak nie podpisali deklaracji lojalności. Morawiecki odmówił zamknięcia stowarzyszenia Rozwój Plus — za nim poszło 40 posłów, senator i 3 europosłowie. Morawiecki w sobotę określił to mianem 'brutalnego wypchnięcia'.",
+      "angle": "Partia, która przez 8 lat rządziła pod hasłami walki z układem i praworządności, wyrzuca własnych posłów za brak podpisu na deklaracji lojalności — a Morawiecki, który ten system współtworzył, odkrywa jego smak na własnej skórze.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://goniec.pl/rozlam-w-pis-za-morawieckim-poszlo-40-poslow-jest-lista-nazwisk-wk-wwi-240726",
+      "source": "Goniec"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "TVP Info: Kaczyński ogłasza rozpad PiS — obok politycy z popcornem. Tak wygląda polska informacja",
+      "summary": "Podczas piątkowego oświadczenia Kaczyńskiego o wyrzuceniu 40 posłów TVP Info i Polsat News wyświetliły split-screen: z lewej prezes PiS czyta historyczne oświadczenie, z prawej — posłowie koalicji rządzącej siedzą w sejmowym holu i jedzą popcorn. Pasek na dole: 'Rozpad PiS — oświadczenie prezesa'.",
+      "angle": "W momencie historycznym dla polskiej polityki stacje informacyjne przypadkowo zamieniły go w kabaret. Nie musisz być satyrykiem, żeby opisać stan polskiego dziennikarstwa politycznego — TVP Info zrobiło to za ciebie, na żywo.",
+      "category": "media",
+      "url": "https://wiadomosci.wp.pl/absurd-w-tvp-politycy-z-popcornem-w-trakcie-oswiadczenia-kaczynskiego-7310921303157120a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "Republika podczas kryzysu PiS: 'Kiedy politycy się kłócą, wstąp do Stowarzyszenia Przyjaciół Republiki'",
+      "summary": "Gdy TVP Info serwowało popcorn, TV Republika prowadziła specjalne wydania o rozłamie PiS — i równocześnie emitowała apele o wstąpienie do własnego 'Stowarzyszenia Przyjaciół Republiki' z hasłem 'Kiedy politycy się kłócą, ty wybierz jedność'. W tle pytania, czy szef Republiki Tomasz Sakiewicz planuje własną partię.",
+      "angle": "Stacja, która przez lata sprzedawała się jako obiektywny głos prawdziwych Polaków, w czasie największego kryzysu prawicowego obozu politycznego zajmuje się rekrutacją do własnego fan-clubu. Czy to media, czy MLM z anteną?",
+      "category": "media",
+      "url": "https://www.wprost.pl/kraj/12397047/tv-republika-o-rozlamie-w-pis-na-antenie-promowano-stowarzyszenie-przyjaciol-republiki.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Kaczyński tłumaczy rozłam u Holeckiej w TV Republika — tej samej, którą lata karmił rządowymi reklamami",
+      "summary": "Po wyrzuceniu 40 posłów Kaczyński udzielił wywiadu Danucie Holeckiej w TV Republika. Holecka ledwo powstrzymała śmiech. Prezes PiS ujawnił kulisy: Morawiecki miał proponować podział partii na dwie frakcje i dążył — według Kaczyńskiego — do przejęcia kierownictwa.",
+      "angle": "PiS przez 8 lat oskarżało TVN i TVP o stronniczość i polityczne uwikłanie mediów, a po wewnętrznym trzęsieniu ziemi Kaczyński idzie tłumaczyć się do własnej propagandowej tuby — i nawet tam dziennikarka ledwo może utrzymać powagę.",
+      "category": "polityka",
+      "url": "https://dorzeczy.pl/kraj/919894/kaczynski-w-tv-republika-holecka-prawie-wybuchla-smiechem.html",
+      "source": "Do Rzeczy"
     }
   ]
 }
