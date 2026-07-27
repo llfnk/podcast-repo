@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-27",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Były strażnik polskiego prawa ścigany za oceanem — Polska wysłała wniosek ekstradycyjny do USA",
+      "summary": "27 lipca prokuratura wysłała do Stanów Zjednoczonych wniosek o ekstradycję Zbigniewa Ziobry, obejmujący 19 z 26 zarzutów — w tym udział w zorganizowanej grupie przestępczej przy nadużyciach w Funduszu Sprawiedliwości. Ziobro najpierw ukrywał się u Orbána w Budapeszcie, a po jego wyborczej klęsce wylądował w USA.",
+      "angle": "Człowiek, który przez lata straszył Polaków twardą ręką prawa i sam decydował o ekstradycjach, teraz jest uciekinierem ściganym przez dokładnie ten system, który niegdyś budował.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-27/ekstradycja-zbigniewa-ziobry-jest-wniosek-prokuratury/",
+      "source": "Polsat News"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Kaczyński wyrzucił byłego premiera z partii za odmowę podpisania 'lojalki'",
+      "summary": "Po ultimatum Jarosława Kaczyńskiego, 40 posłów, 1 senator i 3 europosłowie opuścili PiS razem z byłym premierem Mateuszem Morawieckim. Powodem — odmowa podpisania oświadczenia zakazującego działalności w stowarzyszeniu 'Rozwój Plus'. Morawiecki: 'nie mogliśmy zgodzić się na podpisanie lojalki, która odbierała nam prawo do własnych inicjatyw'.",
+      "angle": "Partia, która przez 8 lat uczyła Polaków bezwzględnej dyscypliny i odpowiedzialności zbiorowej, pęka dokładnie z powodu, który wyśmiewała u innych: bo ktoś odważył się mieć własne zdanie wobec prezesa.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-rozlam-w-pis-morawiecki-jest-nas-40-poslow-senator-oraz-3-eu,nIdn,1011274",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nagranie z przesłuchania Kaczyńskiego ws. Dwóch Wież wyciekło do sieci — prokuratura bada Giertycha",
+      "summary": "Goniec.pl opublikował nagranie z czerwcowego przesłuchania Jarosława Kaczyńskiego w sprawie afery Dwóch Wież. Prokuratura wszczęła postępowanie ws. naruszenia tajemnicy śledztwa. Według śledczych tylko jedna osoba miała dostęp do pełnych akt sprawy — adwokat Roman Giertych.",
+      "angle": "Giertych, który latami tropił afery PiS i bronił ich ofiar, teraz sam jest głównym podejrzanym o wyciek — bo nagranie, które ukazuje Kaczyńskiego w złym świetle, wyszło z akt, do których niemal tylko on miał dostęp.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Nagranie-z-przesluchania-Kaczynskiego-w-internecie-Prokuratura-prowadzi-czynnosci-9173799.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Nawrocki blokuje podatek od zysków firm paliwowych — ustawa miała sfinansować tańsze paliwo",
+      "summary": "Prezydent Karol Nawrocki skierował do Trybunału Konstytucyjnego ustawę wprowadzającą 60-proc. podatek od nadzwyczajnych zysków spółek paliwowych. Ustawa miała wejść w życie 1 sierpnia i sfinansować ok. 4,8 mld zł obniżki VAT na paliwa. Tusk po decyzji prezydenta: 'zapamiętajcie to przy dystrybutorach'.",
+      "angle": "Prezydent, który nie komentuje cen paliw zbliżających się do 9 zł, stanął murem za koncernami naftowymi blokując podatek, który miał sfinansować ulgę dla zwykłych kierowców — i robi to w trybie prewencyjnym, zanim ustawa w ogóle weszła w życie.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-25/szokujaca-decyzja-donald-tusk-uderzyl-w-karola-nawrockiego/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Kancelaria Senatu zapłaci 20 tys. zł za fryzury i makijaż marszałek Kidawy-Błońskiej",
+      "summary": "Kancelaria Senatu podpisała umowę ramową z warszawskim salonem Osman Atelier na kwotę 20 325 zł za 'przygotowanie Marszałek Senatu do wystąpień publicznych i medialnych'. Za tym oficjalnym opisem kryją się fryzury i makijaż finansowane z publicznej kasy. Senat tłumaczy, że kontrakt obejmuje tylko najważniejsze uroczystości i dotychczas nie wypłacono żadnych środków.",
+      "angle": "Zasady dla was, nie dla nas: ta sama koalicja, która tępi przywileje i nepotyzm u poprzedników, wpisuje do umowy publicznej instytucji fryzjerkę dla swojej marszałek — i nazywa to 'przygotowaniem do wystąpień'.",
+      "category": "urzędy",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11280335,20-tys-zl-za-makijaz-i-fryzjera-dla-malgorzaty-kidawy-blonskiej-kanc.html",
+      "source": "Gazeta Prawna"
     }
   ]
 }
