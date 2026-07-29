@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-29",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kaczyński promował Morawieckiego przez 6 lat — teraz mówi, że miał 'własny plan'",
+      "summary": "29 lipca Mateusz Morawiecki ogłosił powstanie parlamentarnego klubu Rozwój Plus — 40 posłów odchodzi z PiS. Kaczyński, który sam dwukrotnie mianował Morawieckiego premierem i popierał go przez sześć lat, oskarża go dziś o działanie z 'własnym ukrytym planem'. PiS — partia słynąca z żelaznej dyscypliny — traci dziesiątki posłów przez wewnętrzną wojnę o władzę.",
+      "angle": "Przez 6 lat prezes wynosił Morawieckiego na piedestał i robił go premierem — a dziś mówi, że ten miał 'swój własny plan' od samego początku. No to kto go tworzył, Jarosławie?",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/rozlam-w-pis-zaskakujacy-zwrot-mateusz-morawiecki-zaklada-nowy-klub-relacja-na-zywo-st9163263",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Polska pompuje miliardy w armię — ale co trzeci generał nie mówi po angielsku",
+      "summary": "MON ujawnił, że 34% polskich generałów i admirałów nie spełnia minimalnego wymogu językowego NATO (standard STANAG poziom 3333). Wśród oficerów wyższych — od majora do pułkownika — bez wymaganego certyfikatu jest aż 69%. Polska rozbudowuje armię w rekordowym tempie i wchodzi w kolejne struktury NATO.",
+      "angle": "Wydajemy 4% PKB na obronę, promujemy generałów, budujemy tarczę — a co trzeci z tych generałów nie może swobodnie porozumieć się z sojusznikami. Kogo właściwie awansujemy?",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/mon-ujawnil-dane-co-trzeci-general-bez-wymaganego-angielskiego-7312657819097504a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Sikorski broni polskiej firmy we Lwowie — prokuratura w Polsce bada tę samą firmę za wyłudzenia",
+      "summary": "MSZ i minister Sikorski stanęli po stronie firmy Control Process w sporze z Lwowem o niezapłacone miliony za budowę zakładu odpadów. Jednocześnie ta sama firma jest przedmiotem śledztwa prokuratury w Łodzi za wyłudzenia z przetargów w pięciu polskich miastach. Lwów twierdzi, że firma nie wywiązała się z kontraktu i odebrała pieniądze bez wykonania pracy.",
+      "angle": "Polski rząd interweniuje dyplomatycznie w obronie firmy, którą we własnym kraju prokuratura bada za potężne oszustwa wobec samorządów — zasady dla was, nie dla nas, edycja eksportowa.",
+      "category": "polityka",
+      "url": "https://www.money.pl/firma/chca-milionow-od-ukraincow-broni-ich-polski-rzad-w-polsce-sa-podejrzani-o-potezne-oszustwa-7312369952496000a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Nawrocki zablokował 4 mld zł ulgi na paliwie. Tusk: 'Teraz mamy Ceny Karola Nawrockiego'",
+      "summary": "Prezydent Nawrocki skierował do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków firm paliwowych — miała wygenerować 4 mld zł od koncernów i sfinansować tańsze paliwo przed powrotami z wakacji. Nawrocki argumentuje retroaktywnością przepisów. Tusk odpowiada: 'Mieliśmy CPN, teraz mamy CKN — Ceny Karola Nawrockiego'.",
+      "angle": "Prezydent wybrany przez wyborców narzekających na drogie paliwo właśnie zablokował ustawę uderzającą w zyski koncernów paliwowych — i tłumaczy to ochroną konstytucji. Czyj interes jest tu chroniony?",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/tusk-uderza-w-nawrockiego-teraz-mamy-ceny-karola-7311965898664320a.html",
+      "source": "Money.pl"
     }
   ]
 }
