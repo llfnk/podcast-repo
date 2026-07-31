@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-07-31",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kaczyński wychował Morawieckiego — teraz płacze, że go zdradził",
+      "summary": "Mateusz Morawiecki 29 lipca opuścił PiS i założył własny klub parlamentarny 'Rozwój Plus' z 40 posłami — PiS traci status największego klubu w Sejmie. Kaczyński oskarżył go o działanie w 'najgorszym momencie dla Polski' i realizację własnego planu politycznego. Obaj przez 8 lat razem budowali ten sam system — teraz wzajemnie się oskarżają o to, kto za co odpowiada.",
+      "angle": "Dwaj architekci tego samego reżimu kłócą się, kto odpowiada za jego upadek — klasyczny teatr, w którym Frankenstein oskarża doktora o brak wyobraźni.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-29/nowy-uklad-sil-w-sejmie-znaczne-przetasowania-po-decyzji-morawieckiego/",
+      "source": "Polsat News"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "9 miesięcy na akt oskarżenia za publiczne wezwanie do zabicia premiera",
+      "summary": "31 lipca prokuratura warszawska złożyła akt oskarżenia przeciwko Robertowi Bąkiewiczowi za przemówienie z 11 października 2025 na Placu Zamkowym. Na żywo w mediach nazywał Tuska 'zdrajcą', 'niemieckim pachołkiem', wzywał do wyrwania 'chwastów z polskiej ziemi' — prokuratura potrzebowała 9 miesięcy, by zareagować na coś, co widział cały kraj.",
+      "angle": "Jeśli publiczne, medialne wzywanie do przemocy wobec premiera zajmuje prokuraturze prawie rok — to nie jest ślimacze tempo sprawiedliwości, to jest jej demonstracyjna nieobecność.",
+      "category": "urzędy",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-chwasty-trzeba-z-polskiej-ziemi-powyrywac-akt-oskarzenia-prz,nIdn,1012084",
+      "source": "RMF24"
+    },
+    {
+      "title": "40 tys. zł z publicznej kasy na auto, brak faktur — poseł: wolę pozostawić anonimowość",
+      "summary": "Kontrola Kancelarii Sejmu w biurze posła Adama Gomoły (Polska 2050) wykazała brak umowy najmu samochodu i faktur dokumentujących wydatek blisko 40 tys. zł z diety biurowej. Zapytany przez dziennikarzy o markę auta opłacanego z pieniędzy podatników, poseł stwierdził, że woli 'pozostawić anonimowość'.",
+      "angle": "Poseł wydaje publiczne pieniądze bez dokumentów i zasłania się prywatnością — tylko że to nie są jego pieniądze i to nie jest jego prywatność.",
+      "category": "polityka",
+      "url": "https://www.money.pl/polityka/wizytacja-w-biurze-posla-zadeklarowal-ze-wydaje-40-tys-zl-na-auto-dowodow-brak-7312440569489760a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Odwołać Trzaskowskiego — bo za bardzo starał się zostać prezydentem Polski",
+      "summary": "30 lipca w Warszawie ruszyła zbiórka 132 tys. podpisów pod wnioskiem o referendum ws. odwołania prezydenta Rafała Trzaskowskiego. Wśród 11 oficjalnych zarzutów znalazło się 'niewystarczające zaangażowanie w zarządzanie miastem podczas kampanii prezydenckiej.' Inicjatorem jest prezes stowarzyszenia 'Tak dla CPK'.",
+      "angle": "Oficjalny powód odwołania prezydenta milionowego miasta: zbyt aktywnie kandydował na prezydenta Polski. To jak zwolnienie pracownika za to, że aplikował na awans i nie dostał go.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/regiony/warszawa/news-referendum-ws-odwolania-prezydenta-warszawy-trzaskowski-stra,nIdn,1011510",
+      "source": "RMF24"
     }
   ]
 }
