@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Wiceminister pisze ustawę o małych mieszkaniach — sam miał trzy na wynajem",
+      "summary": "Wiceminister sportu Ireneusz Raś odpowiada za projekt ustawy regulującej najem krótkoterminowy. Jak ujawniło Money.pl, przed wejściem do rządu kupił trzy mikrokawalerki (ok. 12–13 m²) w Łodzi i zarabiał na ich wynajmowaniu. Tuż przed objęciem stanowiska sprzedał dwa lokale bratu-księdzu, trzeci przeniósł na byłą żonę — i twierdzi, że nie widzi konfliktu interesów.",
+      "angle": "Człowiek regulujący rynek najmu sam go wcześniej eksploatował i wykreślił z projektu przepis o strefach zakazu najmu — podręcznikowe 'zasady dla was, nie dla nas'.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/minister-ras-kupowal-mikrokawalerki-na-wynajem-dzis-pisze-o-nich-ustawe-7311607458994560a",
+      "source": "WP.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Morawiecki robi Kaczyńskiemu to, za co Kaczyński wyrzucił Ziobrę",
+      "summary": "29 lipca 2026 r. Mateusz Morawiecki oficjalnie zarejestrował klub parlamentarny Rozwój Plus — 40 posłów i 1 senator opuszcza PiS. PiS przestało być największą siłą w Sejmie: 146 mandatów wobec 156 KO. Kaczyński przez lata powtarzał, że odejście z PiS to zdrada, Ziobrę wyrzucił za własną frakcję — teraz historia zatacza koło.",
+      "angle": "Przez dekadę Kaczyński robił z każdego rozłamu dramat o zdradzie ojczyzny — teraz sam stoi z lewą stroną twarzy po tym, jak wychował kolejnego 'zdrajcę'.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-30/to-juz-oficjalne-nowy-ruch-w-sprawie-klubu-morawieckiego/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Prokuratura Europejska ściga posła KO za łapówki przy tramwajach. Sejm uchylił immunitet",
+      "summary": "Poseł Koalicji Obywatelskiej Wojciech Król z Mysłowic miał przyjąć co najmniej 37 tys. zł w zamian za obsadzenie stanowisk w spółce Tramwaje Śląskie oraz w oddziałach drogowych administracji rządowej. Sejmowa komisja rekomendowała uchylenie immunitetu, co Sejm zaakceptował. Śledztwo prowadzi Prokuratura Europejska (EPPO).",
+      "angle": "Partia, która przyszła do władzy pod hasłem 'koniec z korupcją i układami', ma własnego posła ściganego przez unijną prokuraturę za ustawianie stanowisk.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/wojciech-krol-scigany-przez-prokurature-europejska-sejmowa-komisja-za-uchyleniem-immunitetu-posla-ko-st9164658",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ustawa chroniąca przed szarlatanami na biurku Nawrockiego. Ordo Iuris żąda weta",
+      "summary": "Po przejściu przez obie izby parlamentu 'Lex Szarlatan' — zakazująca pseudomedycyny z karami do 1 mln zł — trafiła 31 lipca na biurko Nawrockiego. Ordo Iuris natychmiast zaapelowało o weto, argumentując że ustawa 'zagraża wolności słowa i badaniom naukowym'. Zebrano już petycję z tysiącami podpisów.",
+      "angle": "Ordo Iuris — od lat decydujące co wolno mówić o aborcji i seksualności — staje nagle w obronie nieograniczonej wolności słowa dla znachorów i sprzedawców cudownych terapii.",
+      "category": "polityka",
+      "url": "https://www.rynekzdrowia.pl/Prawo/Koniec-prac-nad-Lex-Szarlatan-Teraz-milionowe-kary-i-blokady-stron-w-rekach-prezydenta,287160,2.html",
+      "source": "Rynek Zdrowia"
     }
   ]
 }
