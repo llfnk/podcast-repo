@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-02",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Marszałek Sejmu o rakiecie nad Polską: 'Jakby zestrzelona, też by spadła'",
+      "summary": "30 lipca w nocy rosyjski pocisk manewrujący Ch-101 przeleciał ponad 6 minut w polskiej przestrzeni powietrznej i wylądował na polu w Tarnawce-Kolonii na Lubelszczyźnie. Marszałek Sejmu Włodzimierz Czarzasty zapytany w TVP Info o to, dlaczego obiektu nie zestrzelono, odpowiedział: 'Jakby został zestrzelony, też by spadł.' Odpowiedź natychmiast obiegła Wykop i X, wywołując falę oburzenia.",
+      "angle": "Drugi człowiek w państwie traktuje naruszenie polskiej przestrzeni powietrznej przez rosyjski pocisk jak okazję do one-linera — i chyba naprawdę nie rozumie, dlaczego to nie jest śmieszne.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://dorzeczy.pl/kraj/922888/burza-po-slowach-czarzastego-w-tvp-internauci-sa-wsciekli.html",
+      "source": "dorzeczy.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Poseł KO bez immunitetu: 1,4 mln zł łapówki za unijną dotację dla 'Starej Huty'",
+      "summary": "Sejm uchylił 31 lipca immunitet Wojciechowi Królowi z Koalicji Obywatelskiej. Prokuratura Europejska zarzuca mu przyjęcie ponad 1,4 mln zł korzyści majątkowych w zamian za pomoc w uzyskaniu 27 mln zł unijnej dotacji na projekt w Chorzowie. Szefowa EPPO Laura Kovesi osobiście pojawiła się w Sejmie i zapowiedziała złożenie nowego wniosku z kolejnymi zarzutami.",
+      "angle": "Partia, która wygrała wybory m.in. na haśle ochrony unijnych funduszy przed korupcją PiS, ma we własnych szeregach posła oskarżonego o wyłudzenie dotacji UE za łapówkę — i procesuje się o procedurę głosowania zamiast wyrzucić go z klubu.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Posel-KO-Wojciech-Krol-z-uchylonym-immunitetem-Sejm-odrzucil-wniosek-o-areszt-9176280.html",
+      "source": "bankier.pl"
+    },
+    {
+      "title": "Absolutorium za budżet z 42-miliardową dziurą — Tusk i Domański nie pojawili się na debacie",
+      "summary": "240 posłów rządzącej koalicji zagłosowało 1 sierpnia za absolutorium dla rządu za wykonanie budżetu 2025, mimo że w dochodach podatkowych zabrakło blisko 42 mld zł. Na debacie sejmowej nie stawił się ani premier Donald Tusk, ani minister finansów Andrzej Domański — co przez wiele lat się nie zdarzało.",
+      "angle": "Rząd ocenia sam siebie głosowaniem własnej koalicji, bez konieczności tłumaczenia, gdzie zniknęły dziesiątki miliardów — i nawet nie raczy się pojawić na debacie. To nie absolutorium, to autoprzebaczenie.",
+      "category": "polityka",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11283288,rzad-z-absolutorium-sejmu-za-wykonanie-budzetu-za-2025-rok-tak-glosow.html",
+      "source": "gazetaprawna.pl"
+    },
+    {
+      "title": "Morawiecki zakłada 'Rozwój Plus'. Kaczyński: 'Miał własny plan'. PiS rozłamuje się w dwóch zdaniach",
+      "summary": "Były premier Mateusz Morawiecki ogłosił 29-30 lipca powołanie nowego klubu parlamentarnego 'Rozwój Plus', skupiającego 40 posłów — najpoważniejszy rozłam w PiS od lat. Kaczyński oświadczył, że próbował pojednania, ale Morawiecki miał własny polityczny plan. Morawiecki z kolei twierdzi, że partię przejęły radykalne frakcje dawnej Suwerennej Polski.",
+      "angle": "Przez lata PiS sprzedawał jedność obozu jako gwarancję bezpieczeństwa Polski — teraz dwaj czołowi liderzy publicznie oskarżają się nawzajem o zdradę i ukryte plany. Kto tu miał własny plan od początku?",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-07-30/to-juz-oficjalne-nowy-ruch-w-sprawie-klubu-morawieckiego/",
+      "source": "polsatnews.pl"
     }
   ]
 }
