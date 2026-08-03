@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-03",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kaczyński: «Kompromitacja rządu!» — a gdzie byłeś, gdy rakieta leżała pod Bydgoszczą?",
+      "summary": "30 lipca uzbrojona rosyjska rakieta Ch-101 wylądowała na Lubelszczyźnie. Kaczyński natychmiast napisał: «Kompromitacja! Rząd Tuska poniósł totalną klęskę. Nikt dziś nie może czuć się bezpiecznie». Problem: za rządów PiS w 2022 roku rosyjska rakieta przelecała przez Polskę bez żadnego zestrzelenia i znaleziono ją miesiącami później w lesie pod Bydgoszczą, bez alarmu RCB, bez konsekwencji.",
+      "angle": "Człowiek, który przez 8 lat nie zbudował systemów obrony powietrznej i milczał, gdy rakieta leżała sobie w lesie, dziś udziela lekcji innym z bezpieczeństwa narodowego.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiesci24.pl/2026/07/31/hipokryzja-prezesa-kaczynski-znow-gra-strachem/",
+      "source": "Wieści24.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Marszałek Sejmu o rosyjskiej rakiecie nad Polską: «Jakby zestrzelona, też by spadła»",
+      "summary": "Na antenie TVP Info marszałek Sejmu Włodzimierz Czarzasty był pytany, dlaczego nikt nie zestrzelił rosyjskiej rakiety zanim wpadła na polskie terytorium. Odpowiedź: «Jakby została zestrzelona, też by spadła» — co internet natychmiast okrzyknął absurdalnym żartem. Czarzasty tłumaczył się potem, że miał na myśli potrzebę inwestycji w obronę przeciwrakietową.",
+      "angle": "Trzecia osoba w państwie na wieść o uzbrojonej rosyjskiej rakiecie naruszającej polskie terytorium reaguje kalamburem godnym studniówki. I musi się potem tłumaczyć.",
+      "category": "polityka",
+      "url": "https://dorzeczy.pl/kraj/922888/burza-po-slowach-czarzastego-w-tvp-internauci-sa-wsciekli.html",
+      "source": "DoRzeczy.pl"
+    },
+    {
+      "title": "Wiceminister Sprawiedliwości zhakowany przez klasyczny scam na WhatsApp",
+      "summary": "Arkadiusz Myrcha, wiceminister sprawiedliwości, stracił konto WhatsApp przez phishing: oszuści poprosili go o przepisanie kodu weryfikacyjnego, przejęli konto i zaczęli rozsyłać do jego kontaktów linki z wirusem. Myrcha wrzucił post: «Jeśli dostaliście ode mnie wiadomość z linkiem do głosowania — proszę nie klikać. To wirus!». CERT wydał alert ostrzegający przed tym schematem.",
+      "angle": "Resort odpowiedzialny za bezpieczeństwo prawne i cyfrowe obywateli, a jego wiceminister pada na jeden z najbardziej znanych scamów od lat.",
+      "category": "urzędy",
+      "url": "https://tvn24.pl/biznes/z-kraju/przestepcy-przejmuja-konta-whatsapp-rozsylaja-wiadomosci-o-konkursie-cert-ostrzega-wiceminister-sprawiedliwosci-arkadiusz-myrcha-wsrod-ofiar-st9170296",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sejm zakazał telefonów w szkołach od września — ale nie napisał, co z nimi zrobić",
+      "summary": "Nawrocki podpisał 30 lipca ustawę zakazującą telefonów w szkołach i przedszkolach od 1 września 2026. Problem: ustawa nie zawiera żadnego mechanizmu egzekwowania — nie wiadomo, czy nauczyciel może zabrać telefon, kto odpowiada za zdeponowany sprzęt, ani jak kara ma wyglądać. Szkoły mają czas do końca roku, by same wymyśliły procedury w statutach.",
+      "angle": "Parlamentarzyści entuzjastycznie głosowali, prezydent podpisał, wszyscy świętują — a za miesiąc nauczyciel stoi z dzieckiem i telefonem i nie ma żadnego narzędzia, żeby cokolwiek zrobić.",
+      "category": "urzędy",
+      "url": "https://www.portalsamorzadowy.pl/edukacja/smartfony-zakazane-dopiero-teraz-szkoly-beda-mialy-problem,667948.html",
+      "source": "Portal Samorządowy"
     }
   ]
 }
