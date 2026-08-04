@@ -1,28 +1,44 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-04",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Wiceminister pisze ustawę o mikrokawalerkach. Sam miał trzy na wynajem",
+      "summary": "Ireneusz Raś (PSL), wiceminister sportu odpowiedzialny za projekt ustawy regulującej najem krótkoterminowy, przed wejściem do rządu posiadał trzy mikrokawalerki o powierzchni 12-13 m² w łódzkiej kamienicy wynajmowanej turystom. Trzy miesiące przed objęciem stanowiska sprzedał je bratu-księdzu i byłej żonie. Zapytany o konflikt interesów, stwierdził, że go nie dostrzega.",
+      "angle": "Klasyczny regulacyjny arbitraż: piszesz prawo ograniczające airbnb, a twoja rodzina właśnie na tym zarabia — i masz czelność mówić, że nie ma tu żadnego problemu.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.rmf24.pl/fakty/polska/news-ireneusz-ras-zarabial-na-wynajmie-mikrokawalerek-teraz-pisze,nIdn,1011453",
+      "source": "RMF24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Inspekcja Handlowa w pubie Mentzena: nektar zamiast soku, nielegalne wagi",
+      "summary": "Inspekcja Handlowa skontrolowała 317 lokali gastronomicznych w pierwszym półroczu 2026 i stwierdziła naruszenia w 254 z nich. Na liście znalazł się Pub Mentzen w Toruniu — inspektorzy wykryli m.in. podawanie nektaru zamiast zamówionego soku porzeczkowego oraz używanie nieautoryzowanych urządzeń pomiarowych.",
+      "angle": "Mentzen od lat głosi wolność od regulacji i wojnę ze staatsem, ale jego własny biznes nie radzi sobie z podstawowymi przepisami ochrony konsumentów — libertarianizm jak znalazł.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/kontrolerzy-w-pubie-mentzena-wykryli-nieprawidlowosc-7314717444298752a",
+      "source": "WP Wiadomości"
+    },
+    {
+      "title": "Nawrocki zablokował podatek od zysków naftowych. Benzyna najdroższa od 4 lat",
+      "summary": "Prezydent Nawrocki 24 lipca skierował do Trybunału Konstytucyjnego ustawę nakładającą podatek na nadzwyczajne zyski koncernów paliwowych — 4 miliardy złotych miały sfinansować tańsze paliwo dla kierowców. W sierpniu benzyna kosztuje ponad 7,29 zł za litr, rekord od 2022 roku. Bankier.pl ironicznie nazywa to już 'ceną Karola Nawrockiego'.",
+      "angle": "Prezydent zasłonił się zasadą niedziałania prawa wstecz, żeby ochronić zyski koncernów kosztem zwykłych kierowców — i ani przez chwilę nie rozważył, czy da się to rozwiązać inaczej.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Kierowcy-ofiarami-prezydenckiego-weta-Teraz-benzyna-z-cena-Karola-Nawrockiego-9174301.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Morawiecki zakłada własny klub. Kaczyński: ewidentnie miał plan",
+      "summary": "Mateusz Morawiecki po ośmiu latach jako premier i lojalny polityk PiS ogłosił 29 lipca założenie parlamentarnego klubu Rozwój Plus z 40 posłami i senatorem. Kaczyński oświadczył, że 'ewidentnie miał plan', i oskarżył go o zdradę — choć sam trzymał Morawieckiego na fotelu premiera przez całe te lata.",
+      "angle": "Dwóch polityków, którzy razem rządzili przez dekadę, nawzajem oskarżają się o zdradę i ukryte plany — żaden nie wyjaśnia, co właściwie przez te lata robili Polsce.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Od-grilla-u-Morawieckiego-do-nowego-klubu-w-Sejmie-Byly-premier-buduje-wlasna-sile-polityczna-9176928.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Żabka zhakowana: dane pracowników i kod źródłowy wystawione na sprzedaż za 5 tys. euro",
+      "summary": "Żabka potwierdziła, że atakujący uzyskali dostęp do infrastruktury technicznej przez konto zewnętrznej firmy. Na forum darknetowym wystawiono dane osobowe pracowników i partnerów sieci, dziesiątki repozytoriów z kodem źródłowym oraz dokumentację krytycznych systemów. Sieć zapewnia, że dane transakcyjne klientów i aplikacja Żappka pozostały bezpieczne.",
+      "angle": "Firma znana z obsesyjnej kontroli franczyzobiorców nie była w stanie zabezpieczyć własnego kodu źródłowego — hakerzy dostali go przez konto zewnętrznego podwykonawcy.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-twoje-zappsy-sa-bezpieczne-Co-wiadomo-o-cyberataku-na-Zabke-9177630.html",
       "source": "Bankier.pl"
     }
   ]
