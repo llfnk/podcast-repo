@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-06",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Nawrocki ułaskawił kibola Legii — rząd oburzony, choć sam rok temu prosił o to samo",
+      "summary": "Prezydent Karol Nawrocki cofnął dwuletni zakaz stadionowy Piotrowi 'Staruchowi' Staruchowiczowi, liderowi kibiców Legii. Staruch obiecał sobie łaskę na żywo w Kanale Zero, Nawrocki dotrzymał słowa. Minister Kierwiński ostro skrytykował decyzję — dokumenty ujawniają jednak, że sam wcześniej podpisał prośbę o łaskę dla tej samej osoby.",
+      "angle": "Podwójna hipokryzja: prezydent ułaskawia kibola ze względów politycznych, a rząd atakuje go za to samo, co sam robił wcześniej. 'Kibol ułaskawił kibola' — krzyczy koalicja, która sama wysyłała prośby do Pałacu.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-ulaskawienie-Starucha-Rzad-mowi-o-absurdzie-Palac-Prezydencki-odpowiada-Wara-9177761.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Audyt Szpitala Południowego: 110-godzinny dyżur, stanowisko-widmo i podwójne pensje",
+      "summary": "Trzaskowski ujawnił wyniki audytu w podległym miastu Szpitalu Południowym w Warszawie. Przez 18 miesięcy szpital wypłacał wynagrodzenie za stanowisko, które formalnie nie istniało w regulaminie. Jeden lekarz rozliczył prawie 5 dni nieprzerwanego dyżuru, a te same godziny były ewidencjonowane jednocześnie w dwóch działach.",
+      "angle": "Przez półtora roku publiczny szpital płacił za funkcję-widmo. Nikt tego nie widział — dopóki audytorzy nie zaczęli się przyglądać. Klasyczna patologia systemowa: fikcja na papierze, realne pieniądze w kieszeni.",
+      "category": "urzędy",
+      "url": "https://tvn24.pl/zdrowie/afera-w-szpitalu-poludniowym-byla-dyrektorka-zabrala-glos-trzaskowski-przedstawil-wyniki-audytu-st9173907",
+      "source": "TVN24"
+    },
+    {
+      "title": "PiS chce deportować Ukraińców: 'będą mieli okazję walczyć za ojczyznę'",
+      "summary": "Wiceprzewodniczący PiS Tobiasz Bocheński ogłosił 6 sierpnia plan deportacji Ukraińców w wieku poborowym (25-60 lat) bez legalnego zatrudnienia w Polsce. Partia zapowiada tworzenie ośrodków deportacyjnych i wskazuje, że to będzie jedna z pierwszych decyzji po ewentualnym powrocie do władzy.",
+      "angle": "Partia, która przez lata pozycjonowała się jako solidarna z Ukrainą, teraz mówi ukraińskim mężczyznom: wracajcie na front — i nazywa to 'okazją'. Fraza 'będą mieli okazję walczyć za ojczyznę' jako uzasadnienie deportacji to komunikat oderwany od rzeczywistości.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art44953561-pis-zapowiada-deportacje-ukraincow-beda-mieli-okazje-walczyc-o-swoja-ojczyzne",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
+      "title": "Profesor odmówił odbioru nominacji z rąk Nawrockiego: 'nie wyobrażam sobie, żebym był z tego dumny'",
+      "summary": "Astrofizyk prof. Michał Bejger z Centrum Astronomicznego PAN odmówił udziału w uroczystości wręczenia tytułu profesorskiego w Pałacu Prezydenckim, by nie odbierać aktu z rąk Karola Nawrockiego. Naukowiec czekał miesiącami na finalizację procedury, a mimo to świadomie zbojkotował ceremonię.",
+      "angle": "W Polsce tytuł profesorski przechodzi przez Pałac Prezydencki — więc jeśli nie znosisz aktualnego lokatora, masz problem. Bejger wybrał bojkot i przy okazji wystawił rachunek systemowi, w którym awans naukowy zależy od woli polityka.",
       "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://wiadomosci.wp.pl/astrofizyk-zbojkotowal-prezydenta-nominacji-z-rak-polityka-nie-chce-7314723258239040a",
+      "source": "WP Wiadomości"
     }
   ]
 }
