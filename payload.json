@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-07",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Orlen zarobił 15,8 mld zł. Nawrocki zablokował podatek, który miał obniżyć ceny na stacjach",
+      "summary": "Orlen opublikował rekordowy zysk netto za pierwsze półrocze 2026 — ponad 15,8 mld zł. Kilka tygodni wcześniej prezydent Nawrocki skierował do TK ustawę windfall tax, która opodatkowałaby nadmarżę firm paliwowych i sfinansowała obniżkę VAT na paliwo dla kierowców. Tusk napisał na X: 'Pamiętajcie przy tankowaniu.'",
+      "angle": "Prezydent z retoryką 'państwa dla ludzi' stoi murem za Orlenem bijącym rekordy zysku, blokując 4 mld zł ulgi dla kierowców. Klasyczne: zasady dla was, nie dla nas.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-15-8-mld-zl-zysku-Orlenu-i-spor-o-windfall-tax-Tusk-o-prezydencie-Pamietajcie-przy-tankowaniu-9179105.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Nawrocki użył prawa łaski, żeby lider kibiców mógł wejść na stadion",
+      "summary": "Prezydent Karol Nawrocki ułaskawił Piotra 'Starucha' Staruchowicza, lidera kibiców Legii Warszawa, zdejmując z niego dwuletni zakaz stadionowy. Sąd ukarał go za stanie na ogrodzeniu podczas meczu w marcu 2025. Były prezydent Komorowski nazwał decyzję niepoważną, a opinia WP pisała, że ośmiesza instytucję prezydenckiej łaski.",
+      "angle": "Prawo łaski istnieje, by naprawiać rażące niesprawiedliwości. Nawrocki użył go do zdejmowania zakazu stadionowego kibolowi za stanie na płocie. To tyle o powadze nowej prezydentury.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/karol-nawrocki-ulaskawil-starucha-rzecznik-prezydenta-o-powodach-st9172634",
+      "source": "TVN24"
+    },
+    {
+      "title": "Gawkowski macha batem na Google i Meta — jego własny rząd nie wie, że istnieje ten podatek",
+      "summary": "Wicepremier Krzysztof Gawkowski ogłosił projekt 3% podatku cyfrowego od big techów, który ma przynieść 31,7 mld zł przez dekadę. Problem: Ministerstwo Finansów jest niechętne, ambasador USA grozi sankcjami, a SpiderWeb policzył — liczby nie trzymają się kupy. Minister Domański w marcu 2025 mówił wprost: nie pracujemy nad podatkiem cyfrowym.",
+      "angle": "Populistyczny 'bat już czeka' — minister ogłasza wojnę z korporacjami, ale jego własna koalicja go torpeduje. Idealna polityczna szopka: hasła zostają, podatku nie będzie.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/31-7-mld-zl-w-10-lat-Rzad-lasi-sie-na-miliardy-z-big-techow-Gawkowski-Bat-juz-czeka-9178541.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Nagranie Kaczyńskiego z prokuratury wyciekło — dostęp miał jeden poseł KO. Tusk: jeśli złamał prawo, jest out",
+      "summary": "Nagranie z przesłuchania Jarosława Kaczyńskiego przez prokuraturę trafiło do sieci. Prokuratura oświadczyła, że jedyną osobą z dostępem do pełnych akt był mec. Roman Giertych — poseł Koalicji Obywatelskiej i sojusznik Tuska. Giertych zaprzeczył, oskarżając prokuraturę o kłamstwo.",
+      "angle": "Tusk budował narrację praworządności i niezależnych prokuratur. Teraz jego koalicjant siedzi w centrum afery o wyciek akt, a premier dystansuje się jednym zdaniem. Koalicja praworządności właśnie je ze swojego ogona.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-jesli-zlamal-prawo-jest-out-tusk-ostro-o-giertychu,nIdn,1012587",
+      "source": "RMF24"
     }
   ]
 }
