@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-13",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
+      "title": "Dane medyczne połowy Polaków wyciekły. Rząd potwierdza: 19 mln rekordów",
+      "summary": "Firma MyDr, obsługująca ok. 12 tys. przychodni i gabinetów, padła ofiarą cyberataku. Wicepremier Gawkowski potwierdził: skradziono blisko 2 TB danych — numery PESEL, choroby, recepty, historię wizyt. Dotyczy nawet połowy Polaków.",
+      "angle": "System digitalizacji ochrony zdrowia właśnie pokazał, co robi z Twoimi najintymniejszymi danymi — przekazuje je przestępcom. I to po miliardach wydanych na e-zdrowie.",
+      "category": "urzędy",
+      "url": "https://www.rmf24.pl/fakty/polska/news-ogromny-wyciek-danych-z-mydr-chodzi-o-nawet-19-mln-osob,nIdn,1013452",
+      "source": "RMF24"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Pieniądze dla powodzian trafiły do rodziny działaczki KO. CBA bada od kwietnia",
+      "summary": "Wiceszefowa agencji KARR — działaczka Koalicji Obywatelskiej Anna Konieczyńska — powiązana jest z przyznaniem środków powodziowych mężowi i sąsiadom. Dane satelitarne i straż pożarna nie potwierdzają śladów powodzi na tych nieruchomościach. KO zawiesiła działaczkę, wkrótce sąd partyjny.",
+      "angle": "Partia, która wygrała wybory hasłem końca układów, przy pierwszej okazji zadziałała dokładnie jak te układy — tylko ze środków dla ofiar klęski żywiołowej.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/afera-powodziowa-ko-ma-problem-beda-konsekwencje-dla-dzialaczki-partii-7316903532267584a",
+      "source": "Wirtualna Polska"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Szef RMN z KO traci immunitet za łapówki od UE. Sejm odmawia mu aresztu",
+      "summary": "Poseł KO Wojciech Król, przewodniczący Krajowej Rady Mediów Narodowych, stracił immunitet na wniosek Prokuratury Europejskiej (EPPO). Zarzuty: ponad 1,4 mln zł łapówek w zamian za pomoc w wyłudzeniu 27 mln zł dotacji UE na tramwaje w Chorzowie. Sejm głosował za uchyleniem immunitetu stosunkiem 437:2, ale odmówił zgody na areszt — 251 posłów przeciw.",
+      "angle": "Koalicja uchyla immunitet na pokaz przed kamerami, a potem blokuje areszt — bo swój jest swój, nawet gdy EPPO pyta o miliony z unijnej kasy.",
+      "category": "polityka",
+      "url": "https://www.wirtualnemedia.pl/wojciech-krol-posel-zarzuty-korupcja-prokuratura-europejska-sejm-uchylil-immunitet-bez-zgody-na-aresztowanie,7313390521813056a",
+      "source": "Wirtualne Media"
+    },
+    {
+      "title": "Superwizjer: miliard złotych dotacji dla Elemental Holding za fikcyjny recykling",
+      "summary": "Reportaż TVN24 pokazał, jak firma odpadowa fałszowała dokumenty recyklingu elektrośmieci — puste ciężarówki jeździły po Mazowszu, a w rejestrach państwowych pojawiały się wpisy o rzekomym transporcie odpadów. Ministerstwo broni się: firma była kontrolowana 11 razy.",
+      "angle": "Papier jest cierpliwy, inspekcje są dekoracyjne, a miliard z podatków idzie do firmy za dokumentowy recykling — dosłownie śmieciowy interes na państwowy koszt.",
+      "category": "korporacja",
+      "url": "https://tvn24.pl/polska/fikcyjny-obrot-odpadami-miliardowa-dotacja-reportaz-superwizjera-st9183164",
+      "source": "TVN24 Superwizjer"
+    },
+    {
+      "title": "Były premier w TVP Info: 'Nawrocki ćpa'. Prowadząca nie reaguje",
+      "summary": "Kazimierz Marcinkiewicz, gość programu Doroty Wysockiej-Schnepf na TVP Info, stwierdził na żywo: 'Nawrocki ćpa' — po czym dodał, że 'nie mówi o narkotykach, tylko o dozie'. Prowadząca nie interweniowała. PiS zapowiada kroki prawne za pomówienie głowy państwa.",
+      "angle": "Publiczne medium podsumowuje rok urzędowania prezydenta tezą o nałogach — bez żadnego dowodu, bez interwencji prowadzącej. Gdyby padło o Tusku, płonęłoby całe studio.",
+      "category": "media",
+      "url": "https://dorzeczy.pl/kraj/926491/kazimierz-marcinkiewicz-nawrocki-cpa-wiem-jak-wyglada-sie-po-przedawkowaniu.html",
+      "source": "Do Rzeczy"
     }
   ]
 }
