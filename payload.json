@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-17",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Defilada wojskowa zamiast święta: Nawrocki i Tusk prowadzili pyskówkę na trybunie",
+      "summary": "15 sierpnia, podczas Święta Wojska Polskiego, Nawrocki z trybuny ogłosił 'Bóg, Honor, Ojczyzna — a nie SAFE', atakując unijny program obronny, który sam wcześniej wetował. Tusk odpowiedział, że Polska będzie bezpieczna dopiero 'gdy nie będzie zdrady i głupoty' — jawny atak na prezydenta w trakcie uroczystości państwowych.",
+      "angle": "Żołnierze stali na baczność, a politycy prowadzili ze sobą pyskówkę — jeden wetował finansowanie armii przez miesiące, drugi publicznie go za to atakował, stojąc na tej samej trybunie honorowej.",
+      "category": "polityka",
+      "url": "https://oko.press/swieto-wojska-polskiego-tusk-o-zdradzie-i-glupocie-nawrocki-bog-honor-ojczyzna-a-nie-safe",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Musk wyrzucił Polskę z Europy w Starlinku — bez słowa wyjaśnienia",
+      "summary": "Od 17 sierpnia SpaceX zmieniło zasady dla polskich klientów Starlink: Polska nie należy do europejskiej strefy roamingowej, więc za internet podczas podróży po Europie płaci się 460 zł miesięcznie zamiast 180 zł. Firma nie podała żadnego powodu. Wicepremier Gawkowski odpowiedział Muskowi, że 'też mamy swój czerwony przycisk'.",
+      "angle": "Prywatna firma po cichu wyklucza cały kraj ze strefy, Polacy tracą prawa, które mają wszyscy inni Europejczycy, a rząd odpowiada bezsilnym grożeniem palcem — i to tyle.",
+      "category": "korporacja",
+      "url": "https://www.rmf24.pl/fakty/polska/news-musk-wykluczyl-polske-z-europy-wicepremier-reaguje-tez-mamy-,nIdn,1013403",
+      "source": "RMF24"
+    },
+    {
+      "title": "KO chciało zakazu ministrów w TK żeby zablokować PiS. Teraz Tusk wysyła tam swojego ministra",
+      "summary": "Koalicja rządząca proponowała przepis zabraniający byłym ministrom wchodzenia do Trybunału Konstytucyjnego przez 4 lata — miało to zablokować nominacje PiS. Nawrocki zawetował ustawę. Tusk od razu posłał do TK swojego zaufanego ministra Macieja Berka prosto z gabinetu. Prawnicy są oburzeni i mówią o łamaniu standardów praworządności.",
+      "angle": "Standard, który KO chciało zapisać w prawie wyłącznie po to, by zablokować PiS, zniknął w chwili gdy przestał być wygodny — klasyczne 'zasady dla was, nie dla nas'.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art44998351-z-rzadu-do-trybunalu-konstytucyjnego-prawnicy-oburzeni-kandydatura-macieja-berka",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Sikorski proponuje europejski oddział wojskowy — PiS porównuje to do Waffen-SS",
+      "summary": "Minister spraw zagranicznych Sikorski zaproponował stworzenie dobrowolnego 'Legionu Europejskiego' — brygadowej formacji EU dla żołnierzy z krajów UE i ukraińskich weteranów. Błaszczak z PiS natychmiast odpowiedział 'ostrzegaliśmy', a zaproszony przez prawicowe media ekspert ogłosił: 'Legion Europejski już był. Nosił nazwę Waffen SS'.",
+      "angle": "Partia, która przez 8 lat rządów obiecywała 'najsilniejszą armię w Europie' i nie wyremontowała jednej bazy lotniczej, teraz porównuje europejską współpracę obronną do nazistów — bo tak łatwiej niż merytoryczna dyskusja.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://www.wprost.pl/opinie-i-komentarze/12415941/sikorski-chce-stworzyc-legion-europejski-blaszczak-ostro-reaguje.html",
+      "source": "Wprost"
     }
   ]
 }
