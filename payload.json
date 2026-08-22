@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-22",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Rząd zapłacił 200 tys. zł za raport AI o Polsce — autorka odchodzi po 22 dniach",
+      "summary": "Barbara Mróz-Gorgoń, mianowana Pełnomocniczką Rządu ds. Promocji Marki Polski pod koniec lipca 2026, złożyła dymisję 21 sierpnia po zaledwie 22 dniach pracy. Raport 'Polaków portret własny' opłacony z publicznych pieniędzy był pełen błędów, angielskich wtrętów i pustych przypisów — efektów użycia AI. Prokuratura zarejestrowała postępowanie ws. nieprawidłowości w finansowaniu.",
+      "angle": "Płacisz 200 tys. zł za premium, dostajesz ChatGPT z błędami — a kiedy wychodzi na jaw, rezygnujesz i tłumaczysz to 'niewyobrażalną skalą hejtu'.",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Nawrocki zawetował Lex Szarlatan — i od razu zaproponował własną wersję",
+      "summary": "20 sierpnia Nawrocki odmówił podpisania rządowego 'Lex Szarlatan' i skierował ustawę chroniącą pacjentów przed pseudomedycyną do Trybunału Konstytucyjnego. Jednocześnie zaprezentował własny projekt z niemal identycznym zakresem, ale surowszymi karami — nawet 15 lat więzienia za spowodowanie śmierci pacjenta.",
+      "angle": "Klasyczne 'wasza ustawa jest zła, ale zróbmy to samo z moim logo' — tyle że pacjenci czekają, a sprawa trafi do TK na miesiące.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-20/jest-weto-inna-ustawa-trafia-do-tk-nowe-decyzje-prezydenta/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Koalicja chciała 4-letniego zakazu polityków w TK — teraz nominuje własnego byłego ministra",
+      "summary": "KO zgłosiła kandydaturę Macieja Berka do Trybunału Konstytucyjnego chwilę po odwołaniu go ze stanowiska ministra w rządzie Tuska (14 sierpnia 2026). Ta sama koalicja wielokrotnie postulowała kilkuletnią karencję między pełnieniem funkcji rządowych a zasiadaniem w TK. Dziewięć organizacji i byli prezesi TK — prof. Safjan i prof. Zoll — wezwali do wycofania kandydatury.",
+      "angle": "'Zasady dla was, nie dla nas' w najdosłowniejszym sensie: hasło z opozycji staje się żartem przy własnym obsadzaniu trybunału.",
+      "category": "polityka",
+      "url": "https://newsmaxpolska.pl/kraj/polityka/65521/organizacje-spoleczne-i-eksperci-chca-wycofania-kandydatury-berka-do-tk/news",
+      "source": "Newsmax Polska"
+    },
+    {
+      "title": "CBA w ratuszu Jeleniej Góry: miliony dla powodzian trafiły do firm, które nie były zalane",
+      "summary": "19 sierpnia 2026 agenci CBA weszli do Urzędu Miasta Jelenia Góra, badając zaświadczenia powodziowe wystawione firmom, które — według danych satelitarnych i straży pożarnej — woda nie dotknęła. KARR przekazała 4,5 mln zł trzem podmiotom powiązanym z wiceprezesową Anną Konieczyńską z KO: firmie jej męża, sąsiada i właściciela lokalnej stacji TV.",
+      "angle": "Pieniądze dla powodzian lądują u osób, które same siebie zaliczyły do poszkodowanych — pod parasolem własnej wiceprezesowej. CBA wchodzi cztery miesiące po pierwszym zgłoszeniu.",
+      "category": "urzędy",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-08-19/cba-w-ratuszu-w-jeleniej-gorze-funkcjonariusze-sprawdzaja-zaswiadczenia-powodziowe/",
+      "source": "Polsat News"
     }
   ]
 }
