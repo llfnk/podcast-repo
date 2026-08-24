@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-24",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
+      "title": "Rząd zapłacił 200 tys. zł za raport o Polsce napisany przez AI z błędami geograficznymi",
+      "summary": "Pełnomocniczka rządu ds. promocji Marki Polski Barbara Mróz-Gorgoń złożyła rezygnację po ujawnieniu, że raport 'Polaków portret własny' za 200 tys. zł zawiera rażące błędy: Katowice umieszczone na północy Polski, zmyślone słowo 'chlebowatość' i błędną liczbę jezior. Autorka przyznała, że używała AI do edycji tekstu. Prokuratura wszczęła postępowanie.",
+      "angle": "Pełnomocniczka odchodzi po 4 tygodniach na stołku i zostawia po sobie raport-żart, który miał reklamować Polskę za granicą. Kto sprawdzał, co AI wyprodukowało?",
       "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11293388,prokuratura-badanie-raport-mroz-gorgon-ai-ministerstwo-sportu.html",
+      "source": "Gazeta Prawna"
+    },
+    {
+      "title": "Nawrocki zawetował lex szarlatan, a potem złożył własną — surowszą — wersję ustawy",
+      "summary": "Prezydent Karol Nawrocki odmówił podpisania rządowej ustawy 'lex szarlatan' i skierował ją do Trybunału Konstytucyjnego, twierdząc że za szeroko definiuje szarlatanów i dotyczy też zielarzy czy dietetyków. Jednocześnie złożył do Sejmu własny projekt z karami do 15 lat więzienia. Cel identyczny, autor inny.",
+      "angle": "Klasyczny gest polityczny: wetuj cudzy projekt, złóż identyczny pod własnym nazwiskiem. Szarlatani mogą spać spokojnie przez czas, gdy obie wersje będą się kłócić w TK i Sejmie.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/prawo-w-polsce/art45028911-prezydent-zdecydowal-lex-szarlatan-trafi-do-trybunalu-konstytucyjnego",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "title": "Nawrocki 3x zawetował MiCA — i 1200 polskich firm krypto nie może legalnie działać, zagraniczne mogą",
+      "summary": "Od 1 lipca 2026 polskie firmy kryptowalutowe utraciły możliwość legalnego świadczenia usług w Polsce, bo brakuje krajowych przepisów wdrażających MiCA. Nawrocki wetował ustawę trzykrotnie, argumentując że chroni polskie firmy. Efekt odwrotny: zagraniczne giełdy z licencjami z innych krajów UE obsługują Polaków bez przeszkód, polskie nie.",
+      "angle": "Prezydent blokuje regulację 'dla dobra polskich firm krypto' — i tymi samymi rękami oddaje ich klientów zagranicznej konkurencji, która jako jedyna może legalnie działać w Polsce.",
+      "category": "korporacja",
+      "url": "https://bizblog.spidersweb.pl/setki-polskich-firm-uziemione-przez-politykow-nie-ma-to-jak-prowadzic-biznes-w-polsce",
+      "source": "Spider's Web Bizblog"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "PiS złożył projekt wyjścia z ETS — pełen błędów arytmetycznych i pseudonauki. Polska zarobiła na ETS 3 mld zł",
+      "summary": "Posłowie PiS złożyli projekt ustawy o wyprowadzeniu Polski z systemu handlu emisjami ETS. Analiza INNPoland.pl wykazała, że projekt powołuje się na denialistyczne think-tanki finansowane przez przemysł naftowy i zawiera błędy arytmetyczne — myli miliony z miliardami w prostym odejmowaniu. W tym samym 2026 roku ETS zasilił polski budżet ponad 3 miliardami złotych.",
+      "angle": "Partia, która przez 8 lat rządów budowała węglowe elektrownie i korzystała z ETS, teraz chce z niego wyjść — ustawą z błędami na poziomie drugiej klasy podstawówki, w roku gdy ETS dał Polsce 3 miliardy.",
+      "category": "polityka",
+      "url": "https://innpoland.pl/229978,pis-ustawa-ets-eu",
+      "source": "INNPoland.pl"
     }
   ]
 }
