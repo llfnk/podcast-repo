@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-26",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Prezes PKOl dostal zegarek za 40 tys. euro od szefa Zondacrypto. Twierdzi, ze sam kupil",
+      "summary": "Sledcze dziennikarstwo TVN24 i Wirtualnej Polski ujawnilo, ze Radoslaw Piesiewicz, prezes PKOl i nominat PiS, przyjal od Przemyslawa Krala — szefa zbankrutowanej kryptogiełdy Zondacrypto — zegarek Patek Philippe wart 40 tys. euro. Piesiewicz twierdzi, ze zaplacil gotowka, jednak faktura wystawiona jest na nazwisko i adres Krala. Gdy dziennikarze wytkneli mu, ze raz mowil o euro, raz o frankach, zmienil wersje. CBA przeszukalo 14 lokalizacji, w tym dom rodzicow Piesiewicza. Teraz w PiS nikt go nie zna.",
+      "angle": "Nominat prawicowego obozu bierze zegarek od przestepcy, klamie na dwie waluty, a cala partia dostaje naglej amnezji — klasyczny schemat 'co zegarek, nic nie wiem'.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/szef-zondacrypto-prezes-pkol-i-zloty-zegarek-za-40-tysiecy-euro-st9202153",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Dzialaczka KO rozdala 4,5 mln zl pomocy powodziowej mezowi i znajomym. Komentarz: 'Nie jest mi wstyd'",
+      "summary": "Dziennikarze ujawnili, ze wiceprezes Karkonoskiej Agencji Rozwoju Regionalnego Anna Konieczynska, dzialaczka Koalicji Obywatelskiej, skierowala 4,5 mln zl pozyczek powodziowych do trzech firm z jednej wsi — w tym do firmy swojego meza — mimo ze ich budynki nie byly zalane. Na pytania mediow Konieczynska odpowiedziala: 'Nie jest mi wstyd'. KO ja zawiesila, a nadzorujacy agencje minister Kierwinski zapewnia, ze nie ma z tym nic wspolnego.",
+      "angle": "Partia, ktora zbudowala kampanie na hasle praworzadnosci, ma wlasna afere rozdawania publicznych pieniedzy rodzinie i znajomym — i jeszcze bohaterka oglasza, ze wcale jej nie wstyd.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/afera-powodziowa-ko-ma-problem-beda-konsekwencje-dla-dzialaczki-partii-7316903532267584a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "Zurek oglasza 'przelom w sledztwie' Zondacrypto — lista podejrzanych obejmuje juz fundacje Ziobry, Wiplera i TV Republika",
+      "summary": "Prokurator generalny Waldemar Zurek oswiadczyl 25 sierpnia 2026 r., ze w sprawie kryptoafery Zondacrypto nastapil 'istotny przelom': sa nowi podejrzani, nowe dowody i nowi swiadkowie kooperujacy z prokuratura. Sledztwo rozszerzyl sie o przeplywy finansowe do fundacji Zbigniewa Ziobry i Przemyslawa Wiplera, TV Republika, konferencje CPAC oraz PKOl. Zurek apelowal o 'cierpliwosc i wyrozumialosc'.",
+      "angle": "Im gleblej prokuratura kopie w Zondacrypto, tym wiecej prawicowych instytucji wychodzi z pieniezmi na rekach — zaczelo sie od jednej kryptogiełdy, a wyrasta portret calego ekosystemu finansowania obozu PiS.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/sledztwo-w-sprawie-zondacrypto-jest-oswiadczenie-prokuratora-generalnego-st9205098",
+      "source": "TVN24"
+    },
+    {
+      "title": "Meta odpisala rzadowi: 'Nie ma jednego rozwiazania'. Gawkowski niezadowolony — a Meta siedzi w jego wlasnej radzie",
+      "summary": "Minister cyfryzacji Krzysztof Gawkowski postavil Mecie ultimatum — 7 dni na odpowiedz w sprawie falszywych reklam z deepfake'ami polskich celebrytow i przedsiebiorcow. Meta odpisala dyplomatycznie: stosuje 'wielopoziomowy system', ale jednego rozwiazania nie ma, i zaprosiła ministra na spotkanie. Gawkowski oglosil, ze odpowiedz go 'nie satysfakcjonuje'. SpiderWeb wytknąl, ze przedstawiciel Mety zasiada w Radzie ds. Cyfryzacji przy samym ministrze.",
+      "angle": "Minister straszy korporacje piescia w stol, tymczasem ta sama korporacja siedzi przy jego wlasnym okraglym stole — i obie strony robia mine, jakby tego nie widzialy.",
+      "category": "korporacja",
+      "url": "https://spidersweb.pl/2026/08/meta-ciagle-ma-nas-w-nosie.html",
+      "source": "Spider's Web"
     }
   ]
 }
