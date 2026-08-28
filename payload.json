@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-28",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Prezes PKOl zatrzymany — zegarek za 40 tys. euro to nie łapówka, to 'pomoc przy zakupie'",
+      "summary": "Prezes Polskiego Komitetu Olimpijskiego Radosław Piesiewicz został zatrzymany przez CBZC w śledztwie ws. Zondacrypto. W listopadzie 2025 r. otrzymał od CEO giełdy Przemysława Krala zegarek Patek Philippe za ok. 40 tys. euro — rzekomo w zamian za pośrednictwo z byłym premierem i prezesem UOKiK. Piesiewicz twierdzi, że sam kupił zegarek, a Kral mu jedynie pomógł znaleźć model. Straty klientów Zondacrypto szacowane są na co najmniej 2,4 mld zł.",
+      "angle": "Szef polskiego olimpizmu — człowiek od fair play i ducha sportowego — tłumaczy prokuraturze, że zegarek za 40 tys. euro to nie korupcja, tylko 'pomoc przy zakupie'. A klienci Zondacrypto wciąż czekają na zwrot miliardów.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.gazetaprawna.pl/prawnik/prawo-karne/artykuly/11295434,radoslaw-piesiewicz-zatrzymany-funkcjonariusze-cbzc-weszli-do-akcji-w.html",
+      "source": "Gazeta Prawna"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Nawrocki wetuje e-dziennik, autobusy i energetykę — trzy ustawy w jeden dzień",
+      "summary": "Prezydent Karol Nawrocki zawetował trzy ustawy naraz: pilotaż darmowego e-dziennika dla szkół (mimo że sam ocenia pomysł jako słuszny), ustawę o transporcie zbiorowym chroniącą dostęp do komunikacji dla ok. 10 mln Polaków oraz nowelę prawa energetycznego. Minister infrastruktury Klimczak: '10 mln Polaków będzie miało problem z dojazdem do pracy, szkoły i lekarza'. Reakcja MEN: 'Weta coraz głupsze. Zapłacą rodzice i dzieciaki'.",
+      "angle": "Prezydent mówi 'pomysł dobry, ale' — i tym samym blokuje zarówno cyfryzację polskich szkół, jak i jedyny autobus dla prowincji. Trzy weta w jeden dzień. Bo może.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polska/news-karol-nawrocki-zawetowal-trzy-ustawy-cztery-podpisal,nIdn,1015510",
+      "source": "RMF24"
+    },
+    {
+      "title": "Gawkowski żąda miliarda kary od Meta. Meta odpowiada: 'Robimy co możemy'",
+      "summary": "Wicepremier Krzysztof Gawkowski zażądał od Meta wyjaśnień ws. fałszywych reklam atakujących Polaków i zapowiedział wniosek do Komisji Europejskiej o karę 250 mln euro. Meta odpisała: usunęła 137 tys. reklam z Polski w rok, wdrożyła AI i weryfikację reklamodawców. Gawkowski stwierdził, że odpowiedź 'nie jest satysfakcjonująca' i że reklamy powinny znikać w minuty, nie dni.",
+      "angle": "Polacy od lat tracą pieniądze na scamach z twarzami znanych ludzi na Facebooku. Rząd pisze list, Meta odpisuje, minister jest niezadowolony, idzie do KE — i koło się zamyka. Tymczasem fałszywe reklamy dalej się klikają.",
+      "category": "korporacja",
+      "url": "https://forsal.pl/biznes/technologie/artykuly/11295062,falszywe-reklamy-na-platformie-meta-gawkowski-odpowiedz-firmy-nie-jest-satysfakcjonujaca.html",
+      "source": "Forsal.pl"
+    },
+    {
+      "title": "Poseł KO Giertych broni CEO Zondacrypto — za darmo i bez konfliktu interesów. Serio.",
+      "summary": "Roman Giertych — poseł i wiceprzewodniczący klubu KO w Sejmie — ogłosił, że od maja jest adwokatem Przemysława Krala, byłego szefa Zondacrypto. Robi to pro bono. Ta sama giełda jest powiązana z rosyjską mafią, a jej klienci stracili co najmniej 2,4 mld zł. Współpartyjnicy reagują: Nitras komentuje sprawę 'dosadnie', inni milczą.",
+      "angle": "Wiceszef klubu rządzącej partii bezpłatnie reprezentuje CEO firmy, której rosyjskie powiązania ABW śledziło od 8 lat. Pro bono — bo przecież nie o pieniądze tu chodzi. A o co, tego Giertych nie wyjaśnił.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/prawo-karne/art45050421-afera-zondacrypto-roman-giertych-pelnomocnikiem-przemyslawa-krala",
+      "source": "Rzeczpospolita"
     }
   ]
 }
