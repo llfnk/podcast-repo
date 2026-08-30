@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-08-30",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki blokuje ambasadorów od początku kadencji — a na forum młodzieżowym tłumaczy, że nie jest notariuszem rządu",
+      "summary": "29 sierpnia na forum 'Przyszłość.pl' w Juracie prezydent Nawrocki skonfrontował się z uczestnikami i oświadczył, że 'nie będzie notariuszem żadnego rządu'. Minister Sikorski ujawnił wcześniej, że Nawrocki nie podpisał ani jednej nominacji ambasadorskiej od dnia objęcia urzędu — to rekordowe paraliżowanie polskiej dyplomacji. Spór o ambasadorów trwa praktycznie od inauguracji.",
+      "angle": "Człowiek, który od niemal roku odmawia wykonania jednej z podstawowych konstytucyjnych kompetencji prezydenta — mianowania ambasadorów — tłumaczy 800 młodym, że chroni Polskę przed rządem. Brak ambasadorów to nie symbol niezależności, to brak polskiej obecności tam, gdzie są polscy obywatele.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wydarzenia.interia.pl/kraj/news-konfrontacja-prezydenta-z-mlodzieza-nie-bede-notariuszem-rza,nId,23535861",
+      "source": "Interia"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Meta wiedziała o 9 na 10 scam-reklam zanim ktokolwiek je zgłosił — i przepuszczała je przez rok. Polska żąda kary miliarda zł",
+      "summary": "Po kampanii ministra Gawkowskiego i prezesa InPost Rafała Brzoski, Meta przyznała, że z Polski usunęła 137 tys. reklam-wyłudzeń w ciągu roku — ale 88% z nich wykryła ZANIM użytkownicy je zgłosili. Ministerstwo Cyfryzacji złożyło do Komisji Europejskiej wniosek o karę 250 mln euro (ok. 1 mld zł). Meta zapowiedziała dopiero teraz obowiązkową weryfikację reklamodawców finansowych kierujących treści do Polski.",
+      "angle": "Algorytm Facebooka potrafi wykryć prawie każdą scam-reklamę zanim ktokolwiek ją zobaczy — i przez rok świadomie ją przepuszczał, bo się opłacało. Dopiero groźba kary, którą Meta zarobi w kilka godzin, wymusiła zmiany. Podręcznikowy przykład: zasady bezpieczeństwa dla użytkowników, zyski dla akcjonariuszy.",
+      "category": "korporacja",
+      "url": "https://spidersweb.pl/2026/08/meta-miliard-kary-polska-facebook-rafal-brzoska-ministerstwo-cyfryzacji.html",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "30-letni syn posła PiS prezesem spółki komunalnej — awansował dwa miesiące po wyborach samorządowych",
+      "summary": "Mateusz Lorek, prawnik i syn posła PiS Grzegorza Lorka, objął stanowisko wiceprezesa Bychawskiego Przedsiębiorstwa Komunalnego w czerwcu 2024 — tuż po wyborach samorządowych, w których PiS wygrało w Bychawie. Pięć miesięcy później awansował na prezesa. Burmistrz należy do PiS i twierdzi, że powiązania rodzinne nie miały żadnego znaczenia. Historię ujawniło Radio ZET i WP w sierpniu 2026.",
+      "angle": "Partia, która latami krytykowała 'kadrowe tsunami' i nepotyzm koalicji rządzącej, w dwa miesiące po wygraniu wyborów lokalnych sadza syna posła w fotel szefa komunalnej spółki. Tekst podręcznikowy: zasady dla was, synekury dla naszych.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/30-latek-na-czele-miejskiej-spolki-to-syn-posla-pis-7322278841989600a",
+      "source": "Wirtualna Polska"
     }
   ]
 }
