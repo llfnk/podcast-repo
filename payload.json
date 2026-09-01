@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Rząd sam uchwalił zakaz ministrów w TK — i mianuje własnego ministra do TK",
+      "summary": "Koalicja rządząca przeforsowała przepis stanowiący, że nie można przejść bezpośrednio z rządu do Trybunału Konstytucyjnego. Teraz ta sama koalicja nominuje Macieja Berka — byłego ministra ds. realizacji polityki rządu w gabinecie Tuska — na sędziego TK. Sejm ma głosować nad jego kandydaturą już w piątek 5 września.",
+      "angle": "Klasyczna hipokryzja: rząd uchwalił prawo 'nie można przejść z rządu do TK', po czym wysuwa własnego ministra i liczy, że nikt nie skojarzy.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45078921-maciej-berek-sedzia-tk-w-czwartek-opinia-komisji-w-piatek-glosowanie-sejmu",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki zawetował eDziennik szkolny — rząd donosi na prezydenta do CBA",
+      "summary": "Prezydent Nawrocki zawetował ustawę o państwowym eDzienniku dla szkół, argumentując wątpliwościami co do bezpieczeństwa danych. Rząd odpowiedział eskalacją: wiceminister Lubnauer ogłosiła złożenie wniosku do CBA o zbadanie, czy za wetem stoją lobbyści prywatnych dostawców systemów dziennikowych (Librus, Vulcan). Prawie 10 milionów uczniów zostaje bez bezpłatnej alternatywy dla komercyjnych aplikacji.",
+      "angle": "Zamiast dyskutować o szkołach i danych dzieci, obie strony sięgają po służby antykorupcyjne jako oręż polityczny — to jest to, co polska klasa polityczna robi z TK, CBA i ABW od dekad.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/panstwowy-edziennik-do-kosza-reforma-poczeka-rzad-wysyla-cba-w-poszukiwaniu-lobbingu-7324399708801088a",
+      "source": "WP.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Od dziś paraliż budowlany: 75% gmin nie uchwaliło planu, który miały uchwalić od lat",
+      "summary": "Od 1 września 2026 r. gminy bez uchwalonego planu ogólnego nie mogą wydawać nowych decyzji o warunkach zabudowy. Termin był znany z wieloletnim wyprzedzeniem — a mimo to plan uchwaliło zaledwie 620 z 2479 gmin (około 25%). W 118 gminach nawet nie zaczęto prac. Efekt: tysiące inwestorów i właścicieli działek traci możliwość budowy domu z dnia na dzień.",
+      "angle": "Państwo narzuca prawo z kilkuletnim terminem, gmi­ny przez lata wzruszają ramionami, a rachunek płacą zwykli ludzie, którzy kupili działkę i teraz nie mogą na niej zbudować domu — to podręcznikowy absurd legislacyjno-urzędniczy.",
+      "category": "urzędy",
+      "url": "https://finanse.wp.pl/paraliz-budowlany-od-wrzesnia-gminy-nie-wyrobia-sie-z-nowym-prawem-7324322680797248a",
+      "source": "WP.pl Finanse"
+    },
+    {
+      "title": "CBA i EPPO aresztują za pomoc powodziową: powódź nigdy do nich nie dotarła",
+      "summary": "Centralne Biuro Antykorupcyjne zatrzymało 6 osób na Dolnym Śląsku — przedstawicieli trzech firm i byłego wysokiego urzędnika Karkonoskiej Agencji Rozwoju Regionalnego. Firmy wyłudziły ponad 900 tys. euro kredytów z funduszy unijnych na szkody powodziowe z września 2024 r. Europejska Prokuratura Europejska ustaliła, że powódź fizycznie nie dotarła do siedzib tych firm. Sąd aresztował 3 z 6 zatrzymanych. Wśród osób pod zarzutami nieoficjalnie wymieniana jest działaczka Koalicji Obywatelskiej i jej mąż.",
+      "angle": "Pieniądze przeznaczone dla poszkodowanych powodzią trafiły do firm, których powódź nie dotknęła — a powiązania z partią rządzącą sprawiają, że ta afera ma wszystko, czego potrzeba do dobrego podcastu o hipokryzji.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/szesc-osob-z-zarzutami-w-aferze-powodziowej-powodz-nigdy-nie-dotarla-7323041455695904a",
+      "source": "WP.pl"
     }
   ]
 }
