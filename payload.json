@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-02",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki zawetował darmowy e-dziennik dla szkół. Minister: to lobbystyczne weto",
+      "summary": "Prezydent Nawrocki zawetował 28 sierpnia ustawę o państwowym eDzienniku — bezpłatnej alternatywie dla komercyjnych platform elektronicznych w szkołach. System kosztowałby budżet 20 mln zł rocznie, ale zwalniałby szkoły i rodziców z płatnych subskrypcji prywatnych dostawców. Minister edukacji Nowacka nazwała weto 'lobbystycznym' i zapowiedziała zwrócenie się do służb z pytaniem, czy za decyzją prezydenta stały niejawne wpływy firm takich jak Librus.",
+      "angle": "Prezydent, który publicznie popiera cyfryzację szkół, wetuje darmowe rozwiązanie państwowe — w efekcie pieniądze szkół dalej płyną do prywatnych firm. Czyje interesy rzeczywiście chroni?",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://polskieradio24.pl/polska/nawrocki-przeciw-e-dziennikowi-nowacka-lobbystyczne-weto",
+      "source": "Polskie Radio 24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Rząd zapłacił 200 tys. zł za raport o Polsce napisany przez AI — błędy na poziomie szkoły podstawowej",
+      "summary": "1 września prokuratura zrobiła nowy ruch w sprawie raportu 'Polaków portret własny. DNA marki Polska', za który Ministerstwo Sportu i Turystyki zapłaciło 200 tys. zł. Dokument okazał się napisany głównie przez AI: Katowice trafiły do 'północnej Polski', raport twierdzi, że tylko pięciu Polaków dostało Nobla, a młodzi Polacy rzekomo mówią po mandaryńsku. Autorka — zaledwie czterotygodniowa pełnomocniczka rządu ds. promocji marki Polska — zrezygnowała 21 sierpnia.",
+      "angle": "Rząd, który ma promować Polskę na świecie, wydał publiczne pieniądze na raport pełen podstawowych błędów — bo nikt nie sprawdził, co AI wygenerowało. Pytanie: kto zatwierdził fakturę i wystawił odbiór?",
+      "category": "urzędy",
+      "url": "https://wydarzenia.interia.pl/kraj/news-raport-wygenerowany-przez-ai-jest-ruch-prokuratury,nId,23535510",
+      "source": "Interia"
+    },
+    {
+      "title": "TK bez budżetu na 2027. Rząd i Trybunał kłócą się o papier, Polska bez finansowanej instytucji konstytucyjnej",
+      "summary": "Rząd nie wpisał Trybunału Konstytucyjnego do projektu budżetu na 2027 rok, bo TK rzekomo nie dostarczył planu finansowego w wymaganej formie. TK twierdzi, że plan dostarczono w terminie, ale prezes Święczkowski ominął wymagane kworum sędziów — bo posiedzenia sabotowali sędziowie popierani przez koalicję. Efekt: instytucja konstytucyjna może zostać bez środków, a obie strony wzajemnie się obwiniają.",
+      "angle": "Polska ma Trybunał, który nie może zebrać quorum, bo jedna strona go bojkotuje — więc druga wyrzuca go z budżetu. Rekurencja absurdu: wszyscy krzyczą 'łamią konstytucję!' i wszyscy mają rację.",
+      "category": "urzędy",
+      "url": "https://wiadomosci.wp.pl/trybunal-konstytucyjny-bez-budzetu-na-2027-r-rzad-ma-powazny-zgryz-7322923293010400a",
+      "source": "WP Wiadomości"
+    },
+    {
+      "title": "PiS krzyczy 'absolutny skandal!' bo zaświeciła się dioda na kamerze sejmowej",
+      "summary": "1 września poseł PiS Michał Wójcik opublikował na X alarm, że kamery nagrywały zamknięte posiedzenie klubu PiS. Marszałek Sejmu Czarzasty wyjaśnił, że zapalona czerwona dioda to standardowy wskaźnik sprzętu transmisyjnego przełączającego sygnał między salami — nie nagrywanie. PiS zdążyło jednak rozkręcić news o 'absolutnym skandalu' zanim pojawiły się wyjaśnienia.",
+      "angle": "Partia, która przez 8 lat rządziła służbami, rozbudowywała CBA i używała Pegasusa, wpada w panikę od kontrolki na kamerze. Dawni mistrzowie inwigilacji odkrywają, że bycie podglądanym nie jest przyjemne.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/polityka/12430554/pis-podgladane-na-zamknietym-posiedzeniu-czarzasty-odpowiada.html",
+      "source": "Wprost"
     }
   ]
 }
