@@ -1,28 +1,36 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-04",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Trzecia blokada krypto: PiS i Konfederacja bronią dzikiego rynku w środku afery Zondacrypto",
+      "summary": "Sejm nie odrzucił trzeciego weta Nawrockiego ws. ustawy o rynku kryptoaktywów — do wymaganej większości 3/5 zabrakło 25 głosów. PiS i Konfederacja zagłosowały razem, by utrzymać blokadę, mimo że przed głosowaniem na sali odczytywano fragmenty akt ws. Zondacrypto. Minister Domański ochrzcił ich 'kryptosrebrnikami'.",
+      "angle": "Polska właśnie przeżywa megaaferę kryptowalutową — 350 mln strat, rosyjska mafia, powiązania polityków — a te same ugrupowania, które w nią wdepnęły, blokują ustawę regulującą ten rynek po raz trzeci. Słownikowa definicja zasłaniania tyłka cudzym ciałem.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://natemat.pl/667099,weto-nawrockiego-ws-kryptowalut-utrzymane-nawet-bomba-z-akt-zondacrypto-nic-nie-dala",
+      "source": "naTemat.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Rząd straszy Metę miliardem kary. Meta kasuje reklamy i mówi: traktujemy to poważnie",
+      "summary": "Ministerstwo Cyfryzacji zażądało od Meta odpowiedzi w 7 dni na temat skali fałszywych reklam w Polsce i złożyło do Komisji Europejskiej wniosek o karę 250 mln euro. Meta odpowiedziała, że usunęła 137 tys. reklam łamiących jej zasady — 88% zanim ktokolwiek je zgłosił. Zuckerberg zapowiedział też nowe zabezpieczenia.",
+      "angle": "Rząd gra tough guy wobec Zuckerberga — efektowne listy, groźba miliarda kary — a Meta po cichu sama moderuje więcej niż CERT Polska jest w stanie jej zgłosić. Kto tu naprawdę egzekwuje prawo: minister czy algorytm?",
+      "category": "korporacja",
+      "url": "https://www.money.pl/biznes/polski-rzad-zainterweniowal-firma-zuckerberga-odpowiada-7322610192652768a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Westerplatte jako trybuna: Nawrocki atakuje 'niemieckie stronnictwa' w rocznicę wybuchu II WŚ",
+      "summary": "W 87. rocznicę napaści Niemiec na Polskę prezydent Nawrocki wezwał podczas przemówienia na Westerplatte 'niemieckie stronnictwa w Polsce' do odwagi — co powszechnie odczytano jako atak na rządzącą koalicję. Szef MSZ Sikorski odpowiedział na X: 'mógłby sobie odpuścić wredne insynuacje — bezczelne i głupie'.",
+      "angle": "Rocznica wybuchu II Wojny Światowej, Westerplatte, krew, pamięć — a prezydent zamienia mównicę w trybunę partyjną. Kiedy uroczystość staje się artylerią polityczną, widać kto jest strzałem, a kto tarczą.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/karol-nawrocki-wzywa-do-odwagi-niemieckie-stronnictwa-w-polsce-radoslaw-sikorski-reaguje-st9216495",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wakacje minęły — paliwo drożeje o złotówkę na litrze. 5 miliardów za wakacyjną ulgę",
+      "summary": "Od 1 września wygasł program 'Ceny Paliwa Niżej', który obniżał VAT na paliwa z 23% do 8%. Benzyna 95 podskoczyła o 1,06 zł do 7,63 zł/l, diesel o 0,88 zł do 8,39 zł/l. Całkowity koszt programu dla budżetu wyniósł ok. 5 miliardów złotych.",
+      "angle": "Przez całe wakacje Polacy tankowali z rabatem finansowanym z budżetu, nie wiedząc ile za ten rabat zapłacili. 5 miliardów złotych. 1 września — koniec wakacji, koniec fikcji, złotówka drożej na litrze. Czysty polityczny cykl dobroczynności.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/O-ponad-zlotowke-wiecej-na-litrze-O-tyle-wiecej-placimy-za-paliwa-9192166.html",
       "source": "Bankier.pl"
     }
   ]
