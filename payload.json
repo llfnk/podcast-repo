@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-05",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Tusk: 'Ani śladu polityki w TK'. Sejm: Berek sędzią TK — 226 głosami",
+      "summary": "4 września Sejm wybrał Macieja Berka — ministra i wieloletnią prawą rękę Tuska — na sędziego Trybunału Konstytucyjnego. Premier sam rekomendował kandydaturę byłego polityka swojego rządu, choć od miesięcy zapewniał, że do TK nie trafi 'ani ślad polityki'. Koalicjant Kosiniak-Kamysz skomentował krótko: 'Jesteście hipokrytami do kwadratu'.",
+      "angle": "Podręcznikowy przykład zasady 'zasady dla was, nie dla nas': obietnica depolityzacji pada w tym samym zdaniu co uzasadnienie, dlaczego własny minister jest jednak wyjątkiem od tej zasady.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/bezwzgledna-wiekszosc-sejm-wybral-nowego-sedziego-tk-7325704300144800a",
+      "source": "WP Wiadomości"
+    },
+    {
+      "title": "Nawrocki wetuje tę samą ustawę kryptowalutową trzeci raz. Polska jedyna w UE bez regulacji",
+      "summary": "4 września Sejm po raz trzeci nie obalił prezydenckiego weta do ustawy o kryptoaktywach — zabrakło 25 głosów. Nawrocki zawetował tę samą ustawę w grudniu 2025, lutym i czerwcu 2026. Polska pozostaje jedynym krajem UE bez regulacji rynku krypto, co oznacza brak licencji dla giełd i brak ochrony klientów. W tym samym dniu na sejmowej mównicy Tusk cytował zeznania świadka z afery Zondacrypto — gdzie dziesiątki tysięcy klientów straciło oszczędności na nienadzorowanej giełdzie.",
+      "angle": "Państwo blokuje regulacje rynku krypto trzeci raz z rzędu, a w tym samym dniu walczy ze skutkami braku tych regulacji — absurd zamknięty w jednym dniu sejmowym.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/prawo-w-polsce/art45096341-weto-prezydenta-ws-ustawy-o-kryptowalutach-sejm-nie-dal-rady-go-odrzucic",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Prokuratura wzywa prezydenta jako świadka ws. blokady TK. Nawrocki: 'Zapraszam śledczych'",
+      "summary": "3 września prokuratura wezwała Karola Nawrockiego na przesłuchanie w śledztwie dotyczącym uniemożliwienia czterem legalnie wybranym sędziom TK objęcia stanowisk — po tym jak wiosną zbojkotował ich ślubowanie. Prezydent oświadczył, że 'odpowie na pytania' — ale zaprosił śledczych do siebie, nie deklarując stawienia się w prokuraturze. Śledztwo trwa od kwietnia 2026, przesłuchano już ponad 40 świadków.",
+      "angle": "Prezydent blokuje sędziów wybranych przez Sejm, prokuratura wzywa go jak każdego obywatela — a on odpowiada zaproszeniem do pałacu. Kiedy prawo dotyczy władzy, zasady stają się elastyczne.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-03/karol-nawrocki-na-swiadka-prokuratura-chce-przesluchac-prezydenta/",
+      "source": "Polsat News"
     }
   ]
 }
