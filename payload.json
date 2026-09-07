@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-07",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Posłanka PiS szczeka w Sejmie, potem tłumaczy: to jedyny język, jaki rozumieją",
+      "summary": "Dominika Chorosińska z PiS wydawała dźwięki szczekania psa podczas mowy wicepremiera Kosiniaka-Kamysza na sali plenarnej Sejmu 4 września. Wiceprezes PiS Tobiasz Bocheński przeprosił: 'To nie powinno się zdarzyć'. Chorosińska odpowiedziała na X że 'jedyny język, jaki rozumieją Tusk i Kosiniak-Kamysz, to szczekanie psów z Kłodzka', i sprawa trafi przed Komisję Etyki.",
+      "angle": "Parlamentarzystka, którą płacimy z podatków, szczeka jak pies podczas mowy wicepremiera, a potem chwali się tym na Twitterze — i wiceprezes jej własnej partii musi ją publicznie przepraszać. To nie jest już nawet polityczna walka, to cyrk.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-05/wicepremier-przemawial-poslanka-pis-szczekala-bochenski-moge-przeprosic/",
+      "source": "PolsatNews.pl"
+    },
+    {
+      "title": "Koalicja 'praworządności' wrzuciła swojego byłego ministra do Trybunału Konstytucyjnego",
+      "summary": "Sejm wybrał 4 września Macieja Berka — byłego ministra w rządzie Tuska — na sędziego Trybunału Konstytucyjnego (TK). Berek złożył dymisję z ministerstwa 11 sierpnia, a miesiąc później zasiadł w TK. Koalicja przez lata atakowała PiS za dokładnie to samo: mianowanie partyjnych nominatów do trybunału.",
+      "angle": "Ci sami politycy, którzy przez lata krzyczeli że PiS upolitycznia TK, teraz sadzają w nim swojego byłego ministra. Różnica jest taka, że tym razem to podobno jest 'przywracanie praworządności'.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45096261-sejm-zdecydowal-maciej-berek-nowym-sedzia-trybunalu-konstytucyjnego",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Tusk ujawnił w Sejmie tajne zeznania o Ziobrze i łapówkach od Zondacrypto — i przegrał głosowanie",
+      "summary": "4 września premier Tusk przed głosowaniem nad wetem Nawrockiego do ustawy o kryptoaktywach odczytał na mównicy fragment zeznań kluczowego świadka sprawy Zondacrypto: Ziobro miał obiecać 'załatwienie' sprawy giełdy za 2 mln zł w korzyściach. Koalicji zebrało się 241 głosów — zabrakło 25 do obalenia weta.",
+      "angle": "Premier ujawnia zeznania ze śledztwa żeby wygrać polityczne głosowanie w Sejmie — i tak przegrywa. To jest polska polityka: weto kryptoustaw trwa, Ziobro daleko w Budapeszcie, a ustawa regulująca giełdy krypto leży na dnie.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/25-glosow-zabraklo-do-odrzucenia-weta-Ustawa-o-kryptowalutach-nadal-zablokowana-9192153.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "'Herr Tusk, zjedz Snickersa!' — premier wdał się w tweet-wojnę z politykiem AfD",
+      "summary": "Po wygranej AfD w Saksonii-Anhalt (44%) Tusk napisał na X: 'W Polsce tylko idioci albo zdrajcy mogą cieszyć się z triumfu AfD w Niemczech. Zebrało się ich wielu w Konfederacji i PiS'. Eurodeputowany AfD Tomasz Froelich odpisał: 'Herr Tusk, zjedz Snickersa!' — nawiązując do reklamy 'Jesteś sobą gdy jesteś głodny'. 7 września wymiana ciągnie się dalej.",
+      "angle": "Szef polskiego rządu angażuje się w tweet-wojnę z politykiem partii, którą sam nazywa ekstremistyczną. Chciał uderzyć w PiS i Konfederację — dostał ripostę 'Snickers' od AfD i dał im platformę. To nie jest dyplomacja, to scrollowanie X o 23:00.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/herr-tusk-polityk-afd-odpowiada-na-ostry-wpis-premiera-7326753952356448a",
+      "source": "Wirtualna Polska"
     }
   ]
 }
