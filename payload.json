@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-09",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Posłanka PiS szczekała w Sejmie — i twierdzi, że miała rację",
+      "summary": "Podczas przemowy ministra Kosiniaka-Kamysza posłanka Dominika Chorosińska wydawała z ław PiS dźwięki przypominające szczekanie psa. Incydent trafił do stenogramu sejmowego. Kilka dni później Chorosińska zamiast przeprosin wrzuciła na X post, że to jedyny język, który Tusk i Kosiniak-Kamysz rozumieją — nawiązując do 'psów z Kłodzka'. Mąż posłanki zabrał głos 9 września.",
+      "angle": "Kobieta wygrała mandat poselski, po czym postanowiła użyć go do szczekania — i jeszcze to tłumaczy jako akt odwagi obywatelskiej. Podwójne standardy powagi i kultury debaty.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/poslanka-pis-dominika-chorosinska-szczekala-w-sejmie-komentarze-politykow-st9224623",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Były wiceszef wywiadu za kratkami — za stanie z banerem Ostatniego Pokolenia",
+      "summary": "Piotr Niemczyk — były opozycjonista PRL i były funkcjonariusz UOP — trafił 8 września do aresztu w Warszawie. Skazano go (wraz z 25 innymi osobami) za udział w proteście Ostatniego Pokolenia z maja 2025 r. Odmówił wykonania prac społecznych, więc sąd zamienił karę na 15 dni aresztu. Niemczyk twierdzi, że stał na chodniku z banerem, a nie blokował drogi.",
+      "angle": "Człowiek, który ryzykował życie walcząc z komunizmem, idzie siedzieć za trzymanie transparentu — podczas gdy za faktyczne blokady dróg przez prawicowe traktory politycy potrafili przyklasnąć. Kto ma prawo protestować, a kto nie?",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/piotr-niemczyk-w-areszcie-odmowil-wykonania-kary-st9227640",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polska żąda miliarda zł kary od Mety — gigant usuwa reklamy, ale zarabia dalej",
+      "summary": "Minister cyfryzacji Gawkowski zażądał od KE nałożenia na Metę kary 250 mln euro za deepfake'owe reklamy oszukujące Polaków — z twarzami m.in. Brzoski i znanych polityków. Meta odpowiedziała, że od lipca 2025 do czerwca 2026 usunęła 137 tys. polskich reklam naruszających zasady. Polska chce, by KE wszczęła formalne postępowanie z DSA.",
+      "angle": "Meta zarabia na reklamach, które okradają Polaków z oszczędności, usuwa je dopiero pod groźbą kary — i chwali się liczbą usuniętych jako dowodem odpowiedzialności. Brzoska pointuje: 250 mln euro to mniej niż wydają na lobbing.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-zada-miliarda-zlotych-kary-dla-Mety-Gigant-natychmiast-reaguje-9188901.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Pieniądze dla powodzian trafiły do ludzi, którzy powodzią dotknięci nie byli",
+      "summary": "4,5 mln zł z Karkonoskiej Agencji Rozwoju Regionalnego (KARR) — instytucji odpowiedzialnej za dystrybucję rządowych pożyczek popowodziowych — trafiło do trzech podmiotów z jednego obszaru, który według czterech niezależnych źródeł nie był dotknięty powodzią. W tym mąż wiceprezeski KARR i działaczki KO Anny Konieczyńskiej dostał maksymalne 200 tys. zł. Kierwiński — minister ds. odbudowy — zapowiedział wykluczenie Konieczyńskiej z partii.",
+      "angle": "Rząd, który miał być 'gorącym żelazem' w walce z korupcją, dystrybuuje pieniądze dla powodzian przez działaczy własnej partii — a minister odpowiedzialny za odbudowę tłumaczy, że ministerstwo nie decydowało o konkretnych pożyczkach.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/plus/programy/superwizjer/afera-z-pieniedzmi-dla-powodzian-kto-dostal-srodki-z-karr-vc9190265",
+      "source": "TVN24 Superwizjer"
     }
   ]
 }
