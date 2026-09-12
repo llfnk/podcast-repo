@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-12",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
+      "title": "PKP grozi maszynistom sądem za protest bezpieczeństwa po wypadku",
+      "summary": "Maszyniści spowalniają pociągi do 20 km/h na przejazdach kolejowych — to ich odpowiedź na wypadek w Sokolnikach Suchych. Prawie 90% pociągów spóźnionych, 67 odwołanych. Zamiast przyznać rację i naprawić przejazdy, PKP PLK zapowiada „konsekwencje prawne“ wobec protestujących.",
+      "angle": "Spółka skarbu państwa grozi swoim pracownikom sądem za legalny protest po wypadku, który udowodnił, że mieli rację. Klasyczny motyw: kasa na prawników się znajdzie, kasa na bezpieczne przejazdy — nie.",
+      "category": "urzędy",
+      "url": "https://www.rmf24.pl/fakty/polska/news-pkp-plk-grozi-protestujacym-bedziemy-rozwazac-wyciagniecie-k,nIdn,1007813",
+      "source": "RMF24"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
+      "title": "Uczelnia Ordo Iuris: 5 lat, 19 studentów, 0 nowych od 2 lat — i twierdzi, że jest niszczona przez rząd",
+      "summary": "Ministerstwo Nauki nakazało likwidację Collegium Intermarium powiązanego z Ordo Iuris. Uczelnia przez 5 lat wykształciła 19 osób, nie przyjęła nikogo w dwóch ostatnich latach akademickich, straciła akredytację, nie składała sprawozdań finansowych ani raportów. Ordo Iuris twierdzi, że to polityczne niszczenie przez rząd Tuska.",
+      "angle": "Jak ochronić uczelnię, która sama siebie zlikwidowała, zanim rząd zdążył to zrobić? Wzorcowy przykład 'mordowanej instytucji', która nigdy nie działała.",
       "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "url": "https://wiadomosci.wp.pl/collegium-intermarium-w-likwidacji-razace-naruszenia-7327985761818784a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "Nawrocki zawetował ustawę o kryptowalutach trzy razy — teraz sam składa prawie ten sam projekt",
+      "summary": "Prezydent Nawrocki po raz trzeci zablokował rządową ustawę regulującą rynek kryptoaktywów, a Sejm nie zdołał przełamać weta. Polska jest jednym z nielicznych krajów UE bez regulacji MiCA. Tymczasem Nawrocki sam złożył do Sejmu nowy projekt — oparty na tej samej treści, którą poprzednio odrzucił.",
+      "angle": "Rok pętli legislacyjnej: weto, weto, weto — a potem 'mój projekt jest OK'. Kto płaci za bałagan? Firmy kryptowalutowe, które albo uciekają za granicę, albo działają w szarej strefie.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Trzy-weta-to-za-malo-Rzad-i-prezydent-ida-na-kolejne-ostre-starcie-o-kryptowaluty-9194174.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "4,5 mln zł dla powodzian trafiło do męża działaczki KO i jej sąsiadów — EPPO bada sprawę",
+      "summary": "Karkonoska Agencja Rozwoju Regionalnego, której wiceprezesem była polityczka KO Anna Konieczyńska, przyznała 4,5 mln zł pomocy powodziowej firmom w Dziwiszowie — wiosce, której powódź nie dotknęła. Pieniądze trafiły do firmy jej męża, sąsiada i właściciela lokalnej telewizji. Europejska Prokuratura wszczęła śledztwo, Konieczyńska zawieszona w KO.",
+      "angle": "Rząd, który obiecał transparentność i koniec układów, funduje nam klasyczną aferę: żona wiceprezesuje agencją, mąż dostaje kasę. A jak zapytać o ministra — ten mówi, że to nie jego resort.",
+      "category": "polityka",
+      "url": "https://www.gazetaprawna.pl/wiadomosci/swiat/artykuly/11295769,pomoc-powodziowa-karr-45-mln-eppo.html",
+      "source": "Gazeta Prawna"
     }
   ]
 }
