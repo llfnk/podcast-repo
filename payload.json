@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-14",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Sikorski apeluje z Kijowa: Nawrocki blokuje 46 nominacji ambasadorskich",
+      "summary": "Szef MSZ Radosław Sikorski odwiedził Kijów w sprawie negocjacji pokojowych, ale z ukraińskiej stolicy musiał publicznie apelować do polskiego prezydenta o podpisanie nominacji ambasadorskich. Piotr Łukasiewicz od miesięcy pełni funkcję chargé d'affaires w Ukrainie, bo Nawrocki odmawia podpisu. W kolejce czeka 46 wniosków nominacyjnych od początku kadencji.",
+      "angle": "Prezydent, który konstytucyjnie reprezentuje Polskę na arenie międzynarodowej, blokuje polską dyplomację — szef MSZ musi błagać własnego prezydenta z Kijowa, żeby ten podpisał nominację do Kijowa.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/piotr-lukasiewicz-nadal-nie-jest-ambasadorem-w-ukrainie-sikorski-znow-zaapelowal-do-prezydenta-st9235378",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Tusk obiecał paliwo po 5,19 zł — jest po 8,39 zł, a winny jest prezydent",
+      "summary": "Od 1 września 2026 rząd przywrócił pełną stawkę VAT 23% na paliwa i zakończył program CPN 2.0 — diesel wystrzelił z 5,90 do 8,39 zł za litr rok do roku. Minister Domański oświadczył, że winny jest prezydent Nawrocki, który skierował do TK podatek od nadzwyczajnych zysków koncernów paliwowych. Kaczyński przypomina tymczasem wyborczą obietnicę: paliwo po 5,19 zł.",
+      "angle": "Rząd przez lata trzymał ceny paliw sztucznie nisko — teraz te koszty wróciły z nawiązką i zamiast wziąć odpowiedzialność, szuka kozła ofiarnego w Pałacu Prezydenckim.",
+      "category": "polityka",
+      "url": "https://www.gazetaprawna.pl/biznes/energetyka/artykuly/11299886,ceny-paliw-mocno-wzrosly-rzad-nie-wyklucza-powrotu-programu-cpn.html",
+      "source": "Gazeta Prawna"
+    },
+    {
+      "title": "Minister żąda miliarda od Meta za deepfaki — ale treści odpowiedzi Mety nie ujawnia",
+      "summary": "Wicepremier Gawkowski wystąpił do Komisji Europejskiej o grzywnę 250 mln euro dla Meta za setki tysięcy oszukańczych reklam w Polsce, w tym deepfaki z podobizną szefa InPostu Rafała Brzoski. Meta usunęła 137 tys. reklam i odpisała na rządowy list — ale pełna treść odpowiedzi nie została ujawniona opinii publicznej.",
+      "angle": "Rząd robi spektakl z walki z Big Techem na oczach kamer, a kiedy gigant odpowiada, odpowiedź nagle jest poufna — teatr odpowiedzialności bez faktycznej odpowiedzialności.",
+      "category": "media",
+      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-zada-miliarda-zlotych-kary-dla-Mety-za-szkodliwe-tresci-9187805.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Hołownia: konsultujmy ustawy z Nawrockim. Tusk: absolutnie nie.",
+      "summary": "Lider Polska 2050 Szymon Hołownia zaproponował, by rząd konsultował projekty ustaw z prezydentem Nawrockim na etapie ich przygotowania, żeby unikać kolejnych wet. Tusk, Czarzasty i Kosiniak-Kamysz skrytykowa­li ten pomysł — trójka liderów koalicji chce zaostrzać kurs wobec Pałacu, nie łagodzić. Hołownia planował wejść do rządu jako łącznik z prezydentem.",
+      "angle": "Koalicjant proponuje współpracę z człowiekiem, który zablokował już dziesiątki ustaw koalicji — i dostaje za to po łapach od własnych sojuszników. Jedność koalicyjna jako lipna deklaracja.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/polityka/12440487/rekonstrukcja-rzadu-nieaktualna-donald-tusk-zly-na-slowa-szymona-holowni-ws-karola-nawrockiego.html",
+      "source": "Wprost"
     }
   ]
 }
