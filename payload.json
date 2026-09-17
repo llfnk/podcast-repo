@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-17",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Chorosińska szczekała w Sejmie. PiS nie zamierza jej ukarać.",
+      "summary": "Podczas przemówienia szefa MON Władysława Kosiniaka-Kamysza z ław opozycji dobiegały odgłosy szczekania. Posłanka PiS Dominika Chorosińska przyznała się na X i tłumaczyła, że to był 'polityczny komunikat'. Klub PiS ogłosił, że nie widzi podstaw do działań dyscyplinarnych.",
+      "angle": "Partia, która przez 8 lat budowała powagę polskiego państwa, teraz broni posłanki szczekającej na ministra obrony — bo to ich zdaniem polityczna ekspresja, nie powód do wstydu.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://goniec.pl/dominika-chorosinska-szczekala-w-sejmie-jest-decyzja-pis-rzecznik-dyscypliny-wyjasnia-wk-wmp-170926",
+      "source": "Goniec"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Poseł PiS wskoczył przez kolce. Posłanka PiS na głodówce. Koniec — gdy wyłączyli prąd.",
+      "summary": "Poseł Dariusz Matecki przeskoczył przez ogrodzony kolcami płot Akademii Wymiaru Sprawiedliwości w ramach protestu PiS. Posłanka Maria Kurowska ogłosiła głodówkę 'w intencji uratowania ojczyzny'. Protest zakończyła, gdy odcięto elektryczność w budynku — prokuratura wszczęła dwa śledztwa wobec posłów.",
+      "angle": "Wielka akcja oporu, która trwała do momentu wyłączenia prądu i internetu — gotowy materiał o tym, ile warta jest polityczna powaga, gdy kamera przestaje nagrywać.",
+      "category": "polityka",
+      "url": "https://wiesci24.pl/2026/09/17/posel-przez-plot-poslanka-na-glodowce-awantura-w-aws-pokazuje-dokad-zaszla-polityka-pis/",
+      "source": "Wieści24"
+    },
+    {
+      "title": "Były wicepremier wyniósł poufne dokumenty z ministerstwa i wrzucił je na X",
+      "summary": "Poseł Janusz Cieszyński (Rozwój Plus, były wicepremier PiS ds. cyfryzacji) podczas interwencji poselskiej w Ministerstwie Sprawiedliwości skopiował i wyniósł dokumenty ze śledztwa — notatki Służby Więziennej i zeznanie świadka, a następnie opublikował je w mediach społecznościowych. Ministerstwo i Służba Więzienna złożyły zawiadomienie do prokuratury.",
+      "angle": "Człowiek odpowiedzialny niegdyś za bezpieczeństwo cyfrowe państwa, dziś wychodzi z ministerstwa z cudzymi aktami pod pachą i publikuje je online — bo najwyraźniej uważa, że immunitet poselski to licencja na wszystko.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-14/resort-zlozyl-zawiadomienie-ws-cieszynskiego-to-poklosie-interwencji-poselskiej/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Wiceprzewodniczący klubu KO może trafić do aresztu za korupcję przy unijnych tramwajach",
+      "summary": "Prokuratura Europejska (EPPO) złożyła drugi wniosek o uchylenie immunitetu i areszt posła KO Wojciecha Króla — wiceprzewodniczącego parlamentarnego klubu Koalicji Obywatelskiej. Zarzuty dotyczą przyjmowania gotówki, luksusowych zagranicznych wyjazdów i samochodów w zamian za lobbying w przetargu tramwajowym finansowanym z UE (1,9 mld zł). Komisja regulaminowa Sejmu rozpatrywała wniosek 16 września.",
+      "angle": "Partia, która wygrała wybory na haśle 'praworządność i walka z korupcją', teraz procesuje się z Prokuraturą Europejską w obronie własnego wiceprzewodniczącego, który — według śledczych — brał łapówki z funduszy unijnych.",
+      "category": "polityka",
+      "url": "https://goniec.pl/klopoty-znanego-posla-ko-sejmowa-komisja-za-zgoda-na-areszt-w-tle-bardzo-powazne-zarzuty-ki-wpd-160926",
+      "source": "Goniec"
+    },
+    {
+      "title": "Szef MON i wicepremier nie widział raportu CIA, którym Tusk straszy Polaków",
+      "summary": "Władysław Kosiniak-Kamysz przyznał, że nie zapoznał się z raportem dyrektora CIA Johna Ratcliffe'a, na który wielokrotnie powoływał się premier Donald Tusk uzasadniając zagrożenie dla Polski. Szef resortu obrony i wicepremier dowiaduje się o treści kluczowych raportów wywiadowczych za pośrednictwem ministra ds. specjalnych Tomasza Siemoniaka. Opozycja pytała: 'W jakim absurdzie my żyjemy?'",
+      "angle": "Premier mobilizuje całą Polskę raportem CIA — a własny minister obrony o tym raporcie nie wie. Jeśli to jest zarządzanie bezpieczeństwem państwa, to mamy poważniejszy problem niż raport.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-16/szef-mon-nie-widzial-raportu-szefa-cia-szok-na-sejmowych-korytarzach-bantustan/",
+      "source": "Polsat News"
     }
   ]
 }
