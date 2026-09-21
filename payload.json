@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-21",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Cennik spotkań z prezydentem: $100k za twarz w twarz z Nawrockim",
+      "summary": "W przeddzień Zgromadzenia Ogólnego ONZ w Nowym Jorku wyszło na jaw, że Fundacja Centrum Strategii Rozwojowych oferowała firmom pakiety sponsorskie summitu z udziałem Nawrockiego: Silver za $25k, Gold za $50k i Platinum za $100k — który to miał dawać spotkanie jeden na jeden z głową państwa. Organizatorzy twierdzą, że nikt nie kupił najdroższego pakietu; Pałac Prezydencki zapewnia, że nikt nie płacił za wstęp. Biedroń nazwał to 'polityczną korupcją'.",
+      "angle": "Płatny dostęp do głowy państwa jak membership w prywatnym klubie — jeśli prawda leży pośrodku między 'nikt nic nie kupił' a 'cennik istniał', to samo jego istnienie mówi wszystko o tym, jak traktują urząd prezydenta.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/100-tys-dolarow-za-spotkanie-z-nawrockim-palac-oskarza-rzad-7331541709797600a",
+      "source": "wp.pl"
+    },
+    {
+      "title": "Meta zarabia 760 mln zł rocznie na fałszywych reklamach — i bojkotuje polski Sejm",
+      "summary": "Raport think-tanku Instrat pokazuje, że ponad jedna trzecia przychodów Mety w Polsce pochodzi z oszukańczych reklam inwestycyjnych (deepfake, kradzione twarze znanych osób). Polska jest liderem scamu w Europie — odpowiada za 18–20% wszystkich tego typu reklam w systemie giganta. Gdy sejmowa komisja wezwała Meta na przesłuchanie, firma odmówiła stawienia się. Wicepremier Gawkowski złożył do Komisji Europejskiej wniosek o karę 250 mln euro.",
+      "angle": "Korporacja, która zarabia na tym, że Polacy są okradani przez fałszywe reklamy, odwraca się plecami do parlamentu — i wychodzi z założenia, że mandat KE to drobna strata biznesowa. Idealny przykład 'zasady dla was, nie dla nas'.",
+      "category": "korporacja",
+      "url": "https://www.rp.pl/biznes/art45167831-brzoska-chce-zmian-w-prawie-raport-o-scamie-na-biurkach-poslow-i-rzadu",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Raport za 200 tys. zł napisało AI, teraz policja przeszukuje dom pełnomocnik rządu",
+      "summary": "Barbara Mróz-Gorgoń pracowała 26 dni jako pełnomocnik rządu ds. promocji marki Polska. W tym czasie zamówiła strategiczny raport za 200 tys. zł z publicznej kasy — który okazał się pełen błędów i charakterystycznych śladów AI. 17 września policja przeprowadziła przeszukanie w jej domu na Dolnym Śląsku; prokuratura bada podejrzenie wyłudzenia blisko 180 tys. zł dotacji z Ministerstwa Sportu i Turystyki.",
+      "angle": "Rząd, który przez dwa lata krytykował PiS za marnowanie publicznych pieniędzy, zatrudnił kogoś, kto przez miesiąc wydał 200 tys. zł na raport z ChatGPT — to już nie jest błąd jednej osoby, to pytanie o systemy kontroli.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.rp.pl/polityka/art45154011-policja-weszla-do-domu-barbary-mroz-gorgon-prokuratura-potwierdza-przeszukania",
+      "source": "Rzeczpospolita"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "PSL zdjęło z głosowania własny projekt o zakazie reklamy alkoholu. Zarzuty o lobbing",
+      "summary": "18 września, w trakcie 65. posiedzenia Sejmu, PSL zażądało wycofania projektu ustawy antyalkoholowej tuż przed głosowaniem — projektu, który to sama koalicja zgłosiła. Marszałek Czarzasty przychylił się do wniosku, wysyłając projekt z powrotem do komisji. Ustawa zakładała zakaz reklamy alkoholu i nocną prohibicję; popierało ją 61% Polaków. Posłowie lewicy i Polski 2050 mówią wprost: 'ewidentny lobbing branży winiarskiej'.",
+      "angle": "Koalicja głosuje za projektem, koalicja go cofa chwilę przed głosowaniem — bo ktoś zadzwonił. Jeśli 61% Polaków chce zakazu reklamy piwa, a projekt wywodzi się z koalicji rządzącej, to co musi się zdarzyć, żeby prawo nie musiało czekać w nieskończoność?",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-polskie-stronnictwo-alkoholowe-lobbysci-przed-ludzmi-psl-i-c,nIdn,1018252",
+      "source": "RMF24"
     }
   ]
 }
