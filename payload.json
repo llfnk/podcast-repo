@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-23",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Cennik na prezydenta: 100 tys. dolarów za spotkanie w cztery oczy z Nawrockim",
+      "summary": "Prywatna fundacja Centrum Strategii Rozwojowych oferowała płatne pakiety sponsorskie dające dostęp do prezydenta Karola Nawrockiego na Polish-American Economic Summit w Nowym Jorku. Pakiet Platinum za 100 tys. dolarów gwarantował rozmowę w cztery oczy, Gold za 50 tys. — spotkanie w małym gronie, Silver za 25 tys. — kontakt wśród ośmiu firm. Pośrednikiem był minister z Kancelarii Prezydenta Karol Rabenda, przyjaciel Nawrockiego ze studiów. Posłowie KO złożyli 22 września zawiadomienie do prokuratury.",
+      "angle": "Demokracja znaczy równy dostęp do władzy — chyba że nie masz 100 tys. dolarów; wtedy jest cennik jak w spa.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-22/poslowie-ko-zawiadomia-prokurature-ktos-oferuje-karola-nawrockiego-na-godziny/",
+      "source": "PolsatNews.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Rzecznik Praw Dziecka odebrała dzieci rodzinie. Sąd: działanie nosi znamiona przemocy instytucjonalnej",
+      "summary": "Rzecznik Praw Dziecka Monika Horna-Cieślak widziała na warszawskiej ulicy jak matka szarpnęła dziecko i uruchomiła machinę urzędniczą, która doprowadziła do odebrania dzieci rodzinie. Sąd nakazał natychmiastowy zwrot dzieci rodzicom i uznał działania za rażąco nieproporcjonalne, noszące znamiona przemocy instytucjonalnej. Jako jeden z powodów odebrania wskazano znalezienie w mieszkaniu dwóch butelek piwa. Opozycja złożyła wniosek o odwołanie Hornej-Cieślak.",
+      "angle": "Urzędnik powołany do ochrony praw dzieci odebrał je rodzicom za dwie butelki piwa — i sąd musiał to naprawić, nazywając to przemocą instytucjonalną.",
+      "category": "urzędy",
+      "url": "https://tvn24.pl/polska/dzieci-odebrane-po-interwencji-rzeczniczki-praw-dziecka-opozycja-chce-odwolania-moniki-hornej-cieslak-st9250897",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tusk atakował PiS spotkaniem z Zondacrypto w MF. Tego spotkania nie ma w dokumentach ministerstwa",
+      "summary": "Premier Donald Tusk, atakując opozycję w Sejmie w sprawie afery Zondacrypto, powołał się na spotkanie przedstawicieli giełdy kryptowalut z urzędnikami Ministerstwa Finansów z 28 kwietnia 2018 r. TVN24 sprawdził dokumenty ministerstwa — tego konkretnego spotkania nie ma w żadnych zapisach. Co więcej, okazało się, że rząd Tuska również spotykał się ze Zondacrypto co najmniej kilka razy.",
+      "angle": "Tusk wymyślił spotkanie, żeby zaatakować PiS — i przy okazji wyszło, że jego własny rząd też rozmawiał z giełdą, która miała rosyjskie powiązania.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/afera-zondacrypto-tusk-mowil-o-spotkaniu-w-ministerstwie-finansow-nie-bylo-takiego-ale-byly-inne-st9250489",
+      "source": "TVN24"
+    },
+    {
+      "title": "PSL zablokowało zakaz reklamy piwa po roku prac komisyjnych. W koalicji wrze",
+      "summary": "Marszałek Sejmu Włodzimierz Czarzasty (Lewica) zdjął z głosowania gotowy projekt ustawy zakazującej reklamy alkoholu i wprowadzającej nocną prohibicję — na żądanie koalicjanta PSL, mimo że to inicjatywa Lewicy i Polski 2050. Projekt był gotowy po ponad roku prac komisyjnych i miał szerokie poparcie nawet bez głosów PSL. Wśród ministrów padło określenie: lobbyści przed ludźmi, a PSL ochrzczono Polskim Stronnictwem Alkoholowym.",
+      "angle": "Koalicja antyalkoholowa blokuje własną ustawę antyalkoholową, bo lobby piwne poprosiło — a wstydliwe kółko zamyka szef partii, która ten projekt złożyła.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-projekt-antyalkoholowy-wroci-do-sejmu-w-koalicji-wrze-po-ruc,nIdn,1018587",
+      "source": "RMF24"
     }
   ]
 }
