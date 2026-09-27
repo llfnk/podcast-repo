@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-27",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Kraków wybiera nowego prezydenta — bo KO-wiec rządził jakby był ponad miastem",
+      "summary": "Dziś w Krakowie odbywają się przedterminowe wybory prezydenta miasta. Mieszkańcy odwołali w referendum (24 maja 2026) Aleksandra Miszalskiego z KO — 97,8% głosowało za jego usunięciem przy frekwencji powyżej wymaganego progu. Zarzuty: zadłużanie miasta, nepotyzm, rozbuchana biurokracja i wprowadzenie Strefy Czystego Transportu wbrew woli mieszkańców.",
+      "angle": "Koalicja walcząca o demokrację w Warszawie miała własnego lokalnego prezydenta, którego prawie wszyscy chcieli wywalić — i żaden kolega z partii w stolicy nie zareagował, dopóki nie przyszło referendum.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://pl.euronews.com/2026/09/27/krakow-wybiera-prezydenta-to-efekt-referendum-ktore-odwolalo-poprzedniego-wlodarza-miasta",
+      "source": "Euronews Polska"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Nawrocki blokuje obniżkę cen paliw z USA, Tusk nagrywa filmik pod Belwederem",
+      "summary": "Rząd uchwalił ustawę nakładającą podatek na nadmiarowe zyski koncernów paliwowych — środki miały obniżyć ceny na stacjach. Nawrocki zamiast podpisać, odesłał ją do Trybunału Konstytucyjnego. Tusk nagrał filmik pod Belwederem: Prezydencie, podpisuj. Nawrocki odpowiedział z USA, że kierowcy są wzięci zakładnikami.",
+      "angle": "Żeby zablokować obniżkę cen paliw, Nawrocki sięga po Trybunał Konstytucyjny — ten sam, który rząd Tuska od lat uważa za nielegalny i odmawia publikowania jego wyroków. Każdy korzysta z TK gdy mu wygodnie.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/tusk-uderza-w-nawrockiego-ws-cen-paliw-prezydencie-podpisuj-7329722970650720a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Braun zakłócił wykład o Holokauście — i właśnie zakłócił własny proces za to zakłócenie",
+      "summary": "Grzegorz Braun stanął przed sądem za przerwanie wykładu o Holokauście w 2023 roku. Podczas przesłuchania świadka — prof. Jana Grabowskiego — był tak obraźliwy, że sędzia wykluczył go z sali na 30 minut po wielokrotnych ostrzeżeniach. Po przerwie Braun wrócił.",
+      "angle": "Człowiek, którego znakiem rozpoznawczym jest robienie scen w Sejmie i na publicznych wydarzeniach, właśnie zrobił scenę we własnym procesie sądowym i sam siebie z niego wyrzucił. Perpetuum mobile absurdu.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-09-25/braun-musial-opuscic-sale-podczas-wlasnego-procesu-sedzia-wczesniej-go-ostrzegal/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "CBA zatrzymało dyrektorkę z kancelarii Nawrockiego za kampanię atakującą sędziów",
+      "summary": "CBA zatrzymało Annę Plakwicz — dyrektorkę Biura Protokołu Kancelarii Prezydenta Nawrockiego — i komentatora TV Republika Piotra Matczuka. Zarzut: kampania Uczciwe Sądy z 2017 roku, na którą Polska Fundacja Narodowa wydała 8,4 mln zł publicznych pieniędzy, atakując niezależność sędziów. Marszałek Sejmu Czarzasty zapowiedział, że to dopiero początek.",
+      "angle": "Nawrocki zawetował dziesiątki ustaw powołując się na obronę praworządności i niezawisłości sądów — a w jego kancelarii pracowali ludzie, którzy publicznymi pieniędzmi finansowali kampanię przeciw tej samej niezawisłości.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polska/news-dyrektor-z-kancelarii-prezydenta-nawrockiego-wsrod-zatrzyman,nIdn,1018812",
+      "source": "RMF24"
     }
   ]
 }
