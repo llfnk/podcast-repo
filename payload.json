@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-09-29",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Pelet drożeje 52%, minister: widziałam za 1,5k; wiceminister: za bardzo grzejecie",
+      "summary": "Przed zimą 2026 ceny pelletu wzrosły o ponad 50% do 2000–4000 zł za tonę. Minister klimatu Paulina Hennig-Kloska zapewniła publicznie, że 'widziałam pellet za 1500 zł', gdy rynek pokazuje inną cenę. Dni później nowy wiceminister klimatu Sławomir Ćwik (w fotelu od 14 września) wyjaśnił: Polacy po prostu 'spalają' pieniądze na 'komfort cieplny' i nie powinni narzekać, skoro sami tak wybrali.",
+      "angle": "Rząd obiecujący tanią energię i zieloną transformację odpowiada na drożejące ogrzewanie jednym przekazem do obywateli: grzejcie się mniej. Klasyczna zasada — problem leży zawsze po stronie obywateli, nigdy po stronie rządzących.",
+      "category": "polityka",
+      "url": "https://blaskonline.pl/minister-juz-wie-pelet-jest-drogi-bo-za-bardzo-grzejecie-w-domach/",
+      "source": "BLASKonline"
+    },
+    {
+      "title": "Gibała wygrał I turę jako kandydat spoza systemu — i od razu wyszły dziury w oświadczeniu majątkowym",
+      "summary": "Łukasz Gibała, niezależny kandydat który zdobył 36% w I turze wyborów na prezydenta Krakowa (27 września), przez pięć lat wpisywał w oświadczeniach majątkowych 1–2 mieszkania zamiast faktycznych 3. W rzeczywistości posiada trzy lokale z oddzielnymi księgami wieczystymi (łącznie 225 m², wartość ok. 3,8 mln zł); tłumaczy, że fizycznie je połączył, więc liczy jako jedno.",
+      "angle": "Kandydat niosący się na fali zmęczenia establishmentem dostaje w dniu triumfu pytanie, które słyszało już wielu starych wyjadaczy: ile tak naprawdę masz mieszkań i dlaczego liczba zmienia się rok do roku?",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art45173991-znikajace-mieszkania-lukasza-gibaly-kontrowersje-wokol-majatku-faworyta-na-prezydenta-krakowa",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Poseł PiS pisał poprawki do ustawy o krypto przez byłego agenta CBA z nickiem Stan Skalski — ze szefem Zondacrypto",
+      "summary": "Onet ujawnił, że poseł Michał Moskal (PiS) przed złożeniem poprawek do ustawy o kryptoaktywach przekazał je szefowi Zondacrypto Przemysławowi Kralowi przez byłego funkcjonariusza CBA używającego pseudonimu Stan Skalski. Moskal zawiesił członkostwo w PiS 25 września. Kaczyński skomentował: 'nie okłamywał mnie'.",
+      "angle": "Partia prawa i porządku przez 8 lat — a poseł pisze legislację przez byłego agenta z fałszywym nickiem dla giełdy powiązanej z rosyjską mafią. I prezes uznaje to za nieokłamujące. Sprawa zatacza coraz szersze kręgi.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/biznes/pieniadze/onet-poprawki-pis-do-ustawy-o-kryptoaktywach-mialy-trafic-do-szefa-zondacrypto-przez-michala-moskala-st9254556",
+      "source": "TVN24 (za Onetem)"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Nawrocki pozywa Onet za przedwyborcze artykuły — sąd zamknął drzwi, kluczowy świadek nie zeznawał",
+      "summary": "29 września odbyła się kolejna rozprawa w procesie prezydenta Nawrockiego przeciwko Onetowi o artykuły o Grand Hotelu Sopot opublikowane przed wyborami prezydenckimi 2025. Sąd nie dopuścił zeznań kluczowego świadka zwanego Śledziem, a postępowanie toczy się za zamkniętymi drzwiami — wszystko to w tle afery z fundacją sprzedającą dostęp do prezydenta za 25–100 tys. USD podczas szczytu w Nowym Jorku.",
+      "angle": "Urzędujący prezydent ściga dziennikarzy za relacje sprzed wyborów, w których wygrał. Jednocześnie jego otoczenie wyjaśnia, jak to fundacja sprzedawała czasowy dostęp do głowy państwa biznesmanom. Wolność prasy z cennikiem.",
+      "category": "media",
+      "url": "https://wiadomosci.wp.pl/proces-nawrocki-vs-onet-w-sadzie-stawil-sie-sledziu-7334681745078528a",
+      "source": "Wirtualna Polska"
     }
   ]
 }
