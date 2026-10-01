@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Politycy KO omijali kolejki do lekarza — NFZ potwierdza, kary dla przychodni, zero dla polityków",
+      "summary": "NFZ przeprowadził kontrolę przychodni w Piasecznie i potwierdził: lokalni radni i działacze Koalicji Obywatelskiej byli przyjmowani poza kolejką. Na 222 świadczenia aż 59 miało nieprawidłowości — jeden polityk ominął 44 innych pacjentów. Przychodnia zapłaciła 24 620 zł kary, politycy nie ponieśli żadnych konsekwencji.",
+      "angle": "Koalicja, która wygrała na haśle równości i praworządności, funduje sobie VIP-ścieżkę do lekarza na koszt zwykłych pacjentów — i wychodzi z tego bez szwanku.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-01/pacjenci-vip-w-szpitalu-w-piasecznie-politycy-ko-przyjmowani-poza-kolejka/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Rząd nakazał e-Doręczenia od 1 października — system padł dzień wcześniej",
+      "summary": "Od 1 października 2026 wszyscy jednoosobowi przedsiębiorcy wpisani do CEIDG musieli mieć aktywny adres do e-Doręczeń — obowiązek z wieloletnim vacatio legis. Tyle że 30 września portal Biznes.gov.pl przestał działać: nie można było się zalogować, aktywować adresu ani złożyć wniosku. Ministerstwo uspokajało, że za brak rejestracji w terminie kar nie będzie.",
+      "angle": "Państwo przez lata budowało ten system, dało przedsiębiorcom twardy deadline — a w ostatniej chwili samo wysadziło infrastrukturę i wzruszyło ramionami.",
+      "category": "urzędy",
+      "url": "https://www.gazetaprawna.pl/biznes/finanse-i-gospodarka/artykuly/11322159,e-doreczenia-padly-tuz-przed-terminem-przedsiebiorcy-pytaja-o-kary.html",
+      "source": "Gazeta Prawna"
+    },
+    {
+      "title": "Rząd zabrał tarczę paliwową, ceny skoczyły 36% rdr — teraz Tusk rozważa jej przywrócenie",
+      "summary": "GUS podał, że inflacja we wrześniu 2026 wyniosła 4% rdr — najwyżej od 15 miesięcy. Głównym winowajcą są paliwa: wzrost 36,1% rok do roku i 9,2% miesiąc do miesiąca. Stało się tak po tym, jak rząd Tuska od 1 września przywrócił pełną 23-procentową stawkę VAT na paliwa, wygaszając program obniżek CPN — a teraz premier sygnalizuje, że program może wrócić.",
+      "angle": "Rząd sam podpalił lont pod cenami paliw, teraz gasi pożar — i liczy, że wyborcy nie połączą tych dwóch faktów w jedną chronologię.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/dane-gospodarcze/art45213841-duzy-wzrost-inflacji-w-polsce-sa-nowe-dane-gus-tak-zle-nie-bylo-od-dawna",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Romanowski rok ukrywa się na Węgrzech — sąd daje mu list żelazny, prokuratura się buntuje",
+      "summary": "Były wiceminister sprawiedliwości Marcin Romanowski, oskarżony o malwersacje z Funduszu Sprawiedliwości, od grudnia 2024 przebywa na Węgrzech pod parasolem azylu politycznego Orbána. 30 września sąd okręgowy wydał mu list żelazny — gwarancję, że może wrócić i odpowiadać z wolnej stopy. Prokuratura natychmiast zapowiedziała zażalenie; komentatorzy mówią o 'kapitulacji polskiego państwa'.",
+      "angle": "Człowiek, który współtworzył 'sprawiedliwość' w wydaniu PiS, od roku skutecznie wymyka się tej sprawiedliwości — a system, który miał go złapać, właśnie wymachuje białą flagą.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://www.gazetaprawna.pl/prawnik/prawo-karne/artykuly/11322710,romanowski-dostal-list-zelazny-prokuratura-zaskarzy-decyzje-sadu.html",
+      "source": "Gazeta Prawna"
     }
   ]
 }
