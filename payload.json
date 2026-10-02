@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-02",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki przez tydzień krzyczał, że ustawa paliwowa to niekonstytucyjne zakładnictwo — potem podpisał ją w orędziu",
+      "summary": "Prezydent Karol Nawrocki przez tygodnie nazywał rządową ustawę o podatku od zysków koncernów paliwowych 'ewidentnie niekonstytucyjną' i mówił, że Tusk trzyma kierowców jako 'zakładników'. 1 października wygłosił orędzie do narodu i złożył pod ustawą podpis — jednocześnie zapowiadając jej zaskarżenie do Trybunału Konstytucyjnego. Duda odpowiedział: Procedury zadziałały.",
+      "angle": "Podpisujesz ustawę, którą sam ogłosiłeś niekonstytucyjną, a zaraz potem ją zaskarżasz do TK — to nie jest rządzenie, to performance art z orłem w tle.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/karol-nawrocki-podpisal-ustawe-w-sprawie-paliw-tak-mowil-o-niej-kilka-dni-wczesniej-st9265758",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
+      "title": "Afera Szpitala Południowego: politycy KO leczeni bez kolejki, dymisje wiceprezydentek Warszawy",
+      "summary": "Dwóch wiceprezydentek Warszawy — Renata Kaznowska i Aldona Machnowska-Góra — podało się do dymisji po ujawnieniu afery w miejskim Szpitalu Południowym. Politycy Koalicji Obywatelskiej mieli być przyjmowani poza kolejką. W tle: koordynator SOR zarobił 1,6 mln zł w jednym roku, prokuratura bada 20 sfałszowanych aktów zgonu i wypłaty za niezrealizowane dyżury.",
+      "angle": "Koalicja wygrała wybory hasłem naprawy służby zdrowia — i na dobry początek urządziła prywatną kolejkę dla swoich polityków w publicznym szpitalu.",
+      "category": "polityka",
+      "url": "https://www.polityka.pl/tygodnikpolityka/kraj/2349111,1,afera-w-szpitalu-poludniowym-wiceprezydentki-warszawy-podaly-sie-do-dymisji-tusk-zmiany-albo-dymisje.read",
+      "source": "Polityka.pl"
+    },
+    {
+      "title": "Działacz Brauna z Konfederacji zatrzymany: pomagał Rosjanom i Białorusinom wyrabiać pobyt przez fałszywe dyplomy",
+      "summary": "CBA i Straż Graniczna zatrzymały 11 osób w kolejnej fali afery Collegium Humanum. Wśród zatrzymanych jest Mateusz Piskorski — prorosyjski polityk ze Szczecina i bliski współpracownik Grzegorza Brauna z Konfederacji Korony Polskiej. Schemat: fikcyjne zaświadczenia akademickie w zamian za gotówkę, dzięki którym co najmniej 200 obywateli Rosji i Białorusi miało uzyskać pobyt w Polsce. Łączna kwota procederu: ponad 22,5 mln zł.",
+      "angle": "Człowiek z kręgów Brauna — który straszy rosyjską agenturą i sypał ekstynktorem na Chanukę — pomagał Rosjanom i Białorusinom dostać pobyt w Polsce za gotówkę.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12459210/afera-collegium-humanum-bliski-wspolpracownik-grzegorza-brauna-wsrod-zatrzymanych-prokuratura-potwierdzila.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Sekretarz generalny PZPN nagrywał potajemnie pijanego prezesa po kolacji z szefem FIFA — i nadal pracuje",
+      "summary": "Sekretarz generalny PZPN Łukasz Wachowski nagrał telefonem pijanego prezesa Cezarego Kuleszę po uroczystej kolacji z szefem FIFA Giannim Infantino w Katowicach. Nagranie wyszło na jaw, Wachowski przyznał się do 'chwili słabości'. Decyzja prezesa Kuleszy: Wachowski zostaje na stanowisku.",
+      "angle": "W każdej normalnej firmie to byłoby natychmiastowe zwolnienie dyscyplinarne. W PZPN — chwila słabości, idziemy dalej. Oto polska piłka nożna jako instytucja.",
       "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://sport.rp.pl/pilka-nozna/art45180241-kolejna-afera-w-pzpn-sekretarz-mial-nagrywac-prezesa-kulesze-po-zakrapianej-imprezie",
+      "source": "Rzeczpospolita"
     }
   ]
 }
