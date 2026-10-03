@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-03",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Radni KO omijali kolejkę do lekarza. NFZ potwierdził i ukarał przychodnię",
+      "summary": "Wirtualna Polska ujawniła, że radni Koalicji Obywatelskiej z Piaseczna byli przyjmowani w przychodni poza kolejką. NFZ po kontroli potwierdził zarzuty: 59 przypadków na 222 wizyty, jeden polityk pominął 44 pacjentów. Przychodnia dostała karę 24 620 zł — i ją zapłaciła.",
+      "angle": "Ci sami politycy, którzy walczą o równy dostęp do służby zdrowia, stworzyli dla siebie prywatną ścieżkę w publicznej przychodni. Zasady dla was, nie dla nas w wersji ambulatoryjnej.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://wiadomosci.wp.pl/nfz-potwierdza-ustalenia-wp-radni-wchodzili-do-przychodni-poza-kolejka-7335026122941505v",
+      "source": "Wirtualna Polska"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Trzy konie dla prezydenta, żony i córki. Kancelaria nie powie, ile kosztują",
+      "summary": "W prezydenckiej rezydencji w Promniku od wiosny 2026 stoją trzy konie: Edzio, Ramzes i Aramis. Kancelaria potwierdziła ich istnienie, ale odmawia podania kosztów utrzymania. Analiza jawnych zakupów wskazuje minimum 44 tys. zł od lipca. Jeden koń pojechał za prezydentem nawet do Juraty.",
+      "angle": "Prezydent-człowiek-z-ludu trzyma stajnię za publiczne pieniądze i odmawia transparentności. Sikorski skomentował: 'Ramzes dobrze oddaje faraońskie ambicje.'",
+      "category": "polityka",
+      "url": "https://www.money.pl/polityka/edzio-ramzes-i-aramis-karol-nawrocki-ma-w-rezydencji-konie-7335315057666368a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Nawrocki podpisał nowy podatek. Doradca: zawsze jest kontekst",
+      "summary": "W kampanii prezydenckiej Nawrocki podpisał Deklarację Toruńską Mentzena — pisemne zobowiązanie do niepodnoszenia podatków. 1 października 2026 podpisał ustawę o podatku od nadzwyczajnych zysków koncernów paliwowych. Mentzen ocenił: złamał pisemną obietnicę złożoną Polakom.",
+      "angle": "Obietnica na papierze, podpis pod ustawą i wyjaśnienie, że zawsze jest kontekst — klasyczny przykład, że polityczne deklaracje mają datę ważności do pierwszej wygodnej okazji.",
+      "category": "polityka",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-01/karol-nawrocki-zlamal-deklaracje-torunska-doradca-prezydenta-zawsze-jest-kontekst/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "PiS ogłosiło twarz programu gospodarczego. Ma dwa zarzuty prokuratorskie",
+      "summary": "Na kongresie PiS 3 października w Warszawie Daniel Obajtek — były prezes Orlenu z zarzutami za fałszywe zeznania i wyrządzenie spółce szkody 393 tys. zł — ogłoszony został główną twarzą programu ekonomicznego partii. Czarnek wcześniej komentował zarzuty słowami: ratuje polskość.",
+      "angle": "Partia, która przez 8 lat rządziła pod hasłem walki z korupcją, mianuje człowieka z aktywnymi zarzutami prokuratorskimi architektem swojego programu odbudowy Polski.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/polityka/12456933/kongres-pis-w-warszawie-daniel-obajtek-twarza-planu-gospodarczego-w-programie-wyborczym.html",
+      "source": "Wprost"
     }
   ]
 }
