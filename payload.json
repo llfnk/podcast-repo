@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-04",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki: ustawa paliwowa niekonstytucyjna — 9 dni później ją podpisał",
+      "summary": "22 września prezydent Nawrocki publicznie twierdził, że rządowa ustawa o podatku od nadzwyczajnych zysków koncernów paliwowych jest niekonstytucyjna i że rząd go szantażuje. 1 października wygłosił uroczyste orędzie i ustawę podpisał. Od 3 października zaczęły obowiązywać maksymalne ceny paliw — jednocześnie zapowiedział skierowanie jej do Trybunału Konstytucyjnego w trybie następczym.",
+      "angle": "Prezydent przez tydzień krzyczał 'niekonstytucyjne!', a potem podpisał pod presją — i jeszcze próbuje to sprzedać jako własne zwycięstwo przez telewizyjne orędzie.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/karol-nawrocki-podpisal-ustawe-w-sprawie-paliw-tak-mowil-o-niej-kilka-dni-wczesniej-st9265758",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
+      "title": "Wipler bronił ZondaCrypto w Sejmie — tydzień po Monako i 160 tys. euro dla fundacji",
+      "summary": "W lipcu 2025 poseł Konfederacji Przemysław Wipler odwiedził prezesa ZondaCrypto w Monako. Kilka dni później stanął w Sejmie i bronił giełdy. Jego fundacja Dobry Rząd dostała 70 tys. euro od szefa Zondy. Prokuratura bada teraz powiązania — 1 października Prokurator Generalny Waldemar Żurek powołał specjalny zespół śledczych i ogłosił 'istotny przełom'.",
+      "angle": "Polityk partii 'wolnościowców' broniący rosyjskiej kryptogiełdy z trybuny sejmowej kilka dni po otrzymaniu pieniędzy — podręcznikowe zasady dla was, korzyści dla mnie.",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/prokuratura-bada-powiazania-zondacrypto-z-fundacjami-ziobry-i-wiplera-istotny-przelom-7322244615215552a.html",
+      "source": "money.pl"
+    },
+    {
+      "title": "Collegium Humanum: pro-rosyjski szpieg z zarzutami, 11 zatrzymanych, 881 aktów oskarżenia",
+      "summary": "1 października CBA i Straż Graniczna zatrzymały 11 osób w nowej odsłonie afery Collegium Humanum — w tym Mateusz Piskorski, były szef pro-rosyjskiej partii Zmiana i prawomocnie skazany szpieg Rosji, współpracownik Grzegorza Brauna. Łącznie w śledztwie postawiono już 881 zarzutów 97 osobom. Schemat: fikcyjne dyplomy dla cudzoziemców — głównie obywateli Rosji, Białorusi i Ukrainy — za co wzięto ponad 22,5 mln zł.",
+      "angle": "Polska uczelnia jako przykrywka dla prorosyjskiej siatki fałszywych dyplomów, działająca latami pod nosem służb — a politycy robili sobie z rektorami zdjęcia.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12459210/afera-collegium-humanum-bliski-wspolpracownik-grzegorza-brauna-wsrod-zatrzymanych-prokuratura-potwierdzila.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Prezes PZPN podmienił dziecko przy Lewandowskim — i tłumaczy się 'dobrymi intencjami'",
+      "summary": "Przed meczem Polska–Bośnia Cezary Kulesza usunął z tunelu dziecko już stojące przy Robercie Lewandowskim i w jego miejsce podstawił innego chłopca — syna znajomej, która rok wcześniej zmarła. Sprawa wyszła na jaw, Kulesza publicznie przeprosił. Pominięte dziecko ma wyjść z kapitanem dopiero w kolejnym meczu w listopadzie. PZPN oficjalnie ogłosił, że 'podjął zdecydowane działanie'.",
+      "angle": "Prezes polskiego futbolu dosłownie kradnie miejsce dziecku przy Lewandowskim dla spełnienia własnego sentymentu — i jest zdziwiony, że to kogoś uraziło.",
       "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://sport.rp.pl/pilka-nozna/art45197791-kulesza-przeprasza-za-zmiane-dziecka-w-eskorcie-lewandowskiego-wskazal-powod",
+      "source": "Rzeczpospolita"
     }
   ]
 }
