@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-05",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Wizyta w Monako, mównicy sejmowa, 160 tys. euro — i nikt nic nie wiedział",
+      "summary": "Poseł Konfederacji Przemysław Wipler odwiedził prezesa Zondacrypto Krala w Monako w lipcu 2025. Pięć dni później stanął z mównicy sejmowej i bronił giełdy kryptowalut. Spółki Krala przelały łącznie 160 tys. euro na fundację Wiplera i firmę jego wspólnika. Prokuratura bada sprawę; Wipler twierdzi, że pieniędzy nie przyjął, bo wpływały do fundacji, nie do niego osobiście.",
+      "angle": "Lobbysta za 160 tys. euro tłumaczy, że to nie lobbysta — bo pieniądze wzięła fundacja, a nie on. Klasyczna semantyczna ucieczka od odpowiedzialności.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.money.pl/finanse/wipler-odwiedzil-prezesa-zondy-w-monako-tydzien-pozniej-bronil-gieldy-w-sejmie-7298563830343712a.html",
+      "source": "money.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Kupiłeś wakacje w Wakacje.pl? Hakerzy wzięli twoje dane paszportowe",
+      "summary": "29 września 2026 hakerzy uzyskali nieautoryzowany dostęp do systemów serwisu turystycznego Wakacje.pl. W wycieku znalazły się imiona i nazwiska, adresy e-mail, numery telefonów, daty urodzenia oraz dane paszportowe klientów. Firma zgłosiła incydent do UODO i CSIRT NASK, a poszkodowanym zaleciła zastrzeżenie numeru PESEL.",
+      "angle": "Firma, której model biznesowy wymaga podania danych paszportowych, straciła je w ataku i radzi klientom, żeby sami się chronili — zastrzeżcie PESEL, to wasza sprawa.",
+      "category": "korporacja",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-10-03/wyciek-danych-z-popularnego-serwisu-turystycznego-dane-klientow-zagrozone/",
+      "source": "polsatnews.pl"
+    },
+    {
+      "title": "PKP Cargo bez zarządu. Sąd powiedział nie, zarząd powiedział pa",
+      "summary": "1 października 2026 Sąd Rejonowy dla m.st. Warszawy cofnął zarządowi PKP Cargo zezwolenie na zarząd własny w restrukturyzacji. Prezes Zbigniew Prus i dwaj członkowie zarządu złożyli rezygnacje tego samego dnia. Bieżące zarządzanie przejął zarządca masy sanacyjnej, a p.o. prezesem do końca roku jest osoba delegowana z rady nadzorczej.",
+      "angle": "Największy przewoźnik towarowy w Polsce tkwi w restrukturyzacji od lat — i zarząd odpłynął po jednej decyzji sądu. Tak wygląda zarządzanie strategiczną spółką Skarbu Państwa.",
+      "category": "korporacja",
+      "url": "https://www.money.pl/polityka/zarzad-pkp-cargo-stracil-wladze-nad-spolka-efekt-decyzji-sadu-7335390749006144a.html",
+      "source": "money.pl"
+    },
+    {
+      "title": "Prezydent RP na sali sądowej. Śledziu przyszedł, ale sąd go nie chciał",
+      "summary": "Karol Nawrocki pozwał wydawcę Onetu w związku z artykułem o jego pracy jako ochroniarz w sopockim Grand Hotelu w latach 90. W październiku odbywa się kolejna rozprawa. Kluczowy świadek znany jako Śledziu stawił się w sądzie, lecz sąd nie dopuścił jego zeznań. Kolejna rozprawa 27 października.",
+      "angle": "Urzędujący prezydent RP procesuje się z dziennikami o artykuł opisujący jego przeszłość sprzed ćwierć wieku — użycie sądów do zamknięcia ust mediom ze stanowiska głowy państwa.",
+      "category": "media",
+      "url": "https://wiadomosci.wp.pl/proces-nawrocki-vs-onet-w-sadzie-stawil-sie-sledziu-7334681745078528a",
+      "source": "wp.pl"
+    },
+    {
+      "title": "Meta zarabia 760 mln zł rocznie z oszustw w Polsce. Polska buduje sojusz w UE",
+      "summary": "Raport Instytutu Instrat ujawnił, że ponad jedna trzecia przychodów Mety w Polsce pochodzi z oszukańczych reklam — szacunkowo 760 mln zł rocznie. Polska złożyła do Komisji Europejskiej wniosek o 250 mln euro kary i buduje koalicję: Dania, Finlandia i inne kraje przekazują Brukseli dowody. Z 122 zgłoszonych scamów Meta usunęła jedynie 10.",
+      "angle": "Firma zarabia setki milionów na reklamach okradających internautów, usuwa 10 na 122 zgłoszone i uważa to za wystarczający wysiłek. Zasady dla was, zyski dla nas.",
+      "category": "korporacja",
+      "url": "https://tvn24.pl/biznes/tech/polska-chce-ukarania-mety-kolejne-panstwa-przekazuja-informacje-ke-st9242198",
+      "source": "tvn24.pl"
     }
   ]
 }
