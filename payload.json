@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-10",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Obrońca rolników zawieszony po taśmach z kokainą i przemocą",
+      "summary": "Kanał Zero opublikował 9 października reportaż z relacjami dwóch byłych współpracownic posła KO Michała Kołodziejczaka. Zarzucają mu wybuchy złości, przemoc fizyczną, nakłanianie do zażywania kokainy oraz nagrywanie seksu bez zgody kobiety. KO zawiesiło go w prawach członka klubu ze skutkiem natychmiastowym.",
+      "angle": "Kołodziejczak przez lata budował wizerunek obrońcy uciśnionych rolników — teraz okazuje się, że wobec kobiet z własnego otoczenia zachowywał się jak tyran.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://zero.pl/news/michal-kolodziejczak-zawieszony-przez-ko-decyzja-klubu-po-reportazu-kanalu-zero",
+      "source": "Kanał Zero"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "PiS po skandalu KO: testy narkotykowe dla całego rządu. Czarnek żąda 'na wczoraj'",
+      "summary": "Poseł PiS Przemysław Czarnek zażądał natychmiastowych testów narkotykowych dla wszystkich członków Rady Ministrów i opublikowania wyników, powołując się na sprawę Kołodziejczaka. Wezwał też Tuska do wyciągnięcia konsekwencji wobec swojego ministra.",
+      "angle": "Partia, która przez 8 lat rządów zebrała własną kolekcję skandali, nagle odkrywa potrzebę kontroli narkotykowej dla rywali — klasyczny przykład politycznego cynizmu bez żadnego refleksu.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12467196/przemyslaw-czarnek-o-sprawie-michala-kolodziejczaka-testy-dla-calego-rzadu.html",
+      "source": "Wprost"
+    },
+    {
+      "title": "Sejm uchwalił blokowanie internetu dzień po atakach w szkołach",
+      "summary": "8 października Sejm uchwalił ustawę pozwalającą UKE błyskawicznie blokować 'nielegalne treści' w sieci. Rząd wrócił do projektu bezpośrednio po serii ataków na szkoły. Krzysztof Bosak z Konfederacji nazwał działania rządu 'odrażającym żerowaniem na tragedii', a krytycy wskazują, że ustawa daje urzędnikom szeroką swobodę w definiowaniu, co jest nielegalne.",
+      "angle": "Każda tragedia to dla władzy okazja do poszerzenia kontroli — rząd, który obiecywał wolność internetu, przegłosował prawo do blokowania treści w 24h od ataków, nim kurz opadł.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/biznes/z-kraju/blokowanie-nielegalnych-tresci-w-internecie-sejm-uchwalil-ustawe-st9277193",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sikorski wrzucił screenshot z TV Republika na X: Trump chce zmienić polskiego premiera",
+      "summary": "Minister spraw zagranicznych Radosław Sikorski opublikował na portalu X zdjęcie z audycji TV Republika z podpisem 'Amerykanie zainteresowani zmianą premiera w Polsce'. Sprawa dotyczy spotkania z Trumpem, które pomógł zorganizować poseł PiS Adam Bielan. Chrabota w rp.pl nazwał całą historię 'awanturą o nic'.",
+      "angle": "Polski szef dyplomacji zarządza kryzysem poprzez retweety z prawicowej telewizji — i wciąga Biały Dom w krajową kampanię wyborczą na rok przed wyborami parlamentarnymi.",
+      "category": "media",
+      "url": "https://tvn24.pl/polska/radoslaw-sikorski-skomentowal-doniesienia-tv-republika-uprzejmie-informuje-st9270716",
+      "source": "TVN24"
     }
   ]
 }
