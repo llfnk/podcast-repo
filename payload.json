@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-19",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Były wiceminister AgroUnii: nowe nagrania, kolejne kobiety z zarzutami o narkotyki i molestowanie",
+      "summary": "Kolejne byłe pracownice Michała Kołodziejczaka - byłego wiceministra rolnictwa z KO - oskarżają go o przemoc, nakłanianie do kokainy i seksualne wykorzystywanie. Kanał Zero opublikował nowe nagrania, jedna z kobiet mówi: 'skończyłam na psychotropach'. KO zawiesiło go w prawach członka klubu, prokuratura otworzyła postępowanie sprawdzające.",
+      "angle": "Człowiek który zbudował karierę na obronie pracowników przed wyzyskiem przez pracodawców sam stał się wyzyskującym pracodawcą - podręcznikowy przypadek 'zasady dla was, nie dla nas'.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/nowe-doniesienia-o-kolodziejczaku-kolejne-kobiety-zabieraja-glos-7339512590297536a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Sędziowie TK, którzy latami nie orzekali, dostali 160 tys. zł za niewykorzystany urlop",
+      "summary": "Były sędzia Trybunału Konstytucyjnego Michał Warciński dostał ekwiwalent za 82 niewykorzystane dni urlopu - blisko 157 tys. zł brutto. Krystyna Pawłowicz - prawie 90 tys. zł. Trybunał od lat sparaliżowany i w permanentnym kryzysie zdołał zakumulować tygodnie urlopu niebranych przez sędziów.",
+      "angle": "Instytucja w permanentnym 'natłoku pracy' i 'kryzysie konstytucyjnym' nagromadziła dziesiątki dni urlopu, które teraz podatnik wykupuje po blisko 2 tys. zł za dzień.",
+      "category": "urzędy",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45355261-sedziowie-tk-kumuluja-urlopy-rekordzista-zarobil-na-tym-prawie-160-tys-zlotych",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki wysyła Tuskowi te same nominacje do zarządu NBP - Tusk znów może nie podpisać",
+      "summary": "Prezydent Nawrocki po raz kolejny skierował do premiera Tuska wniosek o kontrasygnatę czterech tych samych kandydatów do zarządu NBP - tych, których Tusk odmówił podpisać w maju. W listopadzie zarząd banku centralnego może spaść poniżej ustawowego minimum.",
+      "angle": "Obydwa ośrodki władzy wykonawczej kłócą się o bank centralny, zasłaniając się troską o jego niezależność - a tymczasem to właśnie ich pat tę niezależność podkopuje.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/biznes/z-kraju/spor-o-nominacje-w-nbp-prezydent-karol-nawrocki-ponownie-zwrocil-sie-do-donalda-tuska-st9293878",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "UOKiK oskarża Google: gigant negocjował z polskimi mediami, ukrywając ile zarabia na ich treściach",
+      "summary": "Urząd Ochrony Konkurencji i Konsumentów postawił zarzuty czterem spółkom Google - zarzuca im nieuczciwe negocjacje z polskimi wydawcami prasy. Google nie ujawnił redakcjom, ile zarabia na ich artykułach, choć prawo autorskie z 2024 r. nakłada obowiązek płacenia za treści. Firmie grozi kara do 10% obrotów.",
+      "angle": "Korporacja warta biliony dolarów negocjowała z polskimi redakcjami jak monopolista - i nie zamierzała zdradzić, ile na nich zarabia. Klasyczna asymetria siły między Big Tech a mediami.",
+      "category": "korporacja",
+      "url": "https://spidersweb.pl/2026/10/uokik-google-zarzuty-wydawcy-internetowi-media.html",
+      "source": "SpiderWeb"
     }
   ]
 }
