@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-23",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Wiceminister żąda dymisji, bo koalicja 'straciła moralny kompas' — Tusk znalazł zastępstwo w pół godziny",
+      "summary": "Katarzyna Pełczyńska-Nałęcz, minister funduszy i szefowa Polska 2050, ogłosiła 22 października odejście z rządu i z partii po sporze w koalicji o dwukadencyjność w samorządach. Dzień później jej wiceminister Jan Szyszko złożył wniosek o dymisję, diagnozując 'zanik moralnego kompasu' koalicji. Tusk, który twierdził, że 'oczekiwał telefonu' przed rezygnacją ministrowej, podpisał dymisję wiceministra w pół godziny.",
+      "angle": "Koalicja obiecała naprawę państwa po ośmiu latach PiS — po trzech latach własni ministrowie odchodzą z etykietą 'zanik moralnego kompasu', a premier traktuje to jak kadrową rutynę.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/wiceminister-resortu-katarzyny-pelczynskiej-nalecz-jan-szyszko-rezygnuje-st9301908",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Wiceszef komisji ds. Pegasusa bez dostępu do tajnych akt — ABW odmówiła mu poświadczenia po prześwietleniu",
+      "summary": "Przemysław Wipler (Konfederacja), wiceprzewodniczący sejmowej komisji śledczej ds. Pegasusa, dostał odmowę poświadczenia bezpieczeństwa od ABW po rozszerzonym postępowaniu sprawdzającym. Jednocześnie money.pl ujawnił, że UOKiK alarmował ABW o działaniach posła, a spółki powiązane z Wiplerem i jego wspólnikiem miały otrzymać 160 tys. euro od podmiotów powiązanych z Zondacrypto — giełdą, przy której przewijają się wątki rosyjskiej mafii.",
+      "angle": "Człowiek nadzorujący kontrolę nad inwigilacją państwową sam nie przeszedł weryfikacji ABW — a przy okazji wychodzi na jaw, że przez jego firmy mogły płynąć pieniądze od klientów, których interesy reprezentował w parlamencie.",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/uokik-alarmowal-abw-w-sprawie-dzialan-posla-konfederacji-7342105009555552a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "41 tys. zł kary za szyld odstawał 2 cm — ZDM wysłał komornika, a spotkanie zaproponował dopiero po mediach",
+      "summary": "Właścicielka piekarni na warszawskim Mokotowie dostała karę ponad 41 tys. zł, bo szyld sklepu wystawał ok. 2 cm od elewacji z powodu podkładek wyrównujących nierówną ścianę. Zarząd Dróg Miejskich skierował komornika, który zablokował konto firmy. Na rozmowę z właścicielką ZDM zdecydował się dopiero po nagłośnieniu sprawy przez media.",
+      "angle": "Klasyczny urzędniczy absurd: komornik działał błyskawicznie, a gotowość do 'szukania rozwiązania' pojawiła się dopiero, gdy sprawa trafiła na pierwsze strony portali.",
+      "category": "urzędy",
+      "url": "https://zero.pl/news/41-tys-zl-kary-za-dwa-centymetry-warszawska-piekarnia-walczy-o-przetrwanie",
+      "source": "Kanał Zero"
     }
   ]
 }
