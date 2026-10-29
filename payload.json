@@ -1,28 +1,36 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-10-29",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Prezydent pozwał Onet za artykuł o hotelu. Świadek zeznała, że proponował 'doprowadzanie dziewczyn'",
+      "summary": "27 października odbyła się pierwsza jawna rozprawa w procesie cywilnym prezydenta Karola Nawrockiego przeciwko wydawcy Onetu. Była pracownica ochrony Grand Hotelu w Sopocie zeznała, że Nawrocki zaproponował jej zarabianie przez doprowadzanie dziewczyn do gości hotelowych. Nawrocki kategorycznie zaprzecza i domaga się ochrony dóbr osobistych.",
+      "angle": "Urzędujący prezydent RP wychodzi na salę sądową, żeby udowodnić, że nie był alfonsem — i przy okazji sprawia, że o artykule, który chciał zatrzeć, słyszy cała Polska.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Ruszyla-pierwsza-jawna-rozprawa-w-procesie-Karola-Nawrockiego-przeciwko-wydawcy-Onetu-9218811.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Senator KO korzystał z publicznego szpitala. Prokuratura odpowiada: szuka informatora, nie sprawcy",
+      "summary": "Po artykule WP o tym, że syn senatora KO Tomasza Lenza miał zabieg w publicznym szpitalu poza kolejką, prokuratura zajęła telefon dyrektora szpitala, żeby ustalić, kto przeciekł informacje do redakcji. WP odmówiło ujawnienia źródeł jeszcze w czerwcu. RPO wszczął postępowanie z urzędu, a minister Żurek zapowiedział kontrolę.",
+      "angle": "Koalicja, która obiecywała praworządność i wolność mediów, używa prokuratury do wyciszania dziennikarzy ujawniających przywileje jej własnych senatorów — zamiast zbadać samą sprawę.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/tak-prokuratura-szuka-naszych-informatorow-w-sprawie-afery-senatora-lenza-7344585622976544a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Influencerka narzekała na podatki. Jej spółka z 3 mln przychodu płaciła mniej niż pracownik na minimalnej",
+      "summary": "Popularną influencerkę Andziaks podliczył twórca 'Pan od Podatków': jej główna spółka przy blisko 3 mln zł przychodu zapłaciła w roku ok. 26 tys. zł podatku dochodowego — mniej niż pracownik zatrudniony za minimalne wynagrodzenie. Do tego w latach 2023-26 firma inkasowała publiczne dofinansowania rzędu 399 tys. zł. Influencerka przeprosiła za swoje słowa.",
+      "angle": "Klasyczna zasada 'podatki dla was, optymalizacja dla mnie' — a na deser: publiczne lamentowanie w internecie, że płaci się za dużo.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Podatkowa-hipokryzja-influencerki-Andziaks-Spolka-za-3-mln-zl-zaplacila-mniej-niz-pracownik-na-minimalnej-9218252.html",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Freedom24 grozi polskim twórcom za krytykę. Broker z raportu Hindenburg wysyła pisma przedsądowe",
+      "summary": "Broker inwestycyjny Freedom24 wysłał pisma przedsądowe do co najmniej trzech polskich twórców finansowych, którzy omawiali publicznie raport Hindenburg Research — dotyczący m.in. rzekomych powiązań z Rosją i słabej kontroli AML. Jeden z twórców, Paweł Kędzierski z kanału 'Zawód Inwestor', dostał 72 godziny na usunięcie filmów.",
+      "angle": "Zamiast odpowiedzieć merytorycznie na zarzuty o rosyjskich powiązaniach, broker uderza w twórców pismami prawnymi — klasyczna SLAPP-owa taktyka zamrażania krytyki.",
+      "category": "korporacja",
+      "url": "https://www.bankier.pl/wiadomosc/Freedom24-odpowiada-na-watpliwosci-prawnikami-Pisma-przedsadowe-u-polskich-tworcow-9219678.html",
       "source": "Bankier.pl"
     }
   ]
