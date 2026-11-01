@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-01",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "TK w chaosie: policja w środku, Nawrocki wrócił z Senegalu, każdy krzyczy o zamachu",
+      "summary": "W nocy z 31 października na 1 listopada sędzia Anna Korwin-Piotrowska zawiesiła prezesa TK Bogdana Święczkowskiego i jego zastępcę — policja weszła na teren Trybunału. Prezydent Nawrocki przerwał wizytę w Senegalu i wrócił do kraju. Opozycja krzyczy 'zamach stanu', rząd mówi 'praworządność'.",
+      "angle": "Obie strony przez lata demolowały TK i teraz na zmianę krzyczą o 'zamachu' — klasyczna hipokryzja bez dna: każdy robi to samo, za co oskarża drugą stronę.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45424861-chaos-wokol-trybunalu-konstytucyjnego-prezydent-zwoluje-konsultacje-relacja-na-zywo",
+      "source": "rp.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Morawiecki ratuje demokrację — kandydatem na premiera polityk z 1997 roku",
+      "summary": "Mateusz Morawiecki zapowiedział konstruktywne wotum nieufności wobec Tuska i wskazał Marka Jurka — byłego marszałka Sejmu, który ostatnią własną partię rozwiązał w 2007 r. — jako kandydata na premiera technicznego. Celem ma być 'zapewnienie uczciwych wyborów 2027'.",
+      "angle": "Człowiek, który przez 5 lat rządził i sam upolityczniał sądy i media, teraz chce 'ratować demokrację' z pomocą politycznej mumii z lat 90. — absurd kwalifikowany.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/morawiecki-zapowiada-wotum-nieufnosci-dla-rzadu-wskazal-kandydata-na-premiera-7345990685759968a",
+      "source": "wp.pl"
+    },
+    {
+      "title": "Nawrocki zamroził podatek paliwowy w TK — TK właśnie padło, podatek wszedł w życie",
+      "summary": "Rząd uchwalił 60-proc. podatek od nadzwyczajnych zysków firm paliwowych — Orlen miałby zapłacić ok. 6 mld zł. Prezydent Nawrocki skierował ustawę do Trybunału Konstytucyjnego zamiast wetowania, de facto ją zamrażając. 1 listopada 2026 — w tym samym dniu, gdy TK tonie w chaosie — podatek wszedł w życie.",
+      "angle": "Instrument blokady upadł dokładnie w chwili, gdy to, co miało być zablokowane, weszło w życie — rzadki przypadek, gdy polityczna ironia dzieje się w czasie rzeczywistym.",
+      "category": "polityka",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-uderzy-w-zyski-koncernow-paliwowych-Nowy-podatek-ma-objac-m-in-Orlen-9135764.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Strażnik sprawiedliwości Ziobro: jego fundacja brała pieniądze z giełdy rosyjskiej mafii",
+      "summary": "Prokuratura przeszukała siedziby fundacji Zbigniewa Ziobry i Przemysława Wiplera w związku ze śledztwem dot. Zondacrypto — giełdy, którą ABW łączy z rosyjską grupą Tambowców. Śledczy badają przepływy finansowe między tymi fundacjami a Zondacrypto.",
+      "angle": "Ziobro przez lata budował wizerunek Stróża Sprawiedliwości i Obrońcy Przed Rosją — jego fundacja tymczasem miała brać pieniądze od platformy rosyjskiej mafii.",
+      "category": "polityka",
+      "url": "https://money.pl/gospodarka/sledczy-przeszukuja-siedziby-fundacji-zbigniewa-ziobry-i-przemyslawa-wiplera-7345598136240608a",
+      "source": "Money.pl"
     }
   ]
 }
