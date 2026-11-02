@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-02",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Prezydent taranuje sędziów TK w środku nocy — PiS woła 'ZAMACH!'",
+      "summary": "W nocy z 30 na 31 października Karol Nawrocki przerwał lot do Senegalu i wrócił do Trybunału Konstytucyjnego, gdzie nowo zaprzysiężona prezes Anna Korwin-Piotrowska odsunęła od obowiązków prezesa Bogdana Święczkowskiego. Sędzia Korwin-Piotrowska mówi, że prezydent ją 'staranował', jego obóz twierdzi, że to sędziowie atakowali głowę państwa. Nagranie z incydentem trafiło na X. PiS składa zawiadomienia do prokuratury o 'zamachu na TK'.",
+      "angle": "Partia, która przez 8 lat blokowała wyroki TK, obsadzała go dublerami i oficjalnie twierdziła, że Trybunał 'nie istnieje jako organ' — teraz krzyczy, że ktoś robi zamach na praworządność. To ten sam Trybunał, inni tylko sędziowie.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art45424841-nocna-wizyta-karola-nawrockiego-w-tk-prezydent-z-impetem-wpadl-w-sedzie",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "title": "Szef rządowej walki z dezinformacją wrzucił na X fałszywą grafikę z AI",
+      "summary": "Wiceminister cyfryzacji Paweł Olszewski, który kieruje Centrum Walki z Dezinformacją, opublikował na X grafikę wygenerowaną przez AI pokazującą Nawrockiego przy TK. Grafika nie była oznaczona jako AI. Portal Demagog i dziennikarze wytknęli sprawę publicznie — Olszewski początkowo nie odpowiadał na pytania, później wrzucił autentyczne nagranie sędziego Berka.",
+      "angle": "Człowiek, którego jedynym zadaniem jest walka z fejkami i oznaczonymi manipulacjami, sam produkuje nieoznaczony fejk i wrzuca go w środku największego politycznego kryzysu tygodnia. Przepis na podkast: zasady dla was, nie dla ministra.",
+      "category": "media",
+      "url": "https://wiadomosci.wp.pl/odpowiada-za-walke-z-dezinformacja-wiceminister-pokazal-grafike-z-ai-7346218578471392a",
+      "source": "Wirtualna Polska"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "NBP może mieć nielegalny zarząd od 4 listopada — Tusk blokuje kandydatów Glapińskiego",
+      "summary": "4 listopada 2026 kończy się kadencja wiceprezesa NBP Adama Lipińskiego. Zarząd banku centralnego zejdzie wtedy do 5 członków, czyli poniżej ustawowego minimum (6–8). Adam Glapiński wnioskował o cztery nominacje do zarządu — premier Donald Tusk odmawia kontrasygnaty. Nawrocki ze swojej strony blokuje kandydatury wskazane przez koalicję.",
+      "angle": "Tusk i Nawrocki grają w wojnę o kontrolę nad bankiem centralnym, a ceną jest instytucjonalny paraliż instytucji ustalającej m.in. stopy procentowe. Każdy Polak z kredytem zmiennym jest zakładnikiem ich gry.",
+      "category": "urzędy",
+      "url": "https://www.money.pl/gospodarka/zbliza-sie-kluczowy-termin-adam-glapinski-wykonal-ruch-7344497062098976a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Sikorski najpierw oskarżył 'otoczenie prezydenta', potem samego prezydenta — i musiał się korygować",
+      "summary": "Minister spraw zagranicznych Radosław Sikorski oskarżył Karola Nawrockiego o osobiste nakłanianie dwóch ambasadorów — Jakuba Kumocha (Pekin) i Pawła Solocha (Bukareszt) — do rezygnacji po nocnym incydencie przy TK. Najpierw powiedział, że 'otoczenie prezydenta' wywierało presję, potem zmienił wersję na 'sam prezydent'. Rzecznik Pałacu Prezydenckiego Przydacz: to kłamstwo.",
+      "angle": "W środku kryzysu konstytucyjnego minister spraw zagranicznych nie może utrzymać jednej wersji przez 24 godziny, a dwaj ambasadorzy tracą posady w Pekinie i Bukareszcie. Ambasadorzy — czyli ci, którzy powinni być wyjęci z politycznych gier — są bezpośrednią ofiarą cyrku.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/biznes/z-kraju/sikorski-to-prezydent-nawrocki-osobiscie-naklanial-ambasadorow-do-rezygnacji-st9317962",
+      "source": "TVN24"
     }
   ]
 }
