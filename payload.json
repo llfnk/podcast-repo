@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-03",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Szef Centrum Walki z Dezinformacją rozsyła fejk AI — i nie zamierza go usuwać",
+      "summary": "Wiceminister cyfryzacji Paweł Olszewski, kierujący rządowym Centrum Walki z Dezinformacją, opublikował na X wygenerowane przez AI zdjęcie Nawrockiego szarpiącego sędzię TK. Wpis zebrał 558 tys. wyświetleń. Zapytany, czy usunie post, stwierdził, że nie zamierza tego robić.",
+      "angle": "Człowiek odpowiedzialny za walkę z dezinformacją w państwie sam rozpowszechnia dezinformację i się z tego nie wycofuje — hipokryzja w stanie czystym.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Grafika-AI-z-Nawrockim-obiegla-siec-Wiceminister-nie-zamierza-jej-usuwac-9222353.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
+      "title": "Prezydent żąda kluczy od Trybunału — jest nagranie",
+      "summary": "W nocy z 30 na 31 października Karol Nawrocki pojawił się przed siedzibą Trybunału Konstytucyjnego, a jego adiutant na nagraniu żąda od sędziego Berka kluczy do budynku. Siedmiu nowych sędziów weszło do TK w eskorcie BOR, prezes Święczkowski mówi o bezprawnym zajęciu.",
+      "angle": "Największy spór konstytucyjny w Polsce sprowadził się do walki o klucze do budynku — absurdalne reality show, w którym instytucja strażnicząca prawa sama nie może ustalić, kto ma rację do drzwi.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/prezydent-prosi-o-klucze-nowe-wideo-z-trybunalu-konstytucyjnego-7346139325565376a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Ukraina zaprasza dziennikarza — i własne służby mu zakazują wjazdu",
+      "summary": "Publicysta tygodnika 'Do Rzeczy' Łukasz Warzecha jechał na Ukrainę na zaproszenie Centrum Mieroszewskiego i Instytutu Ukraińskiego — oficjalnych instytucji państwowych. Na granicy SBU zatrzymała go na 7 godzin i wręczyła 3-letni zakaz wjazdu 'ze względów bezpieczeństwa'.",
+      "angle": "Ukraińskie państwo lewą ręką zaprasza, a prawą blokuje — to nie jest hipokryzja jednego polityka, to systemowy chaos, który uderza w sojusznika.",
+      "category": "media",
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-02/lukasz-warzecha-z-zakazem-wjazdu-do-ukrainy-interwencja-sbu-na-granicy/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "KAS: 120 mld zł nieprawidłowości w publicznych wydatkach — 250 zawiadomień do prokuratury",
+      "summary": "Krajowa Administracja Skarbowa zamknęła audyt wydatków publicznych z lat 2020–2023 i ogłosiła nieprawidłowości na ponad 120 miliardów złotych. Wiceminister finansów podkreślił, że większość to działania celowe, nie błędy. Wśród przypadków: KRRiT przez lata nie ściągała opłat licencyjnych od nadawców.",
+      "angle": "120 mld zł rozeszło się nie wiadomo gdzie, a regulator mediów sam nie ściągał własnych danin — portret systemu, który nadzoruje wszystkich z wyjątkiem siebie.",
+      "category": "urzędy",
+      "url": "https://www.bankier.pl/wiadomosc/Gigantyczna-skala-nieprawidlowosci-w-wydatkach-publicznych-KAS-sklada-zawiadomienia-9222358.html",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Tusk blokował NBP przez 8 miesięcy — podpisał dopiero gdy groziło łamanie prawa",
+      "summary": "Premier Donald Tusk przez 8 miesięcy odmawiał złożenia kontrasygnaty pod nominacjami do zarządu NBP, używając tego jako dźwigni nacisku na prezesa Glapińskiego. 3 listopada podpisał — bo już 5 listopada zarząd banku centralnego miałby spaść poniżej ustawowego minimum, narażając Polskę na kryzys instytucjonalny.",
+      "angle": "Jeśli premier może przez 8 miesięcy blokować legalne nominacje do banku centralnego jako narzędzie politycznego szantażu, to metodami nie różni się od tych, którym sam zarzuca łamanie praworządności.",
+      "category": "polityka",
+      "url": "https://www.parkiet.com/gospodarka-krajowa/art45437101-donald-tusk-zgadza-sie-na-nowych-czlonkow-zarzadu-nbp",
+      "source": "Parkiet"
     }
   ]
 }
