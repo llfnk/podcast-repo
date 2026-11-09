@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-09",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Poseł PiS pchnął działacza PSL w Sejmie, krzycząc 'precz, chamie!' — a potem skarżył się na nietykalność",
+      "summary": "Poseł PiS Dariusz Matecki wtargnął na konferencję Forum Młodych Ludowców w Sejmie, nagrywał telefonem, a gdy działacz PSL Konrad Gwóźdź poprosił go o cofnięcie się, Matecki go popchnął i wykrzyczał 'precz, chamie!'. Nagranie obiegło sieć. Matecki oświadczył potem, że to on był ofiarą naruszenia nietykalności poselskiej na terenie Sejmu. Złożono dwa wnioski do komisji etyki.",
+      "angle": "Poseł powołujący się na nietykalność poselską po tym, jak sam kogoś popchnął — klasyczny przykład zasad, które obowiązują tylko innych.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/posel-pis-dariusz-matecki-popchnal-w-sejmie-dzialacza-psl-konrada-gwozdzia-nagranie-st9326376",
+      "source": "TVN24"
+    },
+    {
+      "title": "JSW wydała 35 mln zł na konsultantów bez przetargu — bo górnicy mogliby zaprotestować",
+      "summary": "Jastrzębska Spółka Węglowa podpisała w 2024 r. kontrakt z firmą AT Kearney na 35,6 mln zł netto, omijając przetarg publiczny. Uzasadnienie: ogłoszenie przetargu ujawniłoby plan restrukturyzacji, co mogłoby wywołać protesty górników, a te mogłaby 'wykorzystać Rosja'. KIO i UZP stwierdziły naruszenie prawa zamówień publicznych, ABW prowadzi śledztwo, JSW zerwała umowę, Kearney pozywa spółkę.",
+      "angle": "Bezpieczeństwo narodowe jako alibi do ominięcia przetargu — gdy zagrożeniem jest to, że pracownicy dowiedzą się o planach własnego zarządu.",
+      "category": "korporacja",
+      "url": "https://www.money.pl/gospodarka/gigant-zlamal-prawo-sledztwo-abw-wokol-jsw-7346614861179360a.html",
+      "source": "money.pl"
+    },
+    {
+      "title": "Sejm 431 do 9: przywileje dla mundurowych przegłosowane błyskawicznie. Reszta poczeka w kolejce",
+      "summary": "Sejm uchwalił 6 listopada Kartę Rodziny Mundurowej: policjanci, żołnierze, strażacy i ich rodziny dostają dostęp do lekarza bez kolejki w placówkach MSWiA, 37–49% zniżki na bilety kolejowe oraz pierwszeństwo w rekrutacji do przedszkola. Skorzystać ma ok. 2 mln osób. Wynik głosowania: 431 za, 9 przeciw, 3 wstrzymały się. Ustawa czeka na Senat.",
+      "angle": "Sejm, który od dekad nie może uzgodnić reformy kolejek w NFZ dla wszystkich Polaków, w kilkanaście minut uchwalił osobny szybszy tor dostępu do lekarzy — ale tylko dla wybranych.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/prawo-dla-ciebie/art45463251-prawo-do-leczenia-bez-kolejki-uchwalone-przez-sejm-zyskaja-m-in-policjanci-i-zolnierze",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
-    },
-    {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Żałoba narodowa, a TV Republika puszcza nagranie z rozśpiewanym tłumem pod TK. KRRiT wszczął postępowanie",
+      "summary": "W niedzielę 8 listopada, w dniu żałoby narodowej, główne stacje zawiesiły programy rozrywkowe. TV Republika wyemitowała nagranie reportera zachęcającego tłum przy Trybunale Konstytucyjnym do śpiewania, opatrzone czarnym paskiem 'razem z rodzinami ofiar'. Wpłynęły skargi od ministra kultury i widzów. Przewodnicząca KRRiT Agnieszka Glapiak wszczęła 9 listopada postępowanie wyjaśniające.",
+      "angle": "Stacja, która uchodzi za twierdzę patriotyzmu, opublikowała festynowy materiał w dniu żałoby i zasłoniła to czarnym paskiem — to nie jest żałoba, to jest branding.",
+      "category": "media",
+      "url": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/11342398,krrit-wszczyna-postepowanie-ws-tv-republika-skargi-ws-relacjonowania-tragicznych-wydarzen-w-krakowie.html",
+      "source": "Dziennik.pl"
     }
   ]
 }
