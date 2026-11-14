@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-14",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Nawrocki zawetował DSA — dzieci tarczą dla obu stron",
+      "summary": "Prezydent Nawrocki zawetował 13 listopada nowelizację wdrażającą unijny DSA, która miała umożliwić blokowanie nielegalnych treści w sieci. Premier Tusk ogłosił, że 'ofiarami tego weta są polskie dzieci', a Pałac Prezydencki odpowiedział, że to próba cenzury w rękach rządu. To już drugie weto w tej samej sprawie — pierwsze padło w styczniu 2026.",
+      "angle": "Obie strony grają dziećmi jako kartą przetargową — jeden jako ochroną przed pedofilami, drugi jako tarczą przed cenzurą — a tak naprawdę chodzi o to, kto będzie kontrolował internet.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Karol-Nawrocki-zawetowal-nowelizacje-wdrazajaca-Akt-o-uslugach-cyfrowych-9228567.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Policja u Republiki: stacja PiS odkrywa tajemnicę dziennikarską",
+      "summary": "12 listopada funkcjonariusze CBZC weszli do siedziby TV Republika i zażądali nagrań oraz dokumentów w ramach śledztwa prokuratury w Szczecinie o przestępstwa na szkodę policjantów i premiera. Prezes Sakiewicz odmówił, powołując się na tajemnicę dziennikarską, a całość była transmitowana na żywo. Posłowie PiS pojechali protestować do siedziby CBZC.",
+      "angle": "Stacja, która latami gloryfikowała każdą rewizję u opozycji jako nieuchronną walkę z przestępcami, odkrywa magię tajemnicy dziennikarskiej dokładnie wtedy, gdy to jej drzwi pukają.",
+      "category": "media",
+      "url": "https://www.rmf24.pl/fakty/polska/news-policja-weszla-do-siedziby-telewizji-republika-tak-zareagowa,nIdn,1025824",
+      "source": "RMF24"
+    },
+    {
+      "title": "Gliwice: 39% podpisów pod referendum fałszywych — w tym od nieżyjących",
+      "summary": "Inicjatywa GLIWICE2026, która chciała odwołać prezydent Kuczyńską-Budkę (żonę Borysa Budki), złożyła 18,1 tys. podpisów pod wnioskiem o referendum. Komisarz wyborczy unieważnił 7,1 tys. z nich — 39% całości — wskazując na podpisy od osób nieżyjących i mieszkańców innych miast. 13 listopada wniosek odrzucono; progu 12,7 tys. ważnych podpisów nie osiągnięto.",
+      "angle": "Inicjatywa, która miała udowodnić wolę mieszkańców, sama pokazała brak tej woli — podpisy od zmarłych to nie błąd organizacyjny, to metoda.",
+      "category": "polityka",
+      "url": "https://dziennikzachodni.pl/w-gliwicach-nie-bedzie-referendum-przeciwko-prezydent-kuczynskiej-budce-na-listach-podpisy-mieszkancow-innych-miast-i-rekord-zmarlych/ar/c1p2-29504321",
+      "source": "Dziennik Zachodni"
+    },
+    {
+      "title": "Wiceminister Bartoszewski z zarzutami o 11 mln zł — wciąż rządzi",
+      "summary": "10 listopada prokuratura postawiła wiceministrowi MSZ Władysławowi Teofil Bartoszewskiemu (PSL) zarzuty przywłaszczenia 1 mln funtów, 405 tys. euro i prawie 7 mln zł, które powierzył mu ojciec chrzestny. Analogiczne zarzuty dostała jego żona. Bartoszewski sam zrzekł się immunitetu, nie przyznał się do winy — i nadal sprawuje urząd.",
+      "angle": "Rząd, który latami krzyczał o czystości rąk klasy politycznej, trzyma na stanowisku wiceministra z milionowymi zarzutami — bo koalicja ważniejsza niż własne zasady.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/wladyslaw-teofil-bartoszewski-z-zarzutami-prokuratura-wydala-komunikat-7349452964452832a",
+      "source": "WP Wiadomości"
     }
   ]
 }
