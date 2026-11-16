@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-16",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Nawrocki zawetował ustawę chroniącą dzieci w sieci, bo używanie interesów dzieci jest niemoralne",
+      "summary": "13 listopada prezydent Nawrocki zawetował nowelizację wdrażającą unijny Akt o usługach cyfrowych (DSA), który m.in. nakazywał szybkie usuwanie nielegalnych treści zagrażających małoletnim. W uzasadnieniu weta stwierdził, że używanie interesów najmłodszych do tworzenia przepisów cenzurujących internet jest niemoralne. To już drugie weto w tej sprawie — wiceminister cyfryzacji Standerski nazwał decyzję 'skandaliczną', a rząd zapowiada kolejną próbę.",
+      "angle": "Prezydent, który bije rekordy wet, blokuje prawo chroniące dzieci w sieci, po czym mówi, że to inni instrumentalizują dzieci — kwintesencja podwójnych standardów.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art45486421-nielegalne-tresci-mialy-znikac-z-internetu-szybciej-nawrocki-zawetowal-przepisy",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
-      "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "title": "NBP zamroził konta Trybunału Konstytucyjnego, bo nie wiadomo, kto nim rządzi",
+      "summary": "16 listopada Narodowy Bank Polski wstrzymał realizację przelewów z kont Trybunału Konstytucyjnego, powołując się na wątpliwości co do tego, kto jest właściwym reprezentantem TK. Dwie frakcje — rządowa i lojalna wobec mianowanego przez PiS Święczkowskiego — jednocześnie twierdzą, że to właśnie one mają władzę. NBP odmówił bycia arbitrem w sporze; TK nie może zrealizować żadnych płatności, nawet do firm z którymi ma umowy.",
+      "angle": "Instytucja powołana do pilnowania prawa nie może zapłacić rachunków, bo nikt nie wie, kto jest jej szefem — to nie kabaret, to polska praworządność w listopadzie 2026.",
+      "category": "urzędy",
+      "url": "https://www.rp.pl/banki/art45494301-burza-po-decyzji-nbp-giertych-chce-trybunalu-stanu-dla-glapinskiego",
+      "source": "Rzeczpospolita"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Były funkcjonariusz CBA usłyszy zarzuty za handel wpływami",
+      "summary": "Reporter 'Superwizjera' TVN24 Maciej Duda ujawnił 15 listopada, że Artur Chodziński — były funkcjonariusz Centralnego Biura Antykorupcyjnego — został wezwany do prokuratury w Katowicach jako podejrzany. Zarzuty mają dotyczyć m.in. powoływania się na wpływy w sprawach związanych ze śledztwem Zondacrypto; Chodziński miał pośredniczyć między giełdą kryptowalut a politykami, odwiedzał Kancelarię Prezydenta i spotykał się z posłem na Ibizie.",
+      "angle": "Człowiek zatrudniony w biurze powołanym do zwalczania korupcji teraz odpowie za handel wpływami — trudniej o lepszą ilustrację zasady: zasady dla was, nie dla nas.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/superwizjer-artur-chodzinski-uslyszy-zarzuty-st9338739",
+      "source": "TVN24 Superwizjer"
+    },
+    {
+      "title": "Kołodziejczak — obrońca rolników — terryzorował podwładne. Notatka leżała miesiącami w szufladzie",
+      "summary": "Michał Kołodziejczak, były wiceminister rolnictwa i lider Agrounii, stoi wobec zarzutów przymusu (art. 191 kk) zgłoszonych przez kilka kobiet z resortu — prokuratura wszczęła czynności sprawdzające. Wprost ujawnił 16 listopada, że urzędnik ministerstwa sporządził notatkę dla ministra Siekierskiego dotyczącą zachowania Kołodziejczaka, lecz przez długi czas nikt formalnie nie reagował. KO zawiesiło go w prawach członka klubu.",
+      "angle": "Lider ruchu głosu wykluczonych miał zastraszać własne pracownice — a wewnętrzna notatka o tym leżała miesiącami bez reakcji przełożonych.",
+      "category": "polityka",
+      "url": "https://www.wprost.pl/kraj/12503212/michal-kolodziejczak-i-notatka-do-czeslawa-siekierskiego-co-zglosil-urzednik-resortu-rolnictwa.html",
+      "source": "Wprost"
     }
   ]
 }
