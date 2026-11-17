@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-17",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "NBP zamroził konta TK, bo nie wie, kto nim rządzi",
+      "summary": "Narodowy Bank Polski wstrzymał 16 listopada wszystkie płatności z rachunków Trybunału Konstytucyjnego, powołując się na wątpliwości co do właściwej reprezentacji TK. Spór dotyczy tego, czy prezes Święczkowski czy sędzia Korwin-Piotrowska jest aktualną głową instytucji. Giertych zażądał postawienia prezesa NBP Glapińskiego przed Trybunałem Stanu.",
+      "angle": "Bank centralny de facto ogłasza, że trybunał konstytucyjny jest tak rozbity, że sam nie wie, kto nim rządzi — i zamraża mu kasę jak kłótliwemu małżeństwu.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/banki/art45494301-burza-po-decyzji-nbp-giertych-chce-trybunalu-stanu-dla-glapinskiego",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "TK uchyliło immunitet własnemu prezesowi — który nie uznaje tego TK",
+      "summary": "Zgromadzenie ogólne Trybunału Konstytucyjnego przegłosowało 17 listopada uchylenie immunitetu prezesa Bogdana Święczkowskiego i wiceprezesa Sochańskiego, otwierając prokuraturze drogę do zatrzymania obu sędziów. Święczkowski uznał decyzję za nielegalną, bo nie uznaje składu zgromadzenia. Prokuratura wnioskowała o zgodę na areszt.",
+      "angle": "Instytucja powołana do pilnowania konstytucji właśnie zagłosowała nad aresztowaniem własnego szefa — a szef twierdzi, że to zgromadzenie jest samozwańczym ciałem.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45499551-waza-sie-losy-immunitetu-swieczkowskiego-w-trybunale-konstytucyjnym-trwa-zgromadzenie",
+      "source": "Rzeczpospolita"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Rachoń i Kłeczek wtargnęli do prokuratury — i są z siebie dumni",
+      "summary": "Prokuratura postawiła 16 listopada zarzuty naruszenia miru domowego czterem pracownikom TV Republika — w tym Michałowi Rachoniowi i Miłoszowi Kłeczkowi — za wejście do Prokuratury Krajowej podczas przesłuchania właściciela stacji Tomasza Sakiewicza w maju 2026. Rachoń skomentował: 'Jestem z tego bardzo dumny'.",
+      "angle": "Dziennikarze prawicowej stacji dosłownie wdarli się do prokuratury, żeby pilnować szefa — to już nie watchdog, to ochrona osobista z kamerą.",
+      "category": "media",
+      "url": "https://tvn24.pl/polska/kolejni-pracownicy-tv-republika-michal-rachon-i-milosz-kleczek-z-zarzutami-chodzi-o-wtargniecie-do-budynku-prokuratury-st9341336",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wotum nieufności, Jurek jako premier i mem o zdradzie streamera — Morawiecki jako content creator",
+      "summary": "17 listopada Sejm odrzucił konstruktywne wotum nieufności złożone przez Rozwój Plus i Konfederację — 200 za, 242 przeciw — z Markiem Jurkiem jako kandydatem na premiera. Równocześnie konto TikTok Morawieckiego opublikowało mem zestawiający twarz Tuska ze streamerem Izakiem z napisem: 'Nie bądź jak Tusk i Izak — nie zdradzaj Polski i żony!'. Mem zyskał ponad 220 tys. lajków.",
+      "angle": "Były premier traktuje procedury parlamentarne jak content strategy — składa wotum w Sejmie, a zasięgi robi memem o zdradzie internetowego streamera.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/marek-jurek-kandydatem-na-premiera-tusk-nie-gryzl-sie-w-jezyk-7352036591319040a",
+      "source": "Wirtualna Polska"
+    },
+    {
+      "title": "Błaszczak nie przyszedł do sądu — obowiązki parlamentarne ważniejsze niż zeznania ws. zegarka z MON",
+      "summary": "Były minister obrony Mariusz Błaszczak nie stawił się 17 listopada jako świadek na przesłuchaniu w sądzie w sprawie afery zegarkowej — zakupu luksusowego zegarka za publiczne pieniądze MON pod pozorem prezentu dla koreańskiej delegacji. Jako powód podał obowiązki parlamentarne. Oskarżona w tej sprawie była urzędniczka MON Agnieszka Glapiak pełni dziś funkcję szefowej KRRiT.",
+      "angle": "Minister nie ma czasu zeznawać w sprawie zakupów z własnego resortu — a osoba z zarzutami pilnuje dziś mediów publicznych.",
+      "category": "polityka",
+      "url": "https://tvn24.pl/polska/mariusz-blaszczak-nie-przyszedl-na-przesluchanie-do-sadu-w-sprawie-afery-zegarkowej-st9342979",
+      "source": "TVN24"
     }
   ]
 }
