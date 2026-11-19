@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-19",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "NBP zamroził konta TK — strażnik Konstytucji bez dostępu do własnego rachunku",
+      "summary": "Narodowy Bank Polski od 16 listopada wstrzymał realizację przelewów z rachunków Trybunału Konstytucyjnego. Spór wynikł z konfliktu o to, kto legalnie reprezentuje TK po zawieszeniu przez prezes Korwin-Piotrowską dwóch sędziów. NBP twierdzi, że nie ma kompetencji rozstrzygnąć, kto ma rację — i zamroził konta.",
+      "angle": "Instytucja powołana do strzeżenia Konstytucji sama nie może wypłacić pensji, bo bank centralny nie wie, komu wierzyć. Klasyczny absurd: państwo kontra państwo, rachunek bankowy jako ofiara.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.bankier.pl/wiadomosc/NBP-stawia-sprawe-jasno-Bez-tych-dokumentow-nie-bedzie-przelewow-TK-9230047.html",
+      "source": "Bankier.pl"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
+      "title": "NowRocky Boxing Night — ktoś sprzedawał bilety na wymyśloną galę z twarzą prezydenta",
+      "summary": "W sieci pojawiła się strona promująca rzekomą galę bokserską w Łodzi z wizerunkiem prezydenta Nawrockiego obok Pacquiao, Adamka i Stanowskiego. Urząd Miasta Łodzi, Atlas Arena i menedżerowie wszystkich sportowców zdementowali wydarzenie. Kancelaria Prezydenta zawiadomiła ABW.",
+      "angle": "Nazwa NowRocky brzmiała wiarygodnie, bo Nawrocki faktycznie pojawił się na prawdziwej gali kilka miesięcy wcześniej — ktoś to sprytnie wykorzystał. Prezydent-celebryta jako rekwizyt wyłudzenia.",
       "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-18/falszywa-gala-z-udzialem-nawrockiego-sprawa-trafila-do-abw/",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Prokuratura umorzyła sprawę Zen.com — Andrzej Duda zostaje w radzie nadzorczej",
+      "summary": "Prokuratura Regionalna w Warszawie umorzyła 3 listopada postępowanie ws. Zen.com — fintechowej spółki, gdzie w radzie nadzorczej zasiada były prezydent Andrzej Duda. Firma ogłosiła to publicznie dopiero 17 listopada, prosząc media o aktualizację wcześniejszych artykułów. Sprawa dotyczyła umożliwienia Polakom płatności w nielegalnych kasynach.",
+      "angle": "Spółka oskarżana o przepuszczanie pieniędzy przez nielegalne kasyna, z byłym prezydentem w radzie nadzorczej — prokuratura odpuszcza bez zarzutów. Duda zostaje na miejscu.",
+      "category": "polityka",
+      "url": "https://www.money.pl/gospodarka/prokuratura-podjela-decyzje-ws-firmy-zen-w-radzie-nadzorczej-zasiada-andrzej-duda-7352002314127392a.html",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Mejza przed komisją etyki po raz drugi w roku — za słowa podczas debaty o wotum nieufności",
+      "summary": "Klub KO złożył wniosek do sejmowej komisji etyki o ukaranie posła Łukasza Mejzy po tym, jak podczas debaty o wotum nieufności wobec rządu Tuska wypowiedział skandaliczne słowa. To już drugi wniosek w 2026 roku — poprzedni złożono po wprowadzeniu przez Mejzę patostreamerów do Sejmu w czerwcu.",
+      "angle": "Poseł, który zaczął karierę od eksperymentalnej kliniki leczenia dzieci za granicą, regularnie kolekcjonuje wnioski do komisji etyki. Recydywista sejmowy.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art45514971-kara-dla-lukasza-mejzy-od-sejmowej-komisji-etyki-jest-wniosek-poslow-ko",
+      "source": "Rzeczpospolita"
     }
   ]
 }
