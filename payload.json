@@ -1,29 +1,45 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-20",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Szef gabinetu ministra rolnictwa miał 2,2 mln długu — KOWR spłacił i wydzierżawił mu ziemię z powrotem",
+      "summary": "Stefan Krajewski (PSL), minister rolnictwa, przyjął rezygnację swojego szefa gabinetu Michała Zarzeckiego. W tle afera: państwowy KOWR przejął 2,2 mln zł długów gospodarstwa Zarzeckiego, by następnie wydzierżawić mu tę samą ziemię z powrotem aż do 2044 roku. Sprawą zajmował się białostocki oddział KOWR kierowany przez działaczkę PSL. Minister twierdzi, że wszystko odbyło się zgodnie z prawem.",
+      "angle": "Partyjny znajomy ministra dostaje od państwowej agencji oddłużenie za ponad dwa miliony, ziemię z powrotem w dzierżawę na 20 lat, a minister mówi: 'nic się nie stało'. To podręcznikowy przykład zasady 'dla swoich inaczej'.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-minister-przyjal-rezygnacje-wspolpracownika-w-tle-afera-z-ko,nIdn,1026473",
+      "source": "RMF24"
+    },
+    {
+      "title": "NBP zamroził konta Trybunału Konstytucyjnego — sędziowie nie dostają pensji",
+      "summary": "Narodowy Bank Polski od 16 listopada wstrzymał wszelkie płatności z rachunków Trybunału Konstytucyjnego. Powód: bank dostał dwa wzajemnie znoszące się zestawy dokumentów od dwóch rywalizujących 'kierownictw' TK i uznał, że nie jest właściwy do rozstrzygnięcia, kto nim rządzi. Efekt: pracownicy nie mogą dostać pensji, faktury nie są opłacane. Termin na złożenie powództwa wyznaczono na 27 listopada.",
+      "angle": "Trybunał Konstytucyjny — instytucja pilnująca porządku prawnego w Polsce — sam nie może ustalić, kto nią rządzi, więc bank po prostu zamroził kasę wszystkim. Absurd ustrojowy osiągnął nowe dno.",
+      "category": "urzędy",
+      "url": "https://www.rp.pl/banki/art45494301-burza-po-decyzji-nbp-giertych-chce-trybunalu-stanu-dla-glapinskiego",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Wiceminister MSZ z zarzutami o przywłaszczenie milionów — Tusk poczeka do grudnia",
+      "summary": "Prokuratura postawiła wiceszefowi MSZ Władysławowi Teofilowi Bartoszewskiemu (PSL) zarzuty przywłaszczenia środków — ok. 1 mln funtów, 405 tys. euro i ponad 6,6 mln zł z fundacji i dziedzictwa kulturowego. Dymisja leży na biurku premiera od ponad tygodnia. Tusk ogłosił, że poczeka na decyzję sądu, która może zapaść najwcześniej w pierwszej połowie grudnia.",
+      "angle": "Minister z zarzutami za przywłaszczenie wielu milionów trzyma się stołka, bo premier-koalicjant uznał, że trzeba 'dać sprawie czas'. Gdyby to był zwykły Polak, prokuratura nie czekałaby na wyrok cywilny.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://www.polsatnews.pl/wiadomosc/2026-11-17/tusk-zapowiada-mozliwa-dymisje-wiceministra-wskazal-termin/",
+      "source": "Polsat News"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "Kruk zarobił 753 mln zł, ale Polacy nie dostali premii — bo oddział w Hiszpanii wypadł słabo",
+      "summary": "Windykacyjna firma Kruk planuje zwolnić ok. 150 pracowników w Polsce, czyli co dziesiątego z polskiej załogi. Jednocześnie po dziewięciu miesiącach 2026 roku Grupa Kruk wykazała 753 mln zł zysku netto. Związkowcy alarmują: polscy pracownicy zrealizowali swoje cele, ale premii nie dostali, bo słabe wyniki zanotował oddział w Hiszpanii.",
+      "angle": "Realizujesz plan, zarabiasz dla firmy fortunę, ale premii nie ma bo twój kolega z Madrytu nie dowiózł cyfr. Klasyczna korporacyjna absurdoza — ryzyko globalnej grupy spada na najłatwiejszych do zwolnienia.",
+      "category": "korporacja",
+      "url": "https://newsmaxpolska.pl/gospodarka/aktualnosci/82350/kruk-zwalnia-10-proc-pracownikow-w-polsce/news",
+      "source": "Newsmax Polska"
+    },
+    {
+      "title": "Mejza w Sejmie: 'Kierwiński miał 5,19 promila w wydychanym powietrzu'. Idzie do komisji etyki",
+      "summary": "Poseł Łukasz Mejza podczas sejmowej debaty nad wotum nieufności dla ministra spraw wewnętrznych Marcina Kierwińskiego zasugerował, że ten stawił się do pracy z 5,19 promila alkoholu w wydychanym powietrzu. Dwóch posłów KO złożyło wniosek do komisji etyki. Mejza takich postępowań dobrze zna — komisja ukarała go już wcześniej za incydent z senatorem.",
+      "angle": "Poseł, który sam od lat zbiera afery jak znaczki, staje przed komisją etyki za personalne wycieczki w parlamencie. Ale żeby skompromitować się tak bardzo, że komisja etyki staje się twoim naturalnym habitatem — to już wymaga talentu.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polityka/news-519-w-wydychanym-powietrzu-kierwinskiego-czy-lukasz-mejza-od,nIdn,1026887",
+      "source": "RMF24"
     }
   ]
 }
