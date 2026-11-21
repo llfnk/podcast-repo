@@ -1,29 +1,29 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-21",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "Zawetował ustawę o blokowaniu fejków — teraz jego fejkowa strona kursuje po sieci",
+      "summary": "Prezydent Nawrocki w listopadzie zawetował ustawę DSA implementującą przepisy UE o szybkim blokowaniu nielegalnych treści w sieci, tłumacząc się troską o wolność słowa. Kilka dni później cyberprzestępcy uruchomili stronę 'NowRocky Boxing Night' sprzedającą fałszywe bilety na wymyśloną galę bokserską z jego udziałem — domena trafiła na listę ostrzeżeń CERT dopiero 18 listopada. Pałac Prezydencki biegnie teraz do ABW po pomoc, a rząd wskazuje palcem na weto jako powód, dla którego strona tak długo działała.",
+      "angle": "Człowiek, który zablokował narzędzia do usuwania nielegalnych treści z sieci, sam stał się ich ofiarą i oczekuje od państwa błyskawicznej reakcji — którą własnoręcznie utrudnił. Bonus: marka 'Nowrocky' to znak towarowy siostry prezydenta.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/polska/spor-o-falszywa-gale-z-udzialem-karola-nawrockiego-rzad-wskazuje-na-potrzebe-przyjecia-dsa-st9348290",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "'Nikt nie stoi ponad prawem' — Żurek zawiesił własną zastępczynię",
+      "summary": "Prokurator Generalny Waldemar Żurek zawiesił na 6 miesięcy swoją zastępczynię Beatę Marczak — byłą prawą rękę Ziobry i szefową departamentu ds. przestępczości zorganizowanej. Hasłem towarzyszącym decyzji było 'nikt w prokuraturze nie stoi ponad prawem ani poza kontrolą'. Zarzuty dotyczą sposobu nadzoru nad śledztwami; Marczak może odwołać się do sądu dyscyplinarnego.",
+      "angle": "Symbol odbudowy praworządności zawiesza prokuratorów z dokładnie tą samą retoryką, którą sam przez lata słyszał od obozu Ziobry. Ironia jest tak gęsta, że można ją kroić.",
+      "category": "polityka",
+      "url": "https://www.rmf24.pl/fakty/polska/news-zurek-zawiesil-swoja-zastepczynie-podejrzenie-razacej-obrazy,nIdn,1027029",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ziobrowy prokurator opublikował fejkowe zdjęcie Żurka — sąd każe mu się publicznie przeprosić",
+      "summary": "Sąd w Piotrkowie Trybunalskim nakazał prokuratorowi Michałowi Ostrowskiemu — nominatowi Ziobry, zawieszonym już za inne wykroczenia dyscyplinarne — opublikowanie na swoim koncie na X przeprosin za zmontowane zdjęcie ministra sprawiedliwości Żurka ze środkowym palcem. Wyrok zapadł 19 listopada 2026 roku.",
+      "angle": "Prokuratorzy, którzy przez lata 'stali na straży prawa', nie potrafili oprzeć się hejcie na sędziego — i teraz zamiast stawiać zarzuty, sami siedzą po drugiej stronie sali sądowej.",
+      "category": "polityka",
+      "url": "https://oko.press/porazka-prokuratora-ostrowskiego-ziobrysty-ma-przeprosic-ministra-zurka-za-znieslawienie",
+      "source": "OKO.press"
     }
   ]
 }
