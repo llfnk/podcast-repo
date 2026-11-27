@@ -1,29 +1,37 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-11-27",
   "items": [
     {
-      "title": "TV Republika wzięła 37 mln od firmy z rosyjskim śladem. Sakiewicz: ceny były konkurencyjne",
-      "summary": "Instytut Monitorowania Mediów ujawnił, że TV Republika odebrała blisko 37 mln zł — 70 proc. całego budżetu reklamowego Zondacrypto — za prawie 6000 spotów emitowanych przez dwa lata. Firma jest powiązana z rosyjską mafią i objęta śledztwem ws. oszustwa wobec 30 tys. klientów. Tomasz Sakiewicz twierdzi, że dane są zawyżone siedmiokrotnie, a ceny na jego antenie były po prostu bardziej konkurencyjne. Kaczyński ogłosił, że PiS nie ma nic wspólnego z tą firmą — choć przez dwa lata to Republika reklamowała ją swoim widzom.",
-      "angle": "Stacja budująca markę na walce z rosyjskim wpływem przez dwa lata zarabiała grube miliony na reklamach podmiotu uznanego za powiązany z rosyjską przestępczością zorganizowaną — i tłumaczy się stawkami cenowymi.",
-      "category": "media",
-      "url": "https://www.rp.pl/media/art44230831-tv-republika-zarobila-miliony-na-reklamach-zondacrypto-sakiewicz-zaprzecza",
+      "title": "Kierwiński zebrał 724 tys. zł od ludzi ze spółek Skarbu Państwa — Tusk: 'gdyby tak było, kończę współpracę'",
+      "summary": "TVN24 ujawnił, że minister MSWiA Marcin Kierwiński zebrał 724 tys. zł na kampanię wyborczą w 2023 roku, z czego ponad dwie trzecie — od 113 osób zatrudnionych w instytucjach i spółkach powiązanych z PO. Konfederacja złożyła zawiadomienie do prokuratury w sprawie możliwego płatnego patronatu. Tusk powiedział w Brukseli, że 'gdyby tak się miało okazać, kończę współpracę' — a media koalicji równolegle piszą, że 'Marcin ustoi'.",
+      "angle": "Minister nadzorujący policję i służby, który miał skończyć z systemem powiązań, sam przez lata budował siatkę darczyńców ze spółek zależnych od własnej partii — podręcznikowy 'zasady dla was, nie dla nas'.",
+      "category": "polityka",
+      "url": "https://wiadomosci.wp.pl/afera-z-wplatami-na-kampanie-w-ko-murem-za-kierwinskim-tusk-broni-ministra-marcin-ustoi-7355556458997920a",
+      "source": "WP.pl"
+    },
+    {
+      "title": "Rz ujawnia 219 działaczy koalicji Tuska w zarządach spółek — miało nie być 'po znajomości'",
+      "summary": "Rzeczpospolita przejrzała 395 spółek Skarbu Państwa i naliczyła co najmniej 219 osób powiązanych z partiami rządzącymi w ich zarządach i radach nadzorczych: 117 z PSL/Polska 2050, ok. 80 z KO, ok. 20 z Lewicy. KO szła do wyborów 2023 m.in. z hasłem końca partyjnych nominacji i odpolitycznienia spółek. Barbara Nowacka tłumaczy, że to 'normalne konkursy'.",
+      "angle": "Trzy lata po tym, jak koalicja wygrała obietnicą 'koniec układów', Rzeczpospolita znajduje 219 znajomych na państwowych posadach — i jest to wystarczająca ripoста na każde 'ale za PiS było gorzej'.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/polityka/art45514961-sami-swoi-w-spolkach-skarbu-panstwa-rz-ujawnia-na-liscie-ponad-200-nazwisk",
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Nawrocki w 9 miesięcy zawetował więcej ustaw niż Duda przez 10 lat prezydentury",
-      "summary": "Karol Nawrocki zawetował już ponad 30 ustaw od inauguracji w sierpniu 2025 r. Andrzej Duda przez całe dwie kadencje zdążył zawetować 19 ustaw, Komorowski przez 5 lat — 11. Minister Żurek alarmuje: w zaledwie 4 miesiące Nawrocki zawetował tyle co Lech Kaczyński przez całą kadencję i jeśli utrzyma tempo, do wiosny 2027 pobije łączny dorobek wszystkich poprzedników razem wziętych.",
-      "angle": "Prezydent bije historyczne rekordy blokady legislacyjnej — tyle że każde weto to konkretna ustawa, która nie wchodzi w życie, a wyborcy rzadko słyszą co dokładnie zablokował i dlaczego.",
+      "title": "CBA przeszukało siedziby PKW, Enei i Totalizatora — 10 lokalizacji, śledztwo o handel wpływami",
+      "summary": "24-26 listopada funkcjonariusze CBA weszli do siedzib Państwowej Komisji Wyborczej, Enei, Totalizatora Sportowego oraz siedmiu innych miejsc. Śledztwo szczecińskiej prokuratury obejmuje lata 2021-2024 i dotyczy podejmowania się pośrednictwa w zamian za korzyści majątkowe oraz powoływania się na wpływy w instytucjach państwowych. Nieoficjalnie przewija się wątek brata byłego wiceministra kultury Jarosława Sellina z PiS.",
+      "angle": "PKW — instytucja, która ma stać na straży czystości wyborów — sama jest teraz miejscem przeszukań CBA w śledztwie o korupcję; to coś więcej niż absurd, to system jedzący własny ogon.",
       "category": "polityka",
-      "url": "https://konkret24.tvn24.pl/polityka/karol-nawrocki-zawetowal-rekordowa-liczbe-ustaw-policzylismy-st8881758",
-      "source": "TVN24 Konkret24"
+      "url": "https://tvn24.pl/biznes/z-kraju/cba-przeszukalo-siedziby-enei-totalizatora-sportowego-i-pkw-st9357564",
+      "source": "TVN24"
     },
     {
-      "title": "Polscy medaliści bez premii. PKOl: nie stać nas na wypłatę. Neon Zondacrypto zdemontowany",
-      "summary": "Skoczkowie Kacper Tomasiak i Paweł Wąsek oraz panczenista Władimir Semirunnij, medaliści zimowych igrzysk w Mediolanie, wciąż nie dostali 950 tys. zł obiecanych przez sponsora PKOl — Zondacrypto. Termin płatności faktury minął 30 kwietnia, pieniądze nie wpłynęły. Rzeczniczka PKOl przyznała wprost: dziś nie stać nas na wypłatę. Wieczorem z siedziby komitetu zdemontowano neon tej firmy.",
-      "angle": "Sportowcy zdobyli medale dla kraju, a instytucja zarządzająca polskim olimpizmem przez dwa lata czerpała z logo firmy powiązanej z rosyjską przestępczością — i teraz tych samych sportowców zostawia bez obiecanych pieniędzy.",
-      "category": "inne",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-zimowych-igrzysk-wciaz-bez-premii-PKOl-zdejmuje-neon-gieldy-Zondacrypto-9126400.html",
-      "source": "Bankier.pl"
+      "title": "52. weto Nawrockiego blokuje ulgę podatkową dla 3,5 mln Polaków",
+      "summary": "27 listopada prezydent Karol Nawrocki zawetował nowelizację PIT, CIT i ryczałtu, którą rząd nazywał 'rewolucją podatkową'. W efekcie 3,5 mln podatników nie dostanie planowanej ulgi, a próg podatkowy nie wzrośnie. To 52. weto Nawrockiego w niecały rok prezydentury — więcej niż Duda przez dwie kadencje i więcej niż Kwaśniewski przez całe życie polityczne.",
+      "angle": "Nawrocki uzasadnia weto troską o obywateli, bo ustawa 'daje mało i odbiera większości' — ale 3,5 mln osób, którym właśnie zablokował ulgę, może mieć inne zdanie.",
+      "category": "polityka",
+      "url": "https://www.rp.pl/podatki/art45553521-dwa-kolejne-weta-prezydenta-w-sumie-zawetowal-juz-52-ustawy",
+      "source": "Rzeczpospolita"
     }
   ]
 }
